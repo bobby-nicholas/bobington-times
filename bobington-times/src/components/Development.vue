@@ -4,7 +4,7 @@
         <div class="card-content">
             <h1 class="title">New Post</h1>
             <div class="field">
-                <label class="label">Title</label>
+                Title
                 <p class="control">
                     <input class="input" type="text" v-model="post.title">
                 </p>
@@ -14,8 +14,8 @@
                 :options="editorOption">
             </quill-editor>
             <hr>
-            <button class="button is-primary" @click="savePost()">Save</button>
-            <button class="button is-primary" @click="outputPost()">Test</button>
+            <button class="button" @click="savePost()">Save</button>
+            <button class="button" @click="outputPost()">Test</button>
         </div>
     </div>
   </div>

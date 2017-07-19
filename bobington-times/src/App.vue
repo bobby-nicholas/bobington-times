@@ -13,7 +13,7 @@
       </div>
     </section>
     <div class="main">
-        <div class="columns">
+        <div class="columns is-gapless">
           <div class="column is-2">
             <div class="card">
               <aside class="menu">
@@ -51,20 +51,31 @@ export default {
 }
 </script>
 
-<style lang="scss">
-
-  #app {
-    .hero {
-      font-family: UnifrakturMaguntia;
-      .title {
-        font-size: 50px;
-      }
-    }
-    
-    .menu {
-      :hover {
-        background-color: inherit
-      }
-    }
-  }
+<style lang="sass">
+  @import "../node_modules/bulma/sass/utilities/initial-variables"
+  $body-background: $grey-dark
+  $text: $white-ter
+  $family-primary: $family-monospace
+  @import "../node_modules/bulma/bulma" 
+  .hero
+    margin: 2px
+    .title
+      font-family: UnifrakturMaguntia
+      font-size: 50px
+      text-decoration: underline
+  .card
+    background-color: $grey-darker
+    margin: 2px
+  .menu-list
+    a:hover
+      background-color: $grey-dark
+  .card-content
+    .title
+      color: $primary
+    .field
+      color: $white-ter
+    .control
+      input
+        background-color: $grey-darker
+        color: $white-ter
 </style>

@@ -2,8 +2,9 @@
   <div id="news">
       <div class="card" v-for="post in posts">
         <div class="card-content">
-            <h1 class="title">{{post.title}}<span class="is-pulled-right">{{post.date.toDateString()}}</span></h1>
-            {{post.content}}
+            <span class="is-pulled-right">{{postDate(post.date)}}</span>
+            <h1 class="title">{{post.title}}</h1>
+            <div v-html="post.content">{{post.content}}</div>
         </div>
     </div>
   </div>
@@ -11,6 +12,7 @@
 
 <script>
 import firebase from 'firebase'
+import moment from 'moment'
 export default {
   name: 'News',
   data () {
@@ -24,11 +26,17 @@ export default {
       self.posts = posts.val()
       console.log(self.posts)
     })
+  },
+  methods: {
+    postDate (date) {
+      let m = moment(date)
+      return m.format('dddd, MMMM Do YYYY')
+    }
   }
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style lang="sass">
 
 </style>
