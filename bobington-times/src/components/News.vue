@@ -6,7 +6,7 @@
             <h1 class="title">{{post.title}}</h1>
             <div v-html="post.content">{{post.content}}</div>
         </div>
-    </div>
+      </div>
   </div>
 </template>
 
@@ -17,20 +17,24 @@ export default {
   name: 'News',
   data () {
     return {
-      posts: {}
+      posts: []
     }
   },
   created: function () {
     let self = this
-    self.posts = firebase.database().ref('/posts/').once('value').then(function (posts) {
+    firebase.database().ref('posts').once('value').then(posts => {
+      console.log(posts.val())
       self.posts = posts.val()
-      console.log(self.posts)
+      self.posts.sort((a, b) => b.date - a.date)
     })
   },
   methods: {
     postDate (date) {
       let m = moment(date)
       return m.format('dddd, MMMM Do YYYY')
+    },
+    sortNews (posts) {
+      return true
     }
   }
 }

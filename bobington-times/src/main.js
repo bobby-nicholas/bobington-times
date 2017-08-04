@@ -5,7 +5,7 @@ import App from './App'
 import VueQuillEditor from 'vue-quill-editor'
 import router from './router'
 import firebase from 'firebase'
-import 'bulma/css/bulma.css'
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

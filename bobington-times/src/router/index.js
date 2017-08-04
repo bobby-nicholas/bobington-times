@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-// import Hello from '@/components/Hello'
 import News from '@/components/News'
 import Development from '@/components/Development'
+import Recording from '@/components/Recording'
 Vue.use(Router)
 
 export default new Router({
@@ -21,6 +21,11 @@ export default new Router({
       path: '/Dev',
       name: 'Development',
       component: Development
+    },
+    {
+      path: '/Recording',
+      name: 'Recording',
+      component: Recording
     }
   ]
 })

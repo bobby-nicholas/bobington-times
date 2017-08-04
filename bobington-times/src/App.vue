@@ -29,7 +29,7 @@
                 </p>
                 <ul class="menu-list">
                   <li><a>Chemical Mortar Battalion</a></li>
-                  <li><a>Recording</a></li>
+                  <li><router-link to="/Recording">Recording</router-link></li>
                 </ul>
               </aside>
             </div>
