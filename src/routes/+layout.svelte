@@ -2,12 +2,12 @@
 	import { onMount } from 'svelte';
 	import '../app.css';
 
-	let logoSize = 'h-18';
+	let logoSize = 'h-16';
 	let previousY = 0;
 	const threshold = 40;
 	onMount(() => window.addEventListener('scroll', () => {
 		if (Math.abs(window.scrollY - previousY) > threshold) {
-			logoSize = (window.scrollY > previousY) ? 'h-10' : 'h-16';
+			logoSize = (window.scrollY > previousY) ? 'h-12' : 'h-16';
 			previousY = window.scrollY;
 		}
 	}));
@@ -19,7 +19,7 @@
 			<img
 				src="https://placehold.co/600x200"
 				alt="Bobington Times Logo"
-				class="transition-all duration-300 ease-in-out {logoSize}"
+				class="transition-all duration-800 ease-in-out {logoSize}"
 			/>
 		</div>
 		<nav class="mt-4 text-center">
