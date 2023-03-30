@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     env:
-      COSMOS_DB_NAME: ${{ env.COSMOS_DB_NAME }}
+      COSMOS_DB_NAME: ${{ vars.COSMOS_DB_NAME }}
       COSMOS_KEY: ${{ secrets.COSMOS_KEY }}
-      COSMOS_ENDPOINT: ${{ env.COSMOS_ENDPOINT }}
-      ARTICLES_CONTAINER_NAME: ${{ env.ARTICLES_CONTAINER_NAME }}
+      COSMOS_ENDPOINT: ${{ vars.COSMOS_ENDPOINT }}
+      ARTICLES_CONTAINER_NAME: ${{ vars.ARTICLES_CONTAINER_NAME }}
     steps:
       - uses: actions/checkout@v2
         with:
