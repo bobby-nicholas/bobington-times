@@ -15,6 +15,7 @@ async function getById(id: string): Promise<Article | undefined> {
 }
 
 async function getByDateRange(startDate: string|null, endDate: string|null): Promise<Article[] | undefined> {
+	console.log('executing getByDateRange function');
 	return (await container.items.query<Article>({
 		query: 'SELECT * FROM articles WHERE articles.published >= @startDate AND articles.published <= @endDate',
 		parameters: [
