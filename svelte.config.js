@@ -6,11 +6,13 @@ const config = {
 	preprocess: vitePreprocess(),
 	kit: {
 		adapter: azure({
-			routes: [
-				{ route: '/api/articles', },
-				{ route: '/api/articles/[slug]', },
-			]
-		})
+			customStaticWebAppConfig: {
+				routes: [
+					{ route: '/api/articles', },
+					{ route: '/api/articles/[slug]', },
+				],
+			},
+		}),
 	}
 };
 
