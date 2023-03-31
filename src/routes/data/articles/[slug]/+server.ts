@@ -1,6 +1,5 @@
 import client from '$lib/server/articlesClient'
 import cache from '$lib/server/cache';
-
 import { json } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
 
