@@ -5,14 +5,7 @@ import { vitePreprocess } from '@sveltejs/kit/vite';
 const config = {
 	preprocess: vitePreprocess(),
 	kit: {
-		adapter: azure({
-			customStaticWebAppConfig: {
-				routes: [
-					{ route: '/api/articles', },
-					{ route: '/api/articles/[slug]', },
-				],
-			},
-		}),
+		adapter: azure(),
 	}
 };
 

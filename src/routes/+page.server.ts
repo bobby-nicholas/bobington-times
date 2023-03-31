@@ -5,6 +5,6 @@ let articles = [] as Article[];
 export const load = async ({ fetch }) => {
 	console.log(articles.length ? 'returning cached articles' : 'fetching articles');
 	if (articles.length) return { articles };
-	articles = await (await fetch('/api/articles')).json();
+	articles = await (await fetch('/data/articles')).json();
 	return { articles };
 }
