@@ -2,11 +2,13 @@ import type Article from '$lib/server/article';
 import client from '$lib/server/articlesClient'
 import { json } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
+import { retrieveResource } from '$lib/server/requestHelper';
 
-export const GET = (async ({ url }) => {
+export const GET = (async ({ url, setHeaders }) => {
 	const [startDate, endDate] = [url.searchParams.get('startDate'), url.searchParams.get('endDate')];
-	const data = await client.getByDateRange(startDate, endDate);
+	const data = await retrieveResource<Article[]>(client.getByDateRange, startDate, endDate);
 	if (!data) return new Response('An error occurred retrieving from the remote DB', { status: 500 });
+	setHeaders({ 'cache-control': 'max-age=1200' }); // 20 Minutes
 	return json(data);
 }) satisfies RequestHandler;
 
