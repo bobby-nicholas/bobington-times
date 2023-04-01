@@ -2,8 +2,7 @@ import dayjs from 'dayjs';
 import client from './dbClient';
 import type Article from "./article";
 import type { Resource } from '@azure/cosmos';
-
-const { ARTICLES_CONTAINER_NAME } = process.env;
+import { ARTICLES_CONTAINER_NAME } from '$env/static/private';
 
 if (!ARTICLES_CONTAINER_NAME)
 	throw new Error('Container name not found on the environment');
