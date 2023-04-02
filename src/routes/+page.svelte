@@ -1,23 +1,38 @@
-<style>
-.grid-container {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	grid-auto-rows: min-content;
-	grid-gap: 1rem;
-}
-</style>
 <script>
-export let data;
+    import HeadlineArticle from "$lib/components/HeadlineArticle.svelte";
+    import SecondaryArticle from "$lib/components/SecondaryArticle.svelte";
+    import TertiaryArticle from "$lib/components/TertiaryArticle.svelte";
+	export let data;
 </script>
 
-
-<h1 class="text-3xl pb-4">Bobington Times</h1>
-
-<div class="grid-container">
-	{#each data.articles as article (article.id)}
-	<div class="bg-white shadow-md rounded p-4 mb-6">
-		<h2 class="font-bold text-xl mb-2">{article.headline}</h2>
-		<p class="text-gray-700">{article.text}</p>
-	</div>
-	{/each}
+<div class="container mx-auto">
+	<div class="flex flex-col lg:flex-row">
+		<div class="w-full order-2 lg:order-1 lg:w-3/12 p2">
+			{#each data.articles as article }
+				<SecondaryArticle {article} />
+			{/each}
+		</div>
+		<div class="w-full order-1 lg:order-2 lg:w-6/12 p2">
+			{#each data.articles as article, index }
+				<HeadlineArticle {article} isPrimary={index == 0} />
+			{/each}
+		</div>
+		<div class="w-full order-3 lg:order-3 lg:w-3/12 p2">
+			{#each data.articles as article }
+				<TertiaryArticle {article} />
+			{/each}
+			{#each data.articles as article }
+				<TertiaryArticle {article} />
+			{/each}
+			{#each data.articles as article }
+				<TertiaryArticle {article} />
+			{/each}
+			{#each data.articles as article }
+				<TertiaryArticle {article} />
+			{/each}
+			{#each data.articles as article }
+				<TertiaryArticle {article} />
+			{/each}
+		</div>
+	</div>	
 </div>

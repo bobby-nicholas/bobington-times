@@ -1,13 +1,13 @@
 <script>
 	import { onMount } from 'svelte';
 	import '../app.css';
-
-	let logoSize = 'h-16';
+	import { slide } from 'svelte/transition';
+	let [logoSize, showNav] = ['h-18', true];
 	let previousY = 0;
-	const threshold = 40;
+	const threshold = 150;
 	onMount(() => window.addEventListener('scroll', () => {
 		if (Math.abs(window.scrollY - previousY) > threshold) {
-			logoSize = (window.scrollY > previousY) ? 'h-12' : 'h-16';
+			[logoSize, showNav] = (window.scrollY > previousY) ? ['h-14', false] : ['h-18', true];
 			previousY = window.scrollY;
 		}
 	}));
@@ -16,13 +16,16 @@
 <header class="w-full bg-white sticky top-0 left-0 z-50 shadow-md">
 	<div class="container mx-auto px-4 py-2">
 		<div class="flex items-center justify-center">
-			<img
-				src="https://placehold.co/600x200"
-				alt="Bobington Times Logo"
-				class="transition-all duration-800 ease-in-out {logoSize}"
-			/>
+			<a href="/">
+				<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-all duration-1000 ease-in-out {logoSize}">
+					<text font-family="'Cinzel Decorative', serif" x="400" y="75" text-anchor="middle" alignment-baseline="middle" font-size="3rem" fill="black">
+						The Bobington Times
+					</text>
+				</svg>
+			</a>
 		</div>
-		<nav class="mt-4 text-center">
+		{#if showNav}
+		<nav class="mt-4 text-center" transition:slide={{duration:500}}>
 			<a href="/" class="mx-4 text-gray-700 hover:text-gray-900 transition-colors duration-300">
 				Home
 			</a>
@@ -33,6 +36,7 @@
 				Features
 			</a>
 		</nav>
+		{/if}
 	</div>
 </header>
 <div class="container mx-auto px-4">

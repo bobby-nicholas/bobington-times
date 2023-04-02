@@ -1,4 +1,4 @@
-import type Article from '$lib/server/article';
+import type Article from '$lib/models/article';
 import type { PageLoad } from './$types';
 
 export const load = (async ({ fetch, setHeaders }) => {

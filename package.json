@@ -33,6 +33,7 @@
 		"@azure/cosmos": "^3.17.3",
 		"dayjs": "^1.11.7",
 		"dotenv": "^16.0.3",
-		"node-cache": "^5.1.2"
+		"node-cache": "^5.1.2",
+		"openai": "^3.2.1"
 	}
 }

@@ -1,6 +1,6 @@
 import dayjs from 'dayjs';
 import client from './dbClient';
-import type Article from "./article";
+import type Article from '$lib/models/article';
 import type { Resource } from '@azure/cosmos';
 import { ARTICLES_CONTAINER_NAME } from '$env/static/private';
 

@@ -1,4 +1,4 @@
-import type Article from '$lib/server/article';
+import type Article from '$lib/models/article';
 import client from '$lib/server/articlesClient'
 import { json } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';

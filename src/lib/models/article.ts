@@ -4,6 +4,8 @@ export default interface Article {
 	author?: string;
 	section?: string;
 	headline: string;
+	summary: string;
 	text: string;
+	photo: string;
 	tags?: string[];
 }
