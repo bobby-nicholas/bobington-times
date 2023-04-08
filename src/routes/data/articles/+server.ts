@@ -3,6 +3,8 @@ import client from '$lib/server/articlesClient'
 import { json } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
 import { retrieveResource } from '$lib/server/requestHelper';
+import type PublishingOptions from '$lib/models/publishing-options';
+import publisher from '$lib/server/newsroom/publisher';
 
 export const GET = (async ({ url, setHeaders }) => {
 	const [startDate, endDate] = [url.searchParams.get('startDate'), url.searchParams.get('endDate')];
@@ -13,8 +15,8 @@ export const GET = (async ({ url, setHeaders }) => {
 }) satisfies RequestHandler;
 
 export const POST = (async ({ request }) => {
-	const article = (await request.json()) satisfies Article;
-	const resource = await client.add(article);
-	if (!resource) return new Response(null, { status: 500 });
-	return new Response(null, { status:204 });
+	const options = (await request.json()) satisfies Partial<PublishingOptions>;
+	// if (!await publisher.publish(options)) return new Response(null, { status: 500 });
+	publisher.publish(options);
+	return new Response(null, { status:201 });
 }) satisfies RequestHandler;

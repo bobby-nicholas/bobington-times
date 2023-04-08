@@ -3,3 +3,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#article-content > p {
+	padding: 1rem 0;
+}
+
+#article-content > ul {
+	list-style-type: square;
+	margin-left: 1rem;
+}

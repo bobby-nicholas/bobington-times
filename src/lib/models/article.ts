@@ -1,11 +1,16 @@
+import type Section from "./section";
+
 export default interface Article {
-	id?: string;
+	id: string;
 	published: Date;
-	author?: string;
-	section?: string;
+	author: string;
+	section: Section;
 	headline: string;
-	summary: string;
-	text: string;
-	photo: string;
-	tags?: string[];
+	lead: string;
+	content: string;
+	photo?: {
+		src: string;
+		description: string;
+	};
+	tags: string[];
 }

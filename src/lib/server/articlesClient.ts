@@ -10,7 +10,7 @@ if (!ARTICLES_CONTAINER_NAME)
 const container = client.container(ARTICLES_CONTAINER_NAME);
 
 async function getById(id: string): Promise<Article | undefined> {
-	return (await container.item(id).read<Article>()).resource;
+	return (await container.item(id, id).read<Article>()).resource;
 }
 
 async function getByDateRange(startDate: string|null, endDate: string|null): Promise<Article[] | undefined> {
@@ -23,7 +23,7 @@ async function getByDateRange(startDate: string|null, endDate: string|null): Pro
 	}).fetchAll()).resources;
 }
 
-async function add(item: Article): Promise<Resource | undefined> {
+async function add(item: Partial<Article>): Promise<Resource | undefined> {
 	return (await container.items.create(item)).resource;
 }
 

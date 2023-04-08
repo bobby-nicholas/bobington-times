@@ -19,6 +19,8 @@ jobs:
       COSMOS_KEY: ${{ secrets.COSMOS_KEY }}
       COSMOS_ENDPOINT: ${{ vars.COSMOS_ENDPOINT }}
       ARTICLES_CONTAINER_NAME: ${{ vars.ARTICLES_CONTAINER_NAME }}
+      BLOB_CONNECTION_STRING: ${{ secrets.BLOB_CONNECTION_STRING }}
+      BLOB_CONTAINER_NAME: ${{ vars.BLOB_CONTAINER_NAME }}
       OPEN_AI_KEY: ${{ secrets.OPEN_AI_KEY }}
     steps:
       - uses: actions/checkout@v2

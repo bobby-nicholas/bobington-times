@@ -13,6 +13,10 @@
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/kit": "^1.5.0",
+		"@types/lodash.chunk": "^4.2.7",
+		"@types/lodash.reverse": "^4.0.7",
+		"@types/lodash.sortby": "^4.7.7",
+		"@types/marked": "^4.0.8",
 		"@types/node": "^18.15.10",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
@@ -31,8 +35,13 @@
 	"type": "module",
 	"dependencies": {
 		"@azure/cosmos": "^3.17.3",
+		"@azure/storage-blob": "^12.13.0",
 		"dayjs": "^1.11.7",
 		"dotenv": "^16.0.3",
+		"lodash.chunk": "^4.2.0",
+		"lodash.reverse": "^4.0.1",
+		"lodash.sortby": "^4.7.0",
+		"marked": "^4.3.0",
 		"node-cache": "^5.1.2",
 		"openai": "^3.2.1"
 	}
