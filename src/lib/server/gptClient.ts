@@ -13,9 +13,7 @@ const TEMPERATURE = 1;
 
 const IMAGE_FORMAT = 'b64_json' as ImageFormats;
 
-const IMAGE_SIZE = '512x512' as ImageSize;
-
-const DALLE_2_MODEL = 'dalle-2';
+const IMAGE_SIZE = '1024x1024' as ImageSize;
 
 const MAX_DALLE_PROMPT_LENGTH = 999;
 

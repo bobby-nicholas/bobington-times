@@ -15,17 +15,17 @@ $: tertiaryArticles = chunks[2];
 </script>
 
 <div class="flex flex-col lg:flex-row">
-	<div class="w-full order-2 lg:order-1 lg:w-3/12 p2">
+	<div class="w-full order-2 lg:order-1 lg:w-3/12">
 		{#each secondaryArticles as article }
 		<SecondaryArticle {article} />
 		{/each}
 	</div>
-	<div class="w-full order-1 lg:order-2 lg:w-6/12 p2">
+	<div class="w-full order-1 lg:order-2 lg:w-6/12">
 		{#each primaryArticles as article, index }
 		<HeadlineArticle {article} isPrimary={index == 0} />
 		{/each}
 	</div>
-	<div class="w-full order-3 lg:order-3 lg:w-3/12 p2">
+	<div class="w-full order-3 lg:order-3 lg:w-3/12">
 		{#each tertiaryArticles as article }
 		<TertiaryArticle {article} />
 		{/each}
