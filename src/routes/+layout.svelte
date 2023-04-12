@@ -12,7 +12,16 @@
 		}
 	}));
 </script>
-
+<svelte:head>
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<title>The Bobington Times</title>
+</svelte:head>
 <header class="w-full bg-white sticky top-0 left-0 z-50 shadow-md">
 	<div class="container mx-auto px-4 py-2">
 		<div class="flex items-center justify-center">
@@ -39,6 +48,6 @@
 		{/if} -->
 	</div>
 </header>
-<div class="container mx-auto px-4">
+<div class="container mx-auto">
 	<slot />
 </div>
