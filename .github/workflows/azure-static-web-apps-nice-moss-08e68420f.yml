@@ -22,6 +22,7 @@ jobs:
       BLOB_CONNECTION_STRING: ${{ secrets.BLOB_CONNECTION_STRING }}
       BLOB_CONTAINER_NAME: ${{ vars.BLOB_CONTAINER_NAME }}
       OPEN_AI_KEY: ${{ secrets.OPEN_AI_KEY }}
+      PUBLISHING_KEY: ${{ secrets.PUBLISHING_KEY }}
     steps:
       - uses: actions/checkout@v2
         with:
