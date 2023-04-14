@@ -12,7 +12,7 @@ export let article: Article;
 		{/if}
 		<div class="flex flex-col justify-start">
 			<p class="text-neutral-600 text-xs text-left">{article.headline}</p>
-			<p class="text-xs text-neutral-500 italic">{article.author}, {new Date(article.published).toDateString()}</p>
+			<p class="text-xs text-neutral-500 italic text-right">{article.author}, {new Date(article.published).toDateString()}</p>
 		</div>
 	</a>
 </ArticleContainer>

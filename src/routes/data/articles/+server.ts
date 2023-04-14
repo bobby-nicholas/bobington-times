@@ -5,6 +5,8 @@ import type { RequestHandler } from './$types';
 import { retrieveResource } from '$lib/server/requestHelper';
 import type PublishingOptions from '$lib/models/publishing-options';
 import publisher from '$lib/server/newsroom/publisher';
+import { receivePubComplete, receivePubMessage } from '$lib/server/events';
+import { PUBLISHING_KEY } from '$env/static/private';
 
 export const GET = (async ({ url, setHeaders }) => {
 	const [startDate, endDate] = [url.searchParams.get('startDate'), url.searchParams.get('endDate')];
@@ -15,8 +17,15 @@ export const GET = (async ({ url, setHeaders }) => {
 }) satisfies RequestHandler;
 
 export const POST = (async ({ request }) => {
+	const { headers } = request;
+	if (headers.get('x-publishing-key') !== PUBLISHING_KEY) return new Response(null, { status: 401 });
 	const options = (await request.json()) satisfies Partial<PublishingOptions>;
-	// if (!await publisher.publish(options)) return new Response(null, { status: 500 });
-	publisher.publish(options);
-	return new Response(null, { status:201 });
+	const stream = new ReadableStream({
+		start(controller) {
+			receivePubMessage((message: string) => controller.enqueue(message));
+			receivePubComplete(() => controller.close());
+			publisher.publish(options);
+		}
+	});
+	return new Response(stream, { headers: { 'content-type': 'text/event-stream' }});
 }) satisfies RequestHandler;
