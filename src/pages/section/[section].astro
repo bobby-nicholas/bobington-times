@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Masthead from '../../components/Masthead.astro';
+import Footer from '../../components/Footer.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import SectionHeader from '../../components/SectionHeader.astro';
+
+const sectionNames: Record<string, string> = {
+  news: 'Local News',
+  international: 'International',
+  sports: 'Sports',
+  arts: 'Arts & Culture',
+  opinion: 'Opinion',
+};
+
+export async function getStaticPaths() {
+  return ['news', 'international', 'sports', 'arts', 'opinion'].map((section) => ({
+    params: { section },
+  }));
+}
+
+const { section } = Astro.params;
+const sectionTitle = sectionNames[section!] || section!;
+
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter((a) => a.data.section === section)
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const lead = articles[0];
+const rest = articles.slice(1);
+---
+
+<BaseLayout title={sectionTitle}>
+  <Masthead />
+
+  <main class="container">
+    <SectionHeader title={sectionTitle} />
+
+    {lead && (
+      <div class="section-lead">
+        <ArticleCard
+          title={lead.data.title}
+          slug={lead.id}
+          section={lead.data.section}
+          author={lead.data.author}
+          date={lead.data.date}
+          summary={lead.data.summary}
+          image={lead.data.image}
+          imageCaption={lead.data.imageCaption}
+          size="large"
+          showImage={true}
+          showSummary={true}
+        />
+        <hr class="rule rule--light" />
+      </div>
+    )}
+
+    {rest.length > 0 && (
+      <div class="section-grid columns columns--3">
+        {rest.map((article) => (
+          <div class="section-grid__item">
+            <ArticleCard
+              title={article.data.title}
+              slug={article.id}
+              section={article.data.section}
+              author={article.data.author}
+              date={article.data.date}
+              summary={article.data.summary}
+              size="medium"
+              showSummary={true}
+            />
+          </div>
+        ))}
+      </div>
+    )}
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .section-lead {
+    max-width: 780px;
+    margin: 0 auto 2rem;
+  }
+
+  .section-grid {
+    margin-top: 1.5rem;
+  }
+
+  .section-grid__item {
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-rule-light);
+  }
+</style>

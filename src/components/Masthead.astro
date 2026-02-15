@@ -1,0 +1,148 @@
+---
+const today = new Date();
+const day = today.getDate();
+const weekday = today.toLocaleDateString('en-GB', { weekday: 'long' });
+const month = today.toLocaleDateString('en-GB', { month: 'long' });
+const year = today.getFullYear();
+const dateStr = `${weekday}, ${day} ${month} ${year}`;
+---
+
+<header class="masthead">
+  <div class="container">
+    <div class="masthead__top">
+      <hr class="rule rule--thick" />
+      <div class="masthead__meta">
+        <span class="masthead__edition">Late Edition</span>
+        <span class="masthead__weather">Today: Fair skies over Bobington, high near 17°C</span>
+      </div>
+    </div>
+
+    <div class="masthead__center">
+      <div class="masthead__flanker masthead__flanker--left">
+        <div class="masthead__motto">"All the News<br />Fit for Bobington"</div>
+      </div>
+
+      <a href="/" class="masthead__title-link">
+        <h1 class="masthead-title">The Bobington Times</h1>
+      </a>
+
+      <div class="masthead__flanker masthead__flanker--right">
+        <div class="masthead__date">{dateStr}</div>
+        <div class="masthead__vol">Vol. CLXII · No. 56,234</div>
+      </div>
+    </div>
+
+    <hr class="rule rule--double" />
+
+    <nav class="masthead__nav">
+      <a href="/">Front Page</a>
+      <a href="/section/news">Local News</a>
+      <a href="/section/international">International</a>
+      <a href="/section/sports">Sports</a>
+      <a href="/section/arts">Arts & Culture</a>
+      <a href="/section/opinion">Opinion</a>
+    </nav>
+
+    <hr class="rule" />
+  </div>
+</header>
+
+<style>
+  .masthead {
+    padding-top: 0.5rem;
+  }
+
+  .masthead__top {
+    margin-bottom: 0.5rem;
+  }
+
+  .masthead__meta {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--font-body);
+    font-size: 0.7rem;
+    color: var(--color-muted);
+    padding: 0.3rem 0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .masthead__center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.8rem 0;
+    gap: 2rem;
+  }
+
+  .masthead__title-link {
+    text-decoration: none;
+    color: var(--color-ink);
+  }
+
+  .masthead__title-link:hover {
+    color: var(--color-ink);
+  }
+
+  .masthead__flanker {
+    flex: 1;
+    font-family: var(--font-headline);
+    font-size: 0.7rem;
+    color: var(--color-muted);
+    text-align: center;
+    line-height: 1.4;
+  }
+
+  .masthead__flanker--right {
+    text-align: center;
+  }
+
+  .masthead__motto {
+    font-style: italic;
+    font-size: 0.75rem;
+  }
+
+  .masthead__vol {
+    margin-top: 0.2rem;
+  }
+
+  .masthead__nav {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 0.6rem 0;
+    font-family: var(--font-headline);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .masthead__nav a {
+    color: var(--color-ink);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+
+  .masthead__nav a:hover {
+    color: var(--color-accent);
+  }
+
+  @media (max-width: 700px) {
+    .masthead__flanker {
+      display: none;
+    }
+
+    .masthead__nav {
+      flex-wrap: wrap;
+      gap: 0.8rem 1.5rem;
+      font-size: 0.7rem;
+    }
+
+    .masthead__meta {
+      flex-direction: column;
+      align-items: center;
+      gap: 0.2rem;
+    }
+  }
+</style>

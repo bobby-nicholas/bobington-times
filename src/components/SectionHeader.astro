@@ -1,0 +1,29 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<div class="section-header">
+  <hr class="rule" />
+  <h2 class="section-header__title">{title}</h2>
+  <hr class="rule rule--light" />
+</div>
+
+<style>
+  .section-header {
+    margin: 2rem 0 1rem;
+  }
+
+  .section-header__title {
+    font-family: var(--font-headline);
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    text-align: center;
+    padding: 0.5rem 0;
+  }
+</style>

@@ -1,0 +1,27 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = 'The Bobington Times', description = 'The newspaper of record for the great city of Bobington.' } = Astro.props;
+const fullTitle = title === 'The Bobington Times' ? title : `${title} — The Bobington Times`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{fullTitle}</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+
+<style is:global>
+  @import '../styles/global.css';
+</style>

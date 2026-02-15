@@ -1,0 +1,280 @@
+/* ===================================
+   The Bobington Times — Global Styles
+   Old-Timey New York Times Aesthetic
+   =================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=UnifrakturMaguntia&display=swap');
+
+:root {
+  --color-ink: #1a1a1a;
+  --color-paper: #f5f0e8;
+  --color-paper-dark: #e8e0d0;
+  --color-rule: #2a2a2a;
+  --color-rule-light: #c8c0b0;
+  --color-accent: #8b0000;
+  --color-muted: #666;
+
+  --font-masthead: 'UnifrakturMaguntia', cursive;
+  --font-headline: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'Lora', Georgia, 'Times New Roman', serif;
+
+  --max-width: 1200px;
+  --column-gap: 1.5rem;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-ink);
+  background-color: var(--color-paper);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: var(--color-ink);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+/* --- Utility Rules --- */
+
+.rule {
+  border: none;
+  border-top: 1px solid var(--color-rule);
+  margin: 0;
+}
+
+.rule--thick {
+  border-top-width: 3px;
+}
+
+.rule--double {
+  border-top: 3px double var(--color-rule);
+}
+
+.rule--light {
+  border-top-color: var(--color-rule-light);
+}
+
+/* --- Typography --- */
+
+.masthead-title {
+  font-family: var(--font-masthead);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.section-label {
+  font-family: var(--font-headline);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}
+
+.headline {
+  font-family: var(--font-headline);
+  font-weight: 900;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+
+.headline--hero {
+  font-size: clamp(2rem, 4vw, 3.2rem);
+}
+
+.headline--large {
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+}
+
+.headline--medium {
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+}
+
+.headline--small {
+  font-size: 1rem;
+}
+
+.byline {
+  font-family: var(--font-headline);
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--color-muted);
+}
+
+.dateline {
+  font-family: var(--font-headline);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-muted);
+}
+
+.summary {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #333;
+}
+
+.dropcap::first-letter {
+  font-family: var(--font-headline);
+  float: left;
+  font-size: 4.5em;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  margin-top: 0.05em;
+  font-weight: 900;
+}
+
+/* --- Layout --- */
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.columns {
+  display: grid;
+  gap: var(--column-gap);
+}
+
+.columns--2 { grid-template-columns: 1fr 1fr; }
+.columns--3 { grid-template-columns: 1fr 1fr 1fr; }
+.columns--4 { grid-template-columns: 1fr 1fr 1fr 1fr; }
+.columns--featured { grid-template-columns: 2fr 1fr; }
+.columns--sidebar { grid-template-columns: 1fr 300px; }
+
+.column-span-2 { grid-column: span 2; }
+.column-span-3 { grid-column: span 3; }
+
+/* Column dividers using border */
+.column-divider {
+  border-left: 1px solid var(--color-rule-light);
+  padding-left: var(--column-gap);
+}
+
+/* --- Spacing --- */
+
+.space-xs { margin-bottom: 0.25rem; }
+.space-sm { margin-bottom: 0.5rem; }
+.space-md { margin-bottom: 1rem; }
+.space-lg { margin-bottom: 1.5rem; }
+.space-xl { margin-bottom: 2rem; }
+
+.pad-sm { padding: 0.5rem; }
+.pad-md { padding: 1rem; }
+.pad-lg { padding: 1.5rem; }
+
+/* --- Article Body --- */
+
+.article-body {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  line-height: 1.75;
+  max-width: 680px;
+}
+
+.article-body p {
+  margin-bottom: 1.2em;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.article-body h2 {
+  font-family: var(--font-headline);
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 2em 0 0.8em;
+}
+
+.article-body blockquote {
+  border-left: 3px solid var(--color-rule);
+  padding-left: 1.2em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: #444;
+}
+
+.article-body figure {
+  margin: 2em 0;
+}
+
+.article-body figcaption {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+/* --- Image Treatments --- */
+
+.article-image {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  filter: grayscale(15%) contrast(1.05);
+}
+
+.article-image--portrait {
+  aspect-ratio: 2 / 3;
+}
+
+/* --- Responsive --- */
+
+@media (max-width: 900px) {
+  .columns--3,
+  .columns--4 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .columns--featured,
+  .columns--sidebar {
+    grid-template-columns: 1fr;
+  }
+
+  .column-span-2,
+  .column-span-3 {
+    grid-column: span 1;
+  }
+
+  .column-divider {
+    border-left: none;
+    padding-left: 0;
+    border-top: 1px solid var(--color-rule-light);
+    padding-top: var(--column-gap);
+  }
+}
+
+@media (max-width: 600px) {
+  .columns--2 {
+    grid-template-columns: 1fr;
+  }
+
+  .masthead-title {
+    font-size: 2.2rem;
+  }
+}

@@ -1,0 +1,120 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Masthead from '../components/Masthead.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  section: string;
+  author: string;
+  authorTitle?: string;
+  date: Date;
+  image?: string;
+  imageCaption?: string;
+}
+
+const { title, subtitle, section, author, authorTitle, date, image, imageCaption } = Astro.props;
+const day = date.getDate();
+const weekday = date.toLocaleDateString('en-GB', { weekday: 'long' });
+const month = date.toLocaleDateString('en-GB', { month: 'long' });
+const year = date.getFullYear();
+const dateStr = `${weekday}, ${day} ${month} ${year}`;
+
+const sectionNames: Record<string, string> = {
+  news: 'Local News',
+  international: 'International',
+  sports: 'Sports',
+  arts: 'Arts & Culture',
+  opinion: 'Opinion',
+};
+---
+
+<BaseLayout title={title}>
+  <Masthead />
+
+  <main class="container">
+    <article class="article">
+      <header class="article__header">
+        <a href={`/section/${section}`} class="section-label">{sectionNames[section] || section}</a>
+        <h1 class="headline headline--hero article__title">{title}</h1>
+        {subtitle && <p class="article__subtitle">{subtitle}</p>}
+        <hr class="rule rule--light" />
+        <div class="article__meta">
+          <span class="article__author">
+            By <strong>{author}</strong>{authorTitle && `, ${authorTitle}`}
+          </span>
+          <span class="dateline">{dateStr}</span>
+        </div>
+        <hr class="rule rule--light" />
+      </header>
+
+      {image && (
+        <figure class="article__hero-image">
+          <img src={image} alt={imageCaption || title} class="article-image" />
+          {imageCaption && <figcaption>{imageCaption}</figcaption>}
+        </figure>
+      )}
+
+      <div class="article-body dropcap">
+        <slot />
+      </div>
+    </article>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .article {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 1.5rem 0 3rem;
+  }
+
+  .article__header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .article__title {
+    margin: 0.5rem 0;
+  }
+
+  .article__subtitle {
+    font-family: var(--font-headline);
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #444;
+    margin-bottom: 1rem;
+  }
+
+  .article__meta {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 0.6rem 0;
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+  }
+
+  .article__author {
+    color: var(--color-ink);
+  }
+
+  .article__hero-image {
+    margin: 0 0 2rem;
+  }
+
+  .article__hero-image figcaption {
+    font-size: 0.8rem;
+    color: var(--color-muted);
+    font-style: italic;
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+
+  .article-body {
+    margin: 0 auto;
+  }
+</style>

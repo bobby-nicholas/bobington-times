@@ -1,0 +1,62 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="container">
+    <hr class="rule rule--double" />
+    <div class="footer__inner">
+      <div class="footer__brand">The Bobington Times</div>
+      <nav class="footer__nav">
+        <a href="/">Front Page</a>
+        <a href="/section/news">News</a>
+        <a href="/section/international">International</a>
+        <a href="/section/sports">Sports</a>
+        <a href="/section/arts">Arts</a>
+        <a href="/section/opinion">Opinion</a>
+      </nav>
+      <div class="footer__copy">
+        &copy; {year} The Bobington Times. All happenings entirely fictional.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    margin-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  .footer__inner {
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+
+  .footer__brand {
+    font-family: var(--font-masthead);
+    font-size: 1.5rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .footer__nav {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    font-family: var(--font-headline);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 1rem;
+  }
+
+  .footer__nav a {
+    color: var(--color-muted);
+  }
+
+  .footer__copy {
+    font-size: 0.7rem;
+    color: var(--color-muted);
+    font-style: italic;
+  }
+</style>

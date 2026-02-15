@@ -1,0 +1,148 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Masthead from '../components/Masthead.astro';
+import Footer from '../components/Footer.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import SectionHeader from '../components/SectionHeader.astro';
+
+const allArticles = await getCollection('articles');
+const sorted = allArticles.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+// Featured / lead story
+const featured = sorted.find((a) => a.data.featured) || sorted[0];
+const remaining = sorted.filter((a) => a.id !== featured.id);
+
+// Group by section for below-the-fold
+const sections: Record<string, typeof sorted> = {};
+for (const article of remaining) {
+  const s = article.data.section;
+  if (!sections[s]) sections[s] = [];
+  sections[s].push(article);
+}
+
+// Top stories (non-featured, first few)
+const topStories = remaining.slice(0, 3);
+const belowFold = remaining.slice(3);
+
+const sectionNames: Record<string, string> = {
+  news: 'Local News',
+  international: 'International',
+  sports: 'Sports',
+  arts: 'Arts & Culture',
+  opinion: 'Opinion',
+};
+---
+
+<BaseLayout>
+  <Masthead />
+
+  <main class="container">
+    <!-- ABOVE THE FOLD -->
+    <section class="above-fold">
+      <div class="above-fold__lead">
+        <ArticleCard
+          title={featured.data.title}
+          slug={featured.id}
+          section={featured.data.section}
+          author={featured.data.author}
+          date={featured.data.date}
+          summary={featured.data.summary}
+          image={featured.data.image}
+          imageCaption={featured.data.imageCaption}
+          size="hero"
+          showImage={true}
+          showSummary={true}
+        />
+      </div>
+
+      <div class="above-fold__sidebar column-divider">
+        {topStories.map((article, i) => (
+          <div class="sidebar-item">
+            <ArticleCard
+              title={article.data.title}
+              slug={article.id}
+              section={article.data.section}
+              author={article.data.author}
+              date={article.data.date}
+              summary={article.data.summary}
+              size="small"
+              showSummary={false}
+            />
+            {i < topStories.length - 1 && <hr class="rule rule--light" />}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <hr class="rule" />
+
+    <!-- BELOW THE FOLD -->
+    {belowFold.length > 0 && (
+      <section class="below-fold columns columns--3">
+        {belowFold.map((article) => (
+          <div class="below-fold__item">
+            <ArticleCard
+              title={article.data.title}
+              slug={article.id}
+              section={article.data.section}
+              author={article.data.author}
+              date={article.data.date}
+              summary={article.data.summary}
+              size="medium"
+              showSummary={true}
+            />
+          </div>
+        ))}
+      </section>
+    )}
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .above-fold {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: var(--column-gap);
+    padding: 1.5rem 0;
+  }
+
+  .above-fold__lead {
+    padding-right: 0;
+  }
+
+  .above-fold__sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .sidebar-item {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .below-fold {
+    padding: 1.5rem 0;
+  }
+
+  .below-fold__item {
+    padding-bottom: 1rem;
+  }
+
+  @media (max-width: 900px) {
+    .above-fold {
+      grid-template-columns: 1fr;
+    }
+
+    .above-fold__sidebar {
+      border-left: none;
+      padding-left: 0;
+      border-top: 1px solid var(--color-rule-light);
+      padding-top: 1rem;
+    }
+  }
+</style>

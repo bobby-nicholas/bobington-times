@@ -1,0 +1,86 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  section: string;
+  author: string;
+  date: Date;
+  summary: string;
+  image?: string;
+  imageCaption?: string;
+  size?: 'hero' | 'large' | 'medium' | 'small';
+  showImage?: boolean;
+  showSummary?: boolean;
+}
+
+const {
+  title,
+  slug,
+  section,
+  author,
+  date,
+  summary,
+  image,
+  imageCaption,
+  size = 'medium',
+  showImage = false,
+  showSummary = true,
+} = Astro.props;
+
+const headlineClass = `headline headline--${size === 'hero' ? 'hero' : size === 'large' ? 'large' : size === 'small' ? 'small' : 'medium'}`;
+const href = `/articles/${slug}`;
+const dateStr = `${date.getDate()} ${date.toLocaleDateString('en-GB', { month: 'long' })} ${date.getFullYear()}`;
+---
+
+<article class={`article-card article-card--${size}`}>
+  {showImage && image && (
+    <a href={href} class="article-card__image-link">
+      <img src={image} alt={imageCaption || title} class="article-image" />
+      {imageCaption && <figcaption class="article-card__caption">{imageCaption}</figcaption>}
+    </a>
+  )}
+
+  <div class="article-card__text">
+    <span class="section-label">{section}</span>
+    <h2 class={headlineClass}>
+      <a href={href}>{title}</a>
+    </h2>
+    <div class="byline">By {author} · {dateStr}</div>
+    {showSummary && <p class="summary space-sm">{summary}</p>}
+  </div>
+</article>
+
+<style>
+  .article-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .article-card__text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .article-card__image-link {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .article-card__caption {
+    font-size: 0.75rem;
+    color: var(--color-muted);
+    font-style: italic;
+    margin-top: 0.3rem;
+  }
+
+  .headline a {
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+
+  .headline a:hover {
+    color: var(--color-accent);
+  }
+</style>
