@@ -46,7 +46,7 @@ When triggered by cron to publish a new edition, follow this process:
 - Cross-reference established lore from MEMORY.md
 
 ### Phase 3: Photography
-- For each article (or at minimum the featured article), generate an image using nano-banana-pro
+- Generate ONE image per edition: for the featured article only. (Bob's standing instruction — revert to per-article images when notified.)
 - Save images to `public/images/` with descriptive filenames
 - Image prompts should evoke the old-timey newspaper aesthetic: think early press photography, slightly desaturated, editorial composition
 - Update the article frontmatter with the image path and caption
