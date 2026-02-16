@@ -24,17 +24,24 @@ See `lore/_index.md` for the full table of contents. Key files:
 
 These are the threads currently in play. Pick 2-3 to advance each edition, and introduce 1-2 new ones.
 
-1. **Kaelmar Strait Crisis** — Ambassador recalled, 11+ warships, copper at 847 fl/tonne (12-year high). Will it escalate? Mediation? Impact on Bobington trade and tramway budget. → `lore/international.md`
-2. **Greystone Wharf Arson** — Accelerant confirmed, Metropolitan Constabulary investigating. Ashcroft Property Group under suspicion (inflated insurance, tax dispute). Building inspection reform push. → `lore/economy.md`, `lore/people.md`
-3. **Tramway Construction** — Approved, breaks ground autumn. Copper prices threaten budget. Business displacement concerns. → `lore/economy.md`, `lore/politics.md`
-4. **Rovers Cup Parade** (18 Feb) — Parade route planned, Freedom of the City ceremony, 150,000 expected. Then: league survival battle, Haverford Town Saturday. → `lore/sports.md`
-5. **Hargrove Retrospective** — 8,000+ opening weekend, massive public response. Critical reception? Hargrove's reaction to fame? → `lore/arts-culture.md`
-6. **Copper Crisis** — Prices rippling through economy: construction, plumbing, tramway budget, consumer goods. → `lore/economy.md`
-7. **Mayor Blackthorne's Agenda** — Tramway champion, Freedom of the City presenter. What's her broader platform? → `lore/politics.md`
+1. **Kaelmar Strait Crisis & Mediation** — Ashford Republic proposed Fenmouth mediation; Thessarine cautiously welcoming, Delvaria rejected. Bobington sent envoy Sir Duncan Hale to Thessara. Shipping insurance doubled, rerouting via Cape of Sarenne. Copper at 843 fl/tonne. Will Delvaria come to the table? → `lore/international.md`
+2. **Greystone Wharf Arson Investigation** — Constabulary searched Ashcroft offices (17 Feb). Former night watchman providing testimony (dismissed 6 weeks before fire, told to stop rounds). Solicitor Edmond Crayle retained. Pryce demands Docklands safety audit. What do the seized records reveal? → `lore/people.md`, `lore/institutions.md`
+3. **Tramway Budget Crisis** — Emergency council session Wednesday 19 Feb. Potential 380-420M florin overrun if copper stays high. Voss faction vindicated. Pryce pushes to accelerate procurement. Greymoor domestic copper insufficient (~2,000 vs ~12,000 tonnes needed). → `lore/economy.md`, `lore/politics.md`
+4. **Rovers: Parade Tomorrow, Then Survival** — Cup parade Tuesday 18 Feb. Blackshaw (knee) and Osei (hamstring) doubtful for Haverford Saturday. 15th in table, 3 pts above relegation, 14 matches left. Corbett's contract expires end of season. First league sellout expected. → `lore/sports.md`
+5. **Hargrove Retrospective** — 8,000+ opening weekend. Critical acclaim (Montrose review). Needs fresh angle: Hargrove's personal reaction? Art market impact? New voices? → `lore/arts-culture.md`
+6. **Copper Crisis — Economic Ripple** — Eastern spice prices up 8-15%. Shipping costs soaring. Domestic copper exploration? Consumer impact deepening. → `lore/economy.md`
+7. **Mayor Blackthorne's Agenda** — Convened emergency session on copper. Presenting Freedom of the City Tuesday. Navigating between modernisers and fiscal conservatives. → `lore/politics.md`
 
 ---
 
 ## Recent Editions
+
+### Edition: 17 February 2026
+- Constabulary searches Ashcroft Property Group offices; former night watchman testifies
+- Ashford Republic proposes Kaelmar mediation at Fenmouth; Delvaria rejects (FEATURED)
+- Mayor convenes emergency council session (Wed) on copper prices and tramway budget overrun
+- Rovers face injury concerns (Blackshaw, Osei) ahead of parade and Haverford match
+- Pemberton column: "On the Virtue of Standing in the Cold" (parade-eve reflection)
 
 ### Edition: 16 February 2026
 - Arson confirmed at Greystone Wharf (accelerant found, Ashcroft under suspicion)

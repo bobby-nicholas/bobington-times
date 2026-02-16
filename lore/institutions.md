@@ -15,9 +15,12 @@
 - **Bobington Historical Preservation Society** — Heritage advocacy. Chairwoman: Louisa Marchbank.
 
 ## Commerce & Business
-- **Bobington Merchants' Guild** — Business organisation
+- **Bobington Merchants' Guild** — Business organisation. Guildmaster: Hadrian Voss (6 years). Reporting doubled shipping insurance premiums due to Kaelmar crisis.
+- **Miners' Cooperative of Greymoor** — Small-scale copper mining operations in Greymoor Highlands. Chairman: Nils Haversten. ~2,000 tonnes annual output.
 - **Bramblegate Exchange** — Commodities exchange
-- **Ashcroft Property Group** — Property company. Managing director: Gerald Ashcroft. Under suspicion re: Greystone fire.
+- **Ashcroft Property Group** — Property company. Harker Street, Midtown. Managing director: Gerald Ashcroft. Under suspicion re: Greystone fire. Offices searched by Constabulary 17 Feb.
+- **Crayle, Whitford & Associates** — Prominent Bobington legal firm. Solicitor Edmond Crayle retained by Ashcroft.
+- **Bobington Institute for Foreign Affairs** — Academic institution. Professor Elias Thornbury, diplomatic historian.
 - **Fernwich Trading House** — Financial firm. Analyst: Clement Varga.
 - **Fairweather & Chalk** — Insurance firm. Underwrote Ashcroft's warehouse policy.
 - **Helmsford's** — Long-established bakery, Ashbury Lane area

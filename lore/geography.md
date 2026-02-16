@@ -13,6 +13,7 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Ashbury Lane** — Location of the Thessarine consulate; also a neighbourhood with gas lamps
 - **Threadneedle Street** — Home to Rensler's coffee house
 - **Harbourfront Parade** — Docklands route, part of Rovers cup parade path
+- **Harker Street** — Midtown location of Ashcroft Property Group offices
 - **Bridgewater Stadium** — 96 years old, home of major sporting events, capacity ~48,000
 
 ## Broader World
@@ -28,4 +29,7 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Thessarine Confederation** — Island nation. Capital: Thessara. Confederation Hall is seat of government. Controls southern channel of Kaelmar Strait. Smaller navy. Major copper exporter. Has a consulate in Bobington (Ashbury Lane).
 - **Verlaine** — Nation/city, studied for tramway design
 - **Port Caravel** — Nation/city, studied for tramway design. Home to Port Caravel Wanderers (sports).
-- **The Ashford Republic** — Nation, studied for tramway design
+- **The Ashford Republic** — Nation, studied for tramway design. Foreign Minister: Luisa Vandermeer. Proposed Kaelmar mediation.
+- **Fenmouth** — Neutral port city in the Ashford Republic. Site of the 1962 Maritime Accords (Narrow Sea freedom of navigation). Proposed venue for Kaelmar mediation talks.
+- **Cape of Sarenne** — Alternative shipping route avoiding the Kaelmar Strait; adds 12-15 days to eastern voyages.
+- **The Narrow Sea** — Body of water governed by the 1962 Maritime Accords (Fenmouth).

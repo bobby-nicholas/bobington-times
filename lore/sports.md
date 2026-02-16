@@ -1,9 +1,12 @@
 # Sports
 
 ## Teams
-- **Bobington Rovers** — Manager: Phillipa Corbett. Won Merchants' Cup 2026 (first in 11 years). Currently 15th in Premier Division, 3 points above relegation, 14 matches remaining. Home ground: Bridgewater Stadium (~48,000 capacity, 96 years old).
+- **Bobington Rovers** — Manager: Phillipa Corbett (contract expires end of season). Won Merchants' Cup 2026 (first in 11 years). Currently 15th in Premier Division, 26 points from 24 matches, 3 points above relegation, 14 matches remaining. Home ground: Bridgewater Stadium (~48,000 capacity, 96 years old). Training ground in Thornhill. Injury concerns: Blackshaw (knee), Osei (hamstring).
 - **Ironhall United** — Were favourites for Merchants' Cup. Goalkeeper: Magnus Stahl. Striker: Brennan Cole.
-- **Haverford Town** — Rovers' next league opponents (Saturday)
+- **Haverford Town** — 13th in Premier Division, 29 points. Rovers' next league opponents (Saturday at Bridgewater, expected sellout).
+- **Millwall Athletic** — In final relegation place, 3 points below Rovers
+- **Caravel City** — League leaders
+- **Thornbury Academicals** — Third in the Premier Division
 - **Port Caravel Wanderers** — Historical club; Rovers beat them 1-0 on final day 1973 to survive relegation
 
 ## Competitions

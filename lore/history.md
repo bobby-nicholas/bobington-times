@@ -19,9 +19,11 @@
 - **14 Feb** — Merchants' Cup Final: Rovers 2-1 Ironhall United (AET). Hargrove retrospective "Light Through Glass" opens at Royal Bobington Gallery.
 - **15 Feb** — City Council approves Veridan Corridor Tramway Expansion (7-4). Delvarian naval buildup reported in Kaelmar Strait. Fire Marshal Hale identifies accelerant — arson confirmed. Thessarine Confederation recalls Ambassador Soldt from Kharstad.
 - **16 Feb** — Arson findings and ambassador recall reported in The Bobington Times.
+- **17 Feb** — Metropolitan Constabulary searches Ashcroft Property Group offices. Ashford Republic proposes Kaelmar mediation at Fenmouth; Delvaria rejects. Bobington dispatches envoy Sir Duncan Hale to Thessara. Mayor Blackthorne convenes emergency council session on copper/tramway budget for Wednesday. Shipping insurance doubled on Kaelmar routes.
 
 ## Upcoming
 - **18 Feb** — Rovers cup parade: Bridgewater Stadium → Caldecott Square. Freedom of the City ceremony.
-- **Saturday (TBD)** — Rovers vs Haverford Town (league, home)
+- **19 Feb (Wed)** — Emergency council session on copper prices and tramway budget. Municipal Chamber, 10 AM.
+- **22 Feb (Sat)** — Rovers vs Haverford Town (Premier Division, Bridgewater Stadium, 3 PM, expected sellout)
 - **Autumn 2026** — Tramway Phase 1 breaks ground
 - **Through 30 June** — Hargrove retrospective on view

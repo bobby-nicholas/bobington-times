@@ -17,4 +17,8 @@
 - **Fire Marshal's Office** — Edwin Hale leading fire investigations
 
 ## Bobington Foreign Office
-- Issued restrained statement on Kaelmar Strait tensions urging dialogue
+- Issued restrained statement on Kaelmar Strait tensions urging dialogue (15 Feb)
+- Dispatched envoy Sir Duncan Hale to Thessara for consultations (17 Feb)
+
+## Upcoming
+- **Emergency council session** — Wednesday 19 Feb, 10 AM, Municipal Chamber. Copper prices and tramway budget. Testimony from Okonkwo, Merchants' Guild, Municipal Treasury. Open to public.
