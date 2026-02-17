@@ -21,8 +21,9 @@
 - **16 Feb** — Arson findings and ambassador recall reported in The Bobington Times.
 - **17 Feb** — Metropolitan Constabulary searches Ashcroft Property Group offices. Ashford Republic proposes Kaelmar mediation at Fenmouth; Delvaria rejects. Bobington dispatches envoy Sir Duncan Hale to Thessara. Mayor Blackthorne convenes emergency council session on copper/tramway budget for Wednesday. Shipping insurance doubled on Kaelmar routes.
 
+- **18 Feb** — Rovers cup parade through Bobington; ~200,000 spectators; Freedom of the City presented by Mayor Blackthorne. Sully Marsh gives emotional speech. Thomas Breck (former Greystone Wharf night watchman, 54) provides detailed testimony naming senior Ashcroft figure who ordered him to cease patrols; seized documents reveal insurance irregularities. Delvarian Northern Fleet conducts live-fire gunnery exercises in Kaelmar Strait (7+ warships, northern passage closed ~6 hours). Thessarine fortifies island garrisons. Copper surges to 862 fl/tonne. Sir Duncan Hale arrives in Thessara. Hargrove art market fever: private sales at record prices, auction house interest.
+
 ## Upcoming
-- **18 Feb** — Rovers cup parade: Bridgewater Stadium → Caldecott Square. Freedom of the City ceremony.
 - **19 Feb (Wed)** — Emergency council session on copper prices and tramway budget. Municipal Chamber, 10 AM.
 - **22 Feb (Sat)** — Rovers vs Haverford Town (Premier Division, Bridgewater Stadium, 3 PM, expected sellout)
 - **Autumn 2026** — Tramway Phase 1 breaks ground

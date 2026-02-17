@@ -4,7 +4,7 @@
 - **The florin** — Bobington's currency. Subdivided into centimes (50-centime tram fare mentioned).
 
 ## Key Economic Facts
-- **Copper** — Major import via Kaelmar Strait (~1/3 of supply). Futures at 843 florins/tonne (Mon 17 Feb close), down slightly from 847 Sat high. 12-year high. Potential tramway overrun of 380-420M florins if copper reaches 900 and holds.
+- **Copper** — Major import via Kaelmar Strait (~1/3 of supply). Futures at 862 florins/tonne (Tue 18 Feb close), up from 843 Mon. New 12-year high. Surged on Delvarian live-fire exercises. Estimated tramway copper cost overrun now ~430M florins (up from 380M est. just days ago). Varga (Fernwich): "If exercises continue, copper above 900 by end of month."
 - **Eastern spice trade** — ~half passes through Kaelmar Strait. Prices up 8-15% (velveroot, black cardamon, dried saffron bark).
 - **Shipping insurance** — Premiums doubled for Kaelmar-route cargo. Some underwriters declining new policies. Shipowners rerouting via Cape of Sarenne (+12-15 days).
 - **Coffee at Rensler's** — 4 florins (up from 3.60) due to shipping cost increases

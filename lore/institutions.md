@@ -26,6 +26,18 @@
 - **Helmsford's** — Long-established bakery, Ashbury Lane area
 - **Rensler's Coffee House** — Threadneedle Street. Proprietor: Felix Rensler.
 
+## Art Trade
+- **Grayle & Finch Fine Art** — Bramblegate Lane, one of Bobington's oldest art dealerships. Director: Desmond Grayle.
+- **Aldwyck & Horne** — Major auction house, Port Caravel. Observed in Bobington amid Hargrove market surge.
+- **Maison Lefèvre** — Major auction house, Verlaine. Observed in Bobington amid Hargrove market surge.
+
+## Legal
+- **Crayle, Whitford & Associates** — Prominent Bobington legal firm. Solicitor Edmond Crayle retained by Ashcroft.
+- **Miriam Oakes** — Solicitor representing Thomas Breck in Greystone Wharf investigation.
+
+## Military
+- **Delvarian Northern Fleet** — Includes heavy cruiser *Kharstad's Pride*. Conducted live-fire exercises in Kaelmar Strait 18 Feb.
+
 ## Media
 - **The Bobington Times** — Newspaper of record. Vol. CLXII.
 - **Kharstad Gazette** — Delvarian state-controlled newspaper

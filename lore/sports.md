@@ -16,6 +16,18 @@
 ## Key Results
 - **Merchants' Cup Final 2026** (14 Feb) — Rovers 2, Ironhall United 1 (AET). Bridgewater Stadium, ~48,000. Cole 34' (IRN), Blackshaw 72' (ROV), Dunmore 118' (ROV, 35-yard strike).
 
+## Cup Parade — 18 February 2026
+- Route: Bridgewater Stadium → Harbourfront Parade (Docklands) → Threadneedle Street (Midtown) → Caldecott Square
+- Estimated 200,000 spectators (Constabulary estimate)
+- Freedom of the City presented by Mayor Blackthorne to the club
+- Captain Sully Marsh accepted the honour; gave emotional speech ("Bobington took me in. This is my home.")
+- Kael Dunmore rode at the front conducting crowd singing with the cup
+- Orin Blackshaw appeared with knee heavily bandaged; Nadia Osei mobile but careful
+- Transit Authority carried an estimated 380,000 passengers (double daily average) on flat 50-centime fares
+- Four arrests (2 disorderly, 1 pickpocketing, 1 fountain-scaling)
+- Felix Rensler ran out of milk at 4:30 PM, served only black coffee
+- Club physiotherapist: Dr. Lena Sorrens (seen consulting with Corbett about Blackshaw's knee)
+
 ## Upcoming
-- Cup parade: Tuesday 18 Feb, Bridgewater Stadium → Docklands (Harbourfront Parade) → Midtown (Threadneedle Street) → Caldecott Square. Estimated 150,000 spectators. Freedom of the City ceremony with Mayor Blackthorne. Transit Authority offering flat 50-centime fares.
-- Next league match: Haverford Town (home, Saturday)
+- Next league match: Haverford Town (home, Saturday 22 Feb, 3 PM, expected sellout — fewer than 2,000 tickets remaining)
+- Blackshaw and Osei to be assessed Wednesday/Thursday before Haverford decision

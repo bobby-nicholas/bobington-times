@@ -44,13 +44,24 @@
 
 ## Legal
 - **Edmond Crayle** — Solicitor at Crayle, Whitford & Associates. Retained by Gerald Ashcroft in the Greystone Wharf arson investigation. One of Bobington's most prominent legal firms.
+- **Miriam Oakes** — Solicitor representing Thomas Breck (former Greystone Wharf night watchman) in the arson investigation.
+
+## Investigation Witnesses
+- **Thomas Breck** — Former night watchman at Greystone Wharf, age 54. Served three years until dismissed in early January 2026. Claims he was ordered by a senior Ashcroft employee to cease night patrols before his dismissal. Cooperating with the Constabulary. Represented by solicitor Miriam Oakes.
+- **Senior Inspector Callum Frye** — Metropolitan Constabulary, day-to-day lead on the Greystone Wharf investigation (delegated from Inspector Greaves during parade security duties).
 
 ## Historical Preservation
 - **Louisa Marchbank** — Chairwoman of the Bobington Historical Preservation Society
+
+## Medical / Club Staff
+- **Dr. Lena Sorrens** — Bobington Rovers club physiotherapist
+
+## Art Market
+- **Desmond Grayle** — Director of Grayle & Finch Fine Art, Bramblegate Lane. One of Bobington's oldest art dealerships. Commented on the Hargrove market surge.
 
 ## Private Citizens
 - **Captain Runa Halverssen** — Cargo brig *Windhaven*, reported Delvarian naval buildup
 - **Estelle Danforth** — Commuter from Docklands to Upper Fernwich, bookkeeper
 - **Doyle** — Plumber known to Pemberton, affected by copper price rises
 - **Marta Selwyn** — Tram conductor from the Docklands, visited Hargrove exhibition with teenage daughter
-- **Tobias Renn** — Elderly farmer in Millhaven, subject of Hargrove portrait (2018)
+- **Tobias Renn** — Elderly farmer in Millhaven, subject of Hargrove portrait (2018). Bewildered by surging prices for Hargrove works.
