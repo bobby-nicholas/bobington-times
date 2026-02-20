@@ -15,9 +15,10 @@
 ## Diplomats & Foreign Figures
 - **Consul Elara Miren** — Thessarine ambassador to Bobington (Ashbury Lane consulate)
 - **Ambassador Evren Soldt** — Thessarine ambassador to Delvaria, recalled amid Kaelmar crisis
-- **Foreign Secretary Alaric Daine** — Thessarine Confederation, announced ambassador recall
+- **Foreign Secretary Alaric Daine** — Thessarine Confederation, announced ambassador recall. Has assigned a senior aide as Hale's primary interlocutor.
 - **Foreign Minister Luisa Vandermeer** — Ashford Republic, proposed emergency Kaelmar mediation at Fenmouth
 - **Sir Duncan Hale** — Veteran Bobington diplomat, former consul to both Thessara and Kharstad in the 1990s. Dispatched as envoy to Thessara during the Kaelmar crisis.
+- **Consul Pehr Lindqvist** — Delvarian Empire's consul in Bobington. Career diplomat, three years in post, reputation for discretion. Requested private meeting with Bobington Foreign Office on 19 Feb — the first direct Delvarian diplomatic engagement since crisis began.
 - **Professor Elias Thornbury** — Bobington Institute for Foreign Affairs, diplomatic historian
 
 ## Business & Commerce
@@ -30,9 +31,11 @@
 ## Sports Figures
 - **Kael Dunmore** — Bobington Rovers midfielder. Scored winning Merchants' Cup goal from 35 yards, 118th minute. Under contract, transfer talk dismissed.
 - **Phillipa Corbett** — Rovers manager. Turbulent season with calls for dismissal before cup win. Contract expires end of season.
-- **Sully Marsh** — Rovers goalkeeper, longest-serving player (9 years)
-- **Orin Blackshaw** — Rovers centre-back, scored the equaliser in cup final. Right knee injury (doubt for Haverford match).
-- **Nadia Osei** — Rovers winger, assisted Dunmore's winner. Hamstring strain sustained in cup final, did not train 17 Feb.
+- **Sully Marsh** — Rovers goalkeeper, longest-serving player (9 years). "Forty-eight thousand people singing your name is worth a goal start."
+- **Orin Blackshaw** — Rovers centre-back, scored the equaliser in cup final. Right knee assessed as grade-one ligament strain (19 Feb). Game-day decision for Saturday's Haverford match.
+- **Nadia Osei** — Rovers winger, assisted Dunmore's winner. Hamstring tightness. Trained lightly 19 Feb, more optimistic. Expected available for selection.
+- **Dai Llewellyn** — Haverford Town manager. "Cup form and league form are different animals."
+- **Theo Harwick** — Rovers young centre-back, 20, academy graduate. Backup option if Blackshaw unfit.
 - **Ronan Cahill** — Rovers veteran defender, survived two previous relegation scrapes
 - **Magnus Stahl** — Ironhall United goalkeeper
 - **Brennan Cole** — Ironhall United star striker, scored their cup final goal
@@ -47,8 +50,15 @@
 - **Miriam Oakes** — Solicitor representing Thomas Breck (former Greystone Wharf night watchman) in the arson investigation.
 
 ## Investigation Witnesses
-- **Thomas Breck** — Former night watchman at Greystone Wharf, age 54. Served three years until dismissed in early January 2026. Claims he was ordered by a senior Ashcroft employee to cease night patrols before his dismissal. Cooperating with the Constabulary. Represented by solicitor Miriam Oakes.
-- **Senior Inspector Callum Frye** — Metropolitan Constabulary, day-to-day lead on the Greystone Wharf investigation (delegated from Inspector Greaves during parade security duties).
+- **Thomas Breck** — Former night watchman at Greystone Wharf, age 54. Served three years until dismissed in early January 2026. Claims he was ordered by a senior Ashcroft employee to cease night patrols before his dismissal. Cooperating with the Constabulary. Represented by solicitor Miriam Oakes. Lives in the Docklands (30 years).
+- **Senior Inspector Callum Frye** — Metropolitan Constabulary, day-to-day lead on the Greystone Wharf investigation. Conducted 4-hour interview with Ashcroft on 19 Feb.
+- **Two additional former Ashcroft employees** — A former site manager (oversaw several Docklands properties 2023–late 2025) and a former maintenance contractor came forward independently to investigators on 19 Feb. Identities not yet public.
+
+## Government Finance
+- **Annabel Whitford** — Deputy Treasurer, Municipal Treasury. Testified at the 19 Feb emergency council session on city contingency reserves and borrowing capacity.
+
+## Labour
+- **Patrick Seldon** — Foreman, Docklands Workers' Association. Led delegation of ~30 dockworkers to the 19 Feb council session public gallery. Seeking formal meeting with council on workforce protections for the 6,000 tramway workers. Broad-shouldered, direct.
 
 ## Historical Preservation
 - **Louisa Marchbank** — Chairwoman of the Bobington Historical Preservation Society

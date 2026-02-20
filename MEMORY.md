@@ -24,17 +24,24 @@ See `lore/_index.md` for the full table of contents. Key files:
 
 These are the threads currently in play. Pick 2-3 to advance each edition, and introduce 1-2 new ones.
 
-1. **Kaelmar Strait Crisis — Military Escalation** — Delvaria conducted live-fire naval exercises (18 Feb, 7+ warships, *Kharstad's Pride*), closed northern passage for 6 hours. Thessarine fortifying island garrisons, fleet at elevated readiness. Fenmouth mediation still rejected. Sir Duncan Hale arrived in Thessara, exploring alternative diplomatic framework. Copper surged to 862. What is Hale's play? Will Delvaria escalate further? → `lore/international.md`
-2. **Greystone Wharf Arson Investigation** — Night watchman Thomas Breck (54) named a senior Ashcroft figure who ordered him to cease patrols. Seized documents show insurance irregularities (inflated valuations). Crayle calls it "innuendo." Pryce pressing for Docklands safety audit at Wednesday session. Senior Inspector Callum Frye now day-to-day lead. Are formal charges coming? → `lore/people.md`, `lore/institutions.md`
-3. **Tramway Budget Crisis — Wednesday Session** — Emergency council session Wednesday 19 Feb, 10 AM. Copper now at 862 → overrun estimated ~430M florins. Even grimmer arithmetic than last week. Okonkwo, Merchants' Guild, Municipal Treasury testifying. Pryce may also raise Greystone matter. → `lore/economy.md`, `lore/politics.md`
-4. **Rovers: Parade Done, Now Survival** — Parade drew 200,000 (18 Feb). Freedom of the City ceremony. Sully Marsh's emotional speech. Blackshaw (knee bandaged), Osei (careful) — to be assessed Wed/Thu. Haverford Saturday sellout imminent (<2,000 tickets left). Corbett contract still open. → `lore/sports.md`
-5. **Hargrove Art Market Fever** — Retrospective bookings at 22,000+ through March (potential Gallery record). Private sales at 3x previous prices ("November Light, Greymoor" at 45,000 fl). Auction houses Aldwyck & Horne and Maison Lefèvre circling. Hargrove "thoroughly uninterested." Gallery adding evening openings. What happens when an auction consignment drops? → `lore/arts-culture.md`
-6. **Copper Crisis — Deepening** — 862 fl/tonne and rising. Sustained strait closure could add 15-22% to eastern goods. Varga warns 900+ possible by month's end. Three Bobington vessels diverted during live-fire drills. Wednesday's council session is the reckoning. → `lore/economy.md`
-7. **Mayor Blackthorne's Political Balance** — Presented Freedom of the City at parade (veiled reference to city's anxieties). Must now manage Wednesday session: Voss fiscally vindicated, Pryce demanding action on both tramway and Greystone. The moderniser coalition faces its first real test. → `lore/politics.md`
+1. **Copper Review Commission — First Meeting Monday** — Bipartisan commission (Pryce-Voss) meets Mon 24 Feb. Must report by 5 March. Three options: proceed (absorb 460M+ overrun at 879/tonne), redesign (aluminium, 18-month delay), or phase. Copper at 879 and climbing — Varga forecasts 900-910 by end of next week. Treasury reserves at 142M. Okonkwo, Treasury, copper suppliers to testify. What will they recommend? → `lore/economy.md`, `lore/politics.md`
+2. **Kaelmar Strait — Lindqvist Meeting Friday** — Delvarian Consul Pehr Lindqvist requested private meeting with Bobington Foreign Office (expected Fri 21 Feb). First Delvarian diplomatic engagement since crisis began. Possibly connected to Hale's quiet channel. Hale still in Thessara; Daine assigned senior aide as interlocutor. The Stormbreak incident (Thessarine detained Delvarian trawler in southern channel) has raised tensions but also, perhaps, focused minds. Will Delvaria engage with the quiet channel? → `lore/international.md`
+3. **Greystone Wharf — After the Interview** — Ashcroft spent 4 hours 15 mins at Constabulary HQ (Thu 20 Feb). Left via side exit without comment. Frye presented F&C documents on inflated insurance valuation (3.8M insured vs 1.9M city assessment). Two more former employees came forward (site manager, maintenance contractor). Insurance trail is central: F&C cooperating to show numbers came from client. Tax dimension: 2.4M vacant building levy outstanding. Docklands safety audit begins next week. Charges expected? → `lore/people.md`, `lore/institutions.md`
+4. **Rovers: Blackshaw's Friday Test** — Passed light contact training Thursday. Full session Friday decisive — increasingly expected to start Saturday vs Haverford. Osei declared fully fit. Sellout 48,000. Corbett: "Nobody remembers the cup if you go down." Haverford (Llewellyn) won 2 of last 3 away. Millwall at Thornbury — relegation swing. Corbett contract still unresolved. → `lore/sports.md`
+5. **Hargrove's Letter** — Hargrove broke her silence with a handwritten letter to Aldair decrying "the carnival of auction-house arithmetic." Published with permission. Grayle: "Sincerity is the most effective marketing." Market paradox: the letter will likely intensify, not calm, collector interest. Gallery extending hours, no price increase. Hargrove has no plans for further statements. Next angle: auction consignments, collector activity, or the cultural debate. → `lore/arts-culture.md`
+6. **Docklands Workers' Association** — Foreman Patrick Seldon led 30 dockworkers to council gallery (19 Feb). Seeking formal meeting with council on workforce protections for 6,000 tramway workers. Labour tensions emerging as new political thread — connects to tramway, Greystone investigation, Docklands identity. No council response yet. → `lore/institutions.md`, `lore/people.md`
+7. **Blackthorne's Balancing Act** — Mayor navigated Wednesday's session without taking a clear side. "Measured resolve." The Pryce-Voss commission is either a masterstroke of coalition management or a timebomb. If copper keeps rising, political pressure intensifies. → `lore/politics.md`
 
 ---
 
 ## Recent Editions
+
+### Edition: 20 February 2026
+- Ashcroft faces four hours of questions at Constabulary; leaves via side exit without comment; two more former employees come forward (FEATURED)
+- Delvarian Consul Lindqvist requests meeting with Bobington Foreign Office — first Delvarian engagement since crisis; Stormbreak incident detailed; copper at 879
+- Corbett demands focus on survival as Blackshaw passes contact training; Osei fit; Haverford Saturday sellout
+- Hargrove breaks silence with handwritten letter: "I did not paint for auction catalogues"; market paradox intensifies
+- Pemberton column: "On the Art of Waiting" (a city in suspension — commission, diplomat, knee, painter)
 
 ### Edition: 18 February 2026
 - Rovers cup parade draws 200,000; Freedom of the City ceremony; Marsh's emotional speech (FEATURED)
@@ -59,9 +66,4 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 - Pemberton column on copper prices affecting daily life
 
 ### Edition: 15 February 2026 (Inaugural)
-- Tramway expansion approved by council (7-4)
-- Delvarian naval buildup reported in Kaelmar Strait
-- Rovers win Merchants' Cup 2-1 vs Ironhall (AET, Dunmore 118')
-- Hargrove retrospective opens at Royal Bobington Gallery
-- Greystone Wharf fire reported (3-alarm, 4 firefighters injured)
-- Pemberton column: "In Defense of the Slow Morning"
+- Tramway expansion approved (7-4); Delvarian naval buildup; Rovers win Merchants' Cup 2-1 vs Ironhall; Hargrove retrospective opens; Greystone Wharf fire; Pemberton: "In Defense of the Slow Morning"

@@ -28,6 +28,21 @@
 - Felix Rensler ran out of milk at 4:30 PM, served only black coffee
 - Club physiotherapist: Dr. Lena Sorrens (seen consulting with Corbett about Blackshaw's knee)
 
+## Injury Updates (19 Feb → 20 Feb)
+- **Blackshaw:** Grade-one ligament strain (right knee). Not a tear. Passed light contact training Thu (cutting, turning, competing for headers). Full session Fri will be decisive. Increasingly expected to start Saturday. Game-day decision officially stands.
+- **Osei:** Hamstring tightness. Trained fully Thursday, declared available for selection. "Nadia is fine" — Corbett.
+- **Contingency:** Ronan Cahill (veteran, 4 starts this season) or Theo Harwick (20, academy graduate, 2 cup appearances) if Blackshaw unfit.
+
+## Premier Division Table (bottom, as of 19 Feb)
+| Pos | Team | P | Pts |
+|-----|------|---|-----|
+| 13 | Haverford Town | 24 | 29 |
+| 14 | Ashwick Borough | 24 | 27 |
+| 15 | Bobington Rovers | 24 | 26 |
+| 16 | Duncastle FC | 24 | 25 |
+| 17 | Millwall Athletic | 24 | 23 |
+
 ## Upcoming
-- Next league match: Haverford Town (home, Saturday 22 Feb, 3 PM, expected sellout — fewer than 2,000 tickets remaining)
-- Blackshaw and Osei to be assessed Wednesday/Thursday before Haverford decision
+- **22 Feb (Sat):** Rovers vs Haverford Town (home, Bridgewater Stadium, 3 PM, confirmed sellout — 48,000). First league sellout this season.
+- Millwall Athletic travel to Thornbury Academicals (3rd) on Saturday.
+- Haverford manager: Dai Llewellyn. Won 2 of last 3 away. "Meanest travelling defence."

@@ -13,6 +13,8 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Ashbury Lane** — Location of the Thessarine consulate; also a neighbourhood with gas lamps
 - **Threadneedle Street** — Home to Rensler's coffee house
 - **Harbourfront Parade** — Docklands route, part of Rovers cup parade path
+- **Foundry Row** — Location of Metropolitan Constabulary headquarters
+- **Guildhall Terrace** — Location of Fairweather & Chalk insurance offices
 - **Harker Street** — Midtown location of Ashcroft Property Group offices
 - **Bridgewater Stadium** — 96 years old, home of major sporting events, capacity ~48,000
 
