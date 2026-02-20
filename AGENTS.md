@@ -59,6 +59,7 @@ When triggered by cron to publish a new edition, follow this process:
 - Generate ONE image per edition: for the featured article only. (Bob's standing instruction — revert to per-article images when notified.)
 - Save images to `public/images/` with descriptive filenames
 - Image prompts should evoke the old-timey newspaper aesthetic: think early press photography, slightly desaturated, editorial composition
+- **Critical:** Always include in prompts: "Do not include any text, captions, labels, watermarks, dates, or annotations within the image." Gemini tends to burn in captions like "CITY HALL, 1934" which breaks immersion.
 - Update the article frontmatter with the image path and caption
 
 ### Phase 4: Publishing
