@@ -6,6 +6,8 @@ date: 2026-02-20
 author: Rupert Gaines
 authorTitle: Metro Reporter
 summary: "Gerald Ashcroft arrived at Metropolitan Constabulary headquarters at nine o'clock on Thursday morning with his solicitor and a promise that the interview would be 'straightforward and brief.' He left at a quarter past one, more than four hours later, without saying a word. Two more former Ashcroft Property Group employees have since come forward to investigators."
+image: /images/2026-02-20-ashcroft-constabulary.png
+imageCaption: "Gerald Ashcroft's motor car waits in the Constabulary carriage yard on Thursday morning"
 featured: true
 edition: "2026-02-20"
 ---
