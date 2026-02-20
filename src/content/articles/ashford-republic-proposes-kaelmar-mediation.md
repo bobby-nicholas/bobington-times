@@ -6,6 +6,8 @@ date: 2026-02-17
 author: Jasper Wynn
 authorTitle: Foreign Affairs Desk
 summary: "The Ashford Republic has formally offered to host emergency mediation talks between the Thessarine Confederation and the Delvarian Empire, as the crisis in the Kaelmar Strait continues to unsettle shipping routes and commodity markets across the region."
+image: /images/2026-02-17-ashford-mediation.png
+imageCaption: "The Ashford Foreign Ministry, where Minister Vandermeer announced the mediation proposal"
 featured: true
 edition: "2026-02-17"
 ---

@@ -6,6 +6,8 @@ date: 2026-02-18
 author: Tommy Fairfax
 authorTitle: Sports Correspondent
 summary: "In scenes not witnessed since the centennial celebrations of 2019, an estimated two hundred thousand Bobingtonians lined the streets from Bridgewater Stadium to Caldecott Square on Tuesday to salute the Merchants' Cup champions. Manager Phillipa Corbett and captain Sully Marsh received the Freedom of the City from Mayor Blackthorne in a ceremony that reduced the nine-year veteran goalkeeper to tears."
+image: /images/2026-02-18-rovers-cup-parade.png
+imageCaption: "The Rovers' victory tram makes its way through packed streets as two hundred thousand Bobingtonians celebrate"
 featured: true
 edition: "2026-02-18"
 ---

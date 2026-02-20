@@ -6,6 +6,8 @@ date: 2026-02-16
 author: Jasper Wynn
 authorTitle: Foreign Affairs Desk
 summary: "The Thessarine Confederation has formally recalled its ambassador from the Delvarian capital, signalling a dramatic escalation in the dispute over naval movements in the Kaelmar Strait. Copper futures surged to a twelve-year high on the news."
+image: /images/2026-02-16-ambassador-recalled.png
+imageCaption: "Ambassador Soldt departs the Delvarian capital following the formal recall"
 featured: true
 edition: "2026-02-16"
 ---

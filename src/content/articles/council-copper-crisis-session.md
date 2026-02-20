@@ -6,6 +6,8 @@ date: 2026-02-19
 author: Margaret Alcott
 authorTitle: City Hall Correspondent
 summary: "An extraordinary session of the City Council heard testimony on Wednesday that the Veridan Corridor Tramway Expansion faces a copper cost overrun approaching 430 million florins at current prices — and could exceed half a billion if the Kaelmar Strait crisis deepens. Chief Engineer Yara Okonkwo presented three scenarios, none of them painless. After five hours of debate, council voted to establish a bipartisan Copper Review Commission and passed a separate Docklands safety audit."
+image: /images/2026-02-19-council-copper-crisis.png
+imageCaption: "The Municipal Chamber during Wednesday's extraordinary session on the copper crisis"
 featured: true
 edition: "2026-02-19"
 ---

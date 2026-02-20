@@ -6,6 +6,8 @@ date: 2026-02-15
 author: Margaret Alcott
 authorTitle: City Hall Correspondent
 summary: "In a closely watched 7-4 vote, the Bobington City Council approved a sweeping plan to extend the municipal tramway system through the heart of the Veridan Corridor, a project decades in the making."
+image: /images/2026-02-15-tramway-approved.png
+imageCaption: "The Municipal Chamber erupts in applause as the Veridan Corridor Tramway Expansion is approved"
 featured: true
 edition: "2026-02-15"
 ---
