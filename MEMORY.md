@@ -24,17 +24,24 @@ See `lore/_index.md` for the full table of contents. Key files:
 
 These are the threads currently in play. Pick 2-3 to advance each edition, and introduce 1-2 new ones.
 
-1. **Copper Review Commission — First Meeting Monday** — Bipartisan commission (Pryce-Voss) meets Mon 24 Feb. Must report by 5 March. Three options: proceed (absorb 460M+ overrun at 879/tonne), redesign (aluminium, 18-month delay), or phase. Copper at 879 and climbing — Varga forecasts 900-910 by end of next week. Treasury reserves at 142M. Okonkwo, Treasury, copper suppliers to testify. What will they recommend? → `lore/economy.md`, `lore/politics.md`
-2. **Kaelmar Strait — Lindqvist Meeting Friday** — Delvarian Consul Pehr Lindqvist requested private meeting with Bobington Foreign Office (expected Fri 21 Feb). First Delvarian diplomatic engagement since crisis began. Possibly connected to Hale's quiet channel. Hale still in Thessara; Daine assigned senior aide as interlocutor. The Stormbreak incident (Thessarine detained Delvarian trawler in southern channel) has raised tensions but also, perhaps, focused minds. Will Delvaria engage with the quiet channel? → `lore/international.md`
-3. **Greystone Wharf — After the Interview** — Ashcroft spent 4 hours 15 mins at Constabulary HQ (Thu 20 Feb). Left via side exit without comment. Frye presented F&C documents on inflated insurance valuation (3.8M insured vs 1.9M city assessment). Two more former employees came forward (site manager, maintenance contractor). Insurance trail is central: F&C cooperating to show numbers came from client. Tax dimension: 2.4M vacant building levy outstanding. Docklands safety audit begins next week. Charges expected? → `lore/people.md`, `lore/institutions.md`
-4. **Rovers: Blackshaw's Friday Test** — Passed light contact training Thursday. Full session Friday decisive — increasingly expected to start Saturday vs Haverford. Osei declared fully fit. Sellout 48,000. Corbett: "Nobody remembers the cup if you go down." Haverford (Llewellyn) won 2 of last 3 away. Millwall at Thornbury — relegation swing. Corbett contract still unresolved. → `lore/sports.md`
-5. **Hargrove's Letter** — Hargrove broke her silence with a handwritten letter to Aldair decrying "the carnival of auction-house arithmetic." Published with permission. Grayle: "Sincerity is the most effective marketing." Market paradox: the letter will likely intensify, not calm, collector interest. Gallery extending hours, no price increase. Hargrove has no plans for further statements. Next angle: auction consignments, collector activity, or the cultural debate. → `lore/arts-culture.md`
-6. **Docklands Workers' Association** — Foreman Patrick Seldon led 30 dockworkers to council gallery (19 Feb). Seeking formal meeting with council on workforce protections for 6,000 tramway workers. Labour tensions emerging as new political thread — connects to tramway, Greystone investigation, Docklands identity. No council response yet. → `lore/institutions.md`, `lore/people.md`
-7. **Blackthorne's Balancing Act** — Mayor navigated Wednesday's session without taking a clear side. "Measured resolve." The Pryce-Voss commission is either a masterstroke of coalition management or a timebomb. If copper keeps rising, political pressure intensifies. → `lore/politics.md`
+1. **Copper Review Commission — Monday's First Hearing** — Bipartisan commission (Pryce-Voss) meets Mon 24 Feb, 9 AM, Municipal Chamber. Must report by 5 March. Three options: proceed (absorb ~490M overrun at 886/tonne), redesign (aluminium, 18-month delay), or phase. Copper at 886 and climbing (but rate slowing). Treasury reserves at 142M. Okonkwo, Whitford (Treasury), Haversten (Greymoor miners) to testify. Written submissions from Merchants' Guild, DWA, Historical Preservation Society. Seldon's DWA plans to attend in force. The Pryce-Voss dynamic is the political centrepiece. → `lore/economy.md`, `lore/politics.md`
+2. **Kaelmar Strait — After Lindqvist** — Lindqvist met Undersecretary Marchetti at Foreign Office for 90 minutes (Fri 21 Feb). "Substantive and frank." Delvaria receptive but cautious on quiet channel: conditions include no preconditions on exercises, bilateral only, own envoy. Hale briefed in Thessara. Daine's office dropped "multilateral" from statement. Stormbreak still generating anger in Kharstad (*Gazette* front page on crew). Next: will Delvaria formally respond? Will they designate an envoy? Copper at 886. → `lore/international.md`
+3. **Greystone Wharf — Audit and Tax Demand** — Docklands safety audit began Fri 21 Feb. Six teams, 72 properties, 14 assessed day one. Multiple lapsed fire safety certs found. Revenue Office issued formal demand to Ashcroft for 2,434,600 florins (14-day deadline, ~7 Mar). Crayle disputes. Two more former employees gave statements Friday. Investigation continues to widen. Charges? → `lore/people.md`, `lore/institutions.md`
+4. **Rovers vs Haverford — Saturday 3 PM** — Blackshaw passed full training Friday, starts. Osei returns to wing. Unchanged XI otherwise. Sellout 48,000. Haverford (Llewellyn) compact and disciplined. Millwall at Thornbury — relegation implications. First league match since cup triumph. Corbett contract still unresolved. → `lore/sports.md`
+5. **Hargrove — Market Continues** — Letter published, no further statements planned. Storyline can shift to auction house activity, collector behaviour, or cultural debate about commodification of art. Gallery extending hours. → `lore/arts-culture.md`
+6. **Docklands Workers' Association** — Seldon welcomed the safety audit ("long overdue"). Still no council response to formal meeting request. Plans to attend Monday's commission hearing. Labour tensions remain an active thread. → `lore/institutions.md`, `lore/people.md`
+7. **Blackthorne's Silence** — Mayor conspicuously absent from public commentary since commission established. Strategic or simply prudent? → `lore/politics.md`
 
 ---
 
 ## Recent Editions
+
+### Edition: 21 February 2026
+- Lindqvist meets Undersecretary Marchetti at Foreign Office; "substantive and frank"; Delvaria receptive but cautious on quiet channel with conditions; copper at 886 (FEATURED)
+- Blackshaw declared fit, Corbett names starting XI for Saturday's Haverford match; first league sellout; Millwall at Thornbury
+- Docklands safety audit begins: 6 teams, 72 properties, multiple lapsed fire certs; Revenue Office issues 2.4M florin tax demand to Ashcroft (14-day deadline)
+- Commission preview: Monday's first hearing, Pryce-Voss dynamics, three options, who testifies, 490M overrun at current prices
+- Pemberton column: "On the Useful Properties of Friction" (the productive grinding of incompatible surfaces — commission, diplomat, knee, coffee)
 
 ### Edition: 20 February 2026
 - Ashcroft faces four hours of questions at Constabulary; leaves via side exit without comment; two more former employees come forward (FEATURED)
@@ -64,6 +71,3 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 - Rovers cup parade details announced (Tuesday 18 Feb)
 - Hargrove retrospective draws 8,000+ opening weekend
 - Pemberton column on copper prices affecting daily life
-
-### Edition: 15 February 2026 (Inaugural)
-- Tramway expansion approved (7-4); Delvarian naval buildup; Rovers win Merchants' Cup 2-1 vs Ironhall; Hargrove retrospective opens; Greystone Wharf fire; Pemberton: "In Defense of the Slow Morning"

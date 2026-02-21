@@ -31,6 +31,8 @@
 - Comprehensive audit of all vacant commercial properties in the Docklands
 - Focus: fire safety, insurance compliance, security arrangements
 - Proposed by Pryce in the wake of the Greystone Wharf arson
+- **Audit began 21 Feb** — Six teams deployed across waterfront (Greystone Wharf to Harrowgate Pier). Coordinated by Fire Marshal Hale with Constabulary and Revenue Office. 72 vacant properties identified for review. 14 preliminary assessments completed on first day; at least 3 with lapsed fire safety certs, 2 with no documentation. Expected 3-4 weeks; preliminary report by mid-March.
+- **Ashcroft tax demand** (21 Feb) — Municipal Revenue Office issued formal demand to Ashcroft Property Group for 2,434,600 florins in outstanding vacant building levy (Jan 2024–Feb 2026). 14-day payment deadline. Crayle disputes calculation and classification of properties as vacant.
 
 ## Political Dynamics (updated)
 - Council split tested by copper crisis; forced rare bipartisan cooperation (Pryce-Voss commission)
@@ -39,6 +41,7 @@
 - Docklands Workers' Association (foreman Patrick Seldon) emerging as new political voice — seeking formal meeting with council re: workforce protections
 
 ## Upcoming
-- **20 Feb** — Gerald Ashcroft formal Constabulary interview
-- **24 Feb** — Copper Review Commission first meeting
+- **22 Feb (Sat)** — Rovers vs Haverford Town (Bridgewater Stadium)
+- **24 Feb (Mon)** — Copper Review Commission first meeting (9 AM, Municipal Chamber)
 - **5 Mar** — Commission report deadline
+- **~7 Mar** — Ashcroft tax demand payment deadline (14 days from 21 Feb)

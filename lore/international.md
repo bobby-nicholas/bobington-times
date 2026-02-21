@@ -16,7 +16,8 @@
 - **Stormbreak incident** (19 Feb) — Thessarine corvette *Vantara* intercepted Delvarian-flagged fishing trawler *Stormbreak* approximately 4 NM south of the Treaty demarcation line in the southern channel. Vessel detained ~6 hours, crew of 9 confined to forward mess. Released after inspection; radio confiscated (frequency range exceeded civilian specs). Hold contained silver mackerel. Delvaria: "unacceptable provocation against maritime workers." Thessara: acted "in accordance with treaty obligations." First direct physical encounter between the two nations' forces since crisis began.
 - **Delvarian consul engagement** (19 Feb) — Consul Pehr Lindqvist, Delvarian consul in Bobington (3 years, career diplomat), requested private meeting with senior Bobington Foreign Office official. First direct Delvarian diplomatic engagement since crisis began. Meeting expected Friday 20 Feb. No agenda communicated. Possibly connected to Hale's quiet channel proposal.
 - **Daine assigns aide to Hale** (19 Feb) — Thessarine Foreign Secretary Daine assigned a senior aide as Hale's primary interlocutor, consistent with formalising the quiet channel framework.
-- **Copper** — Closed at 879 fl/tonne Thursday 19 Feb (up 8 from Wed). Varga revised forecast: 900–910 by end of next week if disruption persists.
+- **Lindqvist meets Foreign Office** (21 Feb) — Consul Lindqvist met Undersecretary for Eastern Affairs Helena Marchetti at the Foreign Office on Chancery Row for approximately 90 minutes on Friday afternoon. Foreign Office described conversation as "substantive and frank." Delvarian consulate characterised it as "normal diplomatic activities." Sources: Lindqvist was "receptive but cautious" on quiet channel framework. Delvarian conditions: (1) no preconditions on northern channel naval exercises, (2) strictly bilateral — no multilateral/Ashford Republic involvement, (3) Delvaria to designate its own envoy (not consul). Hale briefed in Thessara Friday evening. Thessarine Foreign Secretary Daine's office notably dropped "multilateral" from its statement language. No formal Delvarian response timeline. *Kharstad Gazette* ran front-page "Nine Fishermen, One Empire's Honour" on Stormbreak crew.
+- **Copper** — Closed at 886 fl/tonne Friday 21 Feb (up 7 from Thu). New twelve-year high. Rate of increase slowing. Varga maintains forecast: 900–910 by end of next week. Merchants' Guild: 11 vessels rerouted via Sarenne; total fleet costs ~1.4M florins.
 
 ## Nations
 See `geography.md` for full nation details.
@@ -29,3 +30,4 @@ See `geography.md` for full nation details.
 - **Sir Duncan Hale** — Bobington envoy to Thessara
 - **Consul Pehr Lindqvist** — Delvarian consul in Bobington
 - **Professor Elias Thornbury** — Bobington Institute for Foreign Affairs
+- **Undersecretary Helena Marchetti** — Bobington Foreign Office, Undersecretary for Eastern Affairs. Career diplomat; served as deputy consul in Thessara 2014–2019. Received Lindqvist on 21 Feb.

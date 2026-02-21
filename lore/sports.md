@@ -28,10 +28,10 @@
 - Felix Rensler ran out of milk at 4:30 PM, served only black coffee
 - Club physiotherapist: Dr. Lena Sorrens (seen consulting with Corbett about Blackshaw's knee)
 
-## Injury Updates (19 Feb → 20 Feb)
-- **Blackshaw:** Grade-one ligament strain (right knee). Not a tear. Passed light contact training Thu (cutting, turning, competing for headers). Full session Fri will be decisive. Increasingly expected to start Saturday. Game-day decision officially stands.
-- **Osei:** Hamstring tightness. Trained fully Thursday, declared available for selection. "Nadia is fine" — Corbett.
-- **Contingency:** Ronan Cahill (veteran, 4 starts this season) or Theo Harwick (20, academy graduate, 2 cup appearances) if Blackshaw unfit.
+## Injury Updates (21 Feb)
+- **Blackshaw:** Grade-one ligament strain (right knee). Passed full contact training Friday without restriction. Declared fit, confirmed to start Saturday vs Haverford. "He trained fully. He'll start. That's the end of it." — Corbett.
+- **Osei:** Fully fit. Returns to starting eleven (right wing) in place of Harwick.
+- **Starting XI vs Haverford (confirmed):** Marsh; Kellaway, Blackshaw, Cahill, Torrence; Dunmore, Whitaker, Brennick; Osei, Harte, Volkov.
 
 ## Premier Division Table (bottom, as of 19 Feb)
 | Pos | Team | P | Pts |

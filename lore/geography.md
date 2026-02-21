@@ -17,6 +17,9 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Guildhall Terrace** — Location of Fairweather & Chalk insurance offices
 - **Harker Street** — Midtown location of Ashcroft Property Group offices
 - **Bridgewater Stadium** — 96 years old, home of major sporting events, capacity ~48,000
+- **Chancery Row** — Location of the Bobington Foreign Office
+- **Chandler's Row** — Docklands street; former sail loft found in disrepair during safety audit
+- **Harrowgate Pier** — Old pier at the southern extent of the Docklands waterfront
 
 ## Broader World
 - **Greymoor Highlands** — Rural/highland region, source of granite and landscape painting inspiration

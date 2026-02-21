@@ -27,8 +27,9 @@
 
 - **20 Feb** — Gerald Ashcroft interviewed at Constabulary headquarters for 4 hours 15 minutes; left via side exit without comment. Frye presented Fairweather & Chalk documents on insurance valuation discrepancies. Two more former Ashcroft employees came forward (former site manager, former maintenance contractor). Delvarian Consul Pehr Lindqvist requested private meeting with Bobington Foreign Office — first Delvarian diplomatic engagement since crisis began. Thessarine corvette *Vantara* intercepted Delvarian trawler *Stormbreak* in southern channel (detained 6 hours, radio confiscated). Copper at 879. Blackshaw passed light contact training; Osei declared fit for Saturday. Hargrove published letter to Gallery decrying "carnival of auction-house arithmetic."
 
+- **21 Feb** — Delvarian Consul Lindqvist meets Undersecretary Marchetti at the Foreign Office (~90 minutes); described as "substantive and frank." Sources: Lindqvist receptive but cautious on quiet channel; Delvarian conditions include no preconditions on exercises, bilateral only, Delvaria to designate own envoy. Copper closes at 886. Docklands safety audit begins (6 teams, 72 properties, 14 assessed day one, multiple lapsed fire certs found). Revenue Office issues formal demand to Ashcroft for 2.4M florin levy (14-day deadline). Blackshaw completes full training, declared fit to start Saturday. Corbett names starting eleven. Seldon welcomes audit.
+
 ## Upcoming
-- **21 Feb (Fri)** — Lindqvist meeting with Foreign Office. Blackshaw full training session (decisive for Saturday selection).
 - **22 Feb (Sat)** — Rovers vs Haverford Town (Premier Division, Bridgewater Stadium, 3 PM, sellout confirmed)
 - **24 Feb (Mon)** — Copper Review Commission first meeting. Okonkwo, Treasury, copper suppliers to testify.
 - **5 Mar** — Copper Review Commission report deadline

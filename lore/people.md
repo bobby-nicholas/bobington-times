@@ -20,6 +20,7 @@
 - **Sir Duncan Hale** — Veteran Bobington diplomat, former consul to both Thessara and Kharstad in the 1990s. Dispatched as envoy to Thessara during the Kaelmar crisis.
 - **Consul Pehr Lindqvist** — Delvarian Empire's consul in Bobington. Career diplomat, three years in post, reputation for discretion. Requested private meeting with Bobington Foreign Office on 19 Feb — the first direct Delvarian diplomatic engagement since crisis began.
 - **Professor Elias Thornbury** — Bobington Institute for Foreign Affairs, diplomatic historian
+- **Undersecretary Helena Marchetti** — Bobington Foreign Office, Undersecretary for Eastern Affairs. Career diplomat; deputy consul in Thessara 2014–2019. Received Lindqvist for 90-minute meeting on 21 Feb.
 
 ## Business & Commerce
 - **Gerald Ashcroft** — Managing director of Ashcroft Property Group. Under suspicion in Greystone Wharf fire. Denies involvement. Offices searched by Constabulary 17 Feb.
