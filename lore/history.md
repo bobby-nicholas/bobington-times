@@ -1,9 +1,17 @@
 # History — Timeline of Major Events
 
 ## Pre-Publication Backstory
+- **1891** — Western Trunk Line (national rail) completed
 - **1882** — Mercer & Holt warehouse built at Greystone Wharf
+- **1914** — Fernwick Bridge opens over the River Ashwater (Thornhill to Bramblegate)
+- **1926** — Bramblegate Fish Market opens under charter of Lord Mayor Oswald Fenn (22 Feb)
 - **1930** — Bridgewater Stadium built (~96 years old as of 2026)
+- **1934** — Blind cave beetle *Trechopsis westhavensis* identified in Westhaven Hills cave systems
 - **1951** — Isolde Hargrove born in Dunbar's Reach
+- **1958** — Millgate weir constructed, ending barge traffic above Bramblegate
+- **1962** — Maritime Accords signed at Fenmouth (Narrow Sea freedom of navigation)
+- **1963** — Dunvale mining disaster, 14 March. Collapse of No. 3 shaft kills 41 miners. Rescue teams work 11 days; 7 survivors found. Inquiry finds inadequate shoring. One director convicted. Mine closes 1964.
+- **1965** — Mining Safety Reform Act passed (prompted by Dunvale). Establishes Inspectorate of Mines.
 - **1973** — Rovers beat Port Caravel Wanderers 1-0 on final day to survive relegation
 - **1974** — Hargrove's graduation piece "Morning, Ashford Bay" exhibited and acquired by Royal Bobington Gallery
 - **~1986** — Most recent significant Delvarian-Thessarine diplomatic rupture (~40 years before 2026)
@@ -29,6 +37,10 @@
 
 - **21 Feb** — Delvarian Consul Lindqvist meets Undersecretary Marchetti at the Foreign Office (~90 minutes); described as "substantive and frank." Sources: Lindqvist receptive but cautious on quiet channel; Delvarian conditions include no preconditions on exercises, bilateral only, Delvaria to designate own envoy. Copper closes at 886. Docklands safety audit begins (6 teams, 72 properties, 14 assessed day one, multiple lapsed fire certs found). Revenue Office issues formal demand to Ashcroft for 2.4M florin levy (14-day deadline). Blackshaw completes full training, declared fit to start Saturday. Corbett names starting eleven. Seldon welcomes audit.
 
+- **21 Feb** — Fernwick Bridge closed after stress fractures found in 3 of 4 suspension cables. 14,000 daily commuters stranded.
+- **20 Feb (Thu, Caldwell)** — Parliament approves preliminary funding (340M florins) for Caldwell-Bobington High-Speed Rail Link (198-143).
+- **20-22 Feb** — 27th Windhallow Festival in Ashwater Valley. ~35,000 attendees. Luma Sable's Saturday resonance set acclaimed.
+- **22 Feb** — Bramblegate Fish Market centenary (dawn ceremony, Dr. Fenn-Coulthard rings bell). Ringball: Ashwick Stoneflies 34-29 Caravel Harriers (ends 23-match unbeaten run). Parliament approves Dunvale mining memorial (312-7).
 - **22 Feb** — Rovers 2-1 Haverford Town (Osei 43', Harte 78'; Rhys 34'). Blackshaw subbed 82' with stiff knee. Millwall 0-3 Thornbury. Rovers climb to 14th (29 pts, 6 clear of relegation). Docklands audit day 2: falsified fire certificates found at two warehouses (Chandler's Row and Pilot's Alley) — signatures of inspectors not employed at listed dates; referred to Constabulary. 30 of 72 properties assessed. *Kharstad Gazette* publishes strikingly moderate editorial "The Duty of Restraint" — diplomatic observers read it as signal Delvaria considering quiet channel. Pryce and Voss meet to review commission procedures and written submissions (Merchants' Guild, DWA, Historical Preservation Society). 200+ dockworkers to attend Monday hearing. Royal Institute announces emergency copper geology lecture (Wed, sold out in 3 hours). Hargrove retrospective passes 30,000 total visitors; 14,000 in second weekend; timed entry announced. Spice trade crisis: velveroot exhausted, cardamon up 15%.
 
 ## Upcoming

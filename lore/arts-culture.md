@@ -16,6 +16,30 @@
 - **Aldwyck & Horne** — Major auction house, Port Caravel. Representatives observed in Bobington (18 Feb) amid Hargrove market surge.
 - **Maison Lefèvre** — Major auction house, Verlaine. Representatives observed in Bobington (18 Feb).
 
+## Music
+
+### Traditions & Genres
+- **Resonance** — A musical tradition built around the twin-strung vielle. The instrument's two strings produce harmonic interference patterns (overtones) that create a "phantom" third voice. In skilled hands, an unaccompanied resonance performance can fill a concert hall. Thessarine in origin but practised widely.
+- **Drift / Chamber-drift** — A genre combining vielle, bone flute, and bellows (a drone instrument). Emphasises layered tension and textural complexity. The Caulfield Ensemble from Edgeminster are rising stars.
+- **Street-tone** — A vocal tradition from working-class Bobington, especially the Docklands. Group singing that builds harmonic towers from simple chants (stevedore's chants, river songs). Divisive but authentic. The Dockside Chorus are the leading practitioners.
+- **Harmonic choir** — Verlainese choral tradition. Glacially beautiful.
+- **Percussion** — Various traditions; the Adequate Badgers are a twelve-piece percussion troupe.
+
+### Instruments
+- **Vielle** — Twin-strung bowed instrument, central to resonance and drift music. Can be played melodically or for overtone/resonance work.
+- **Bone flute** — Wind instrument used in chamber-drift.
+- **Bellows** — Drone instrument, provides the low sustained tones in drift ensembles.
+
+### Musicians
+- **Luma Sable** — Resonance player (vielle), 41, Thessarine-born, Bobington-based. Transcendent solo performer. Standout of Windhallow 2026.
+- **Celeste Caulfield** — Chamber-drift composer/performer, 28, from Edgeminster. Leads the Caulfield Ensemble.
+- **Ivo Brennick** — Lead caller, Dockside Chorus (street-tone, Docklands).
+- **The Adequate Badgers** — Twelve-piece percussion troupe.
+- **Millgate Resonance Collective** — Resonance ensemble.
+
+### Festivals
+- **Windhallow Festival** — Annual music festival, Ashwater Valley (~12 km south of Bobington). 27th edition held Feb 2026. ~35,000 attendees over 3 days. Four stages (Ashwater Stage, River Stage, Woodland Stage, and a fourth). Director: Eamon Gallis. Traditions: Friday-night bonfire, Sunday-morning brass procession. 2027 will add a fifth stage for emerging artists.
+
 ## Venues
 - **Royal Bobington Gallery** — Major art museum. Director: Simone Aldair. Meridian Hall is the main exhibition space.
 - **Bobington Academy of Fine Arts** — Art school, annual show tradition

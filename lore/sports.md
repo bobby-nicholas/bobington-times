@@ -43,6 +43,28 @@
 | 16 | Duncastle FC | 25 | 26 |
 | 17 | Millwall Athletic | 25 | 23 |
 
+## Ringball
+
+A major sport in Bobington and the wider nation. Played on an oval pitch. Key features:
+- **The Ring** — An elevated hoop mounted on a tall post. Scoring involves launching (arcing) the ball through it.
+- **Lodges** — Positions/zones on the pitch (left lodge, right lodge). Players rotate through lodges.
+- **Positions:** Centrist (playmaker), lock (close-range), keeper (defensive). Markers are defenders.
+- **Match structure:** Four quarters. Drop at the start of each quarter.
+- **Scoring:** A ring = points (exact value TBD in future coverage; current match scores suggest ~5 pts per ring plus additional scoring methods). Clearances are a defensive stat for keepers.
+- **Key mechanic:** The "arc" — a curved throw/launch toward the ring, can be flat or sweeping.
+- **Cornerwork** — Tactical play near the edges of the oval.
+
+### Ringball League
+- **Caravel Harriers** — Defending champions (back-to-back titles). 23-match unbeaten run ended 22 Feb. Coach: Wil Sørensen. Star centrist: Oska Dain. Top of table, 47 pts.
+- **Thornbury Lancers** — Second, 45 pts. Beat Millhaven 26-18 (22 Feb).
+- **Ashwick Stoneflies** — Third, 44 pts. Beat Caravel 34-29 (22 Feb). Coach: Regan Hollister. Home ground: Ashwick Oval (~14,000). Key players: Fen Barlow (22, breakout star), Maren Thatch (keeper), Dov Marsden (veteran centrist, 36), Petra Venn (lock).
+- **Millhaven** — Lost 18-26 to Thornbury (22 Feb).
+- Six rounds remaining in the season.
+
+### Ringball Results (22 Feb)
+- Ashwick Stoneflies 34, Caravel Harriers 29 (Barlow 2 rings, Marsden 1, Venn 1; Dain scored for Caravel)
+- Thornbury Lancers 26, Millhaven 18
+
 ## Upcoming
 - **22 Feb (Sat):** Rovers vs Haverford Town (home, Bridgewater Stadium, 3 PM, confirmed sellout — 48,000). First league sellout this season.
 - Millwall Athletic travel to Thornbury Academicals (3rd) on Saturday.

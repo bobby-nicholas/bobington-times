@@ -50,6 +50,24 @@
 - ***Stormbreak*** — Delvarian-flagged fishing trawler. Crew of 9. Detained by Thessarine patrol on 19 Feb in southern channel. Released after 6-hour inspection.
 - ***Vantara*** — Thessarine corvette. Conducted the *Stormbreak* interception on 19 Feb.
 
+## Engineering & Infrastructure
+- **Hallam & Stroud** — Engineering consultancy. Senior partner: Malcolm Stroud. Reinforced Coldharbour Viaduct (2019). Assessing Fernwick Bridge (2026).
+- **Municipal Works Office** — City infrastructure maintenance. Chief Municipal Engineer: Dorothea Kinnear.
+- **Municipal Markets Board** — Oversees public markets including Bramblegate Fish Market. Warden: Phillip Catton.
+
+## Academic & Scientific
+- **Bobington Institute of Natural Sciences** — Research institution. Dr. Annalise Fenn-Coulthard is a marine biologist there.
+- **Westhaven Conservation Trust** — Environmental group protecting Westhaven Hills cave systems and blind cave beetle *Trechopsis westhavensis*.
+- **Inspectorate of Mines** — Independent body established by Mining Safety Reform Act of 1965 (post-Dunvale disaster).
+
+## National Government
+- **National Parliament** — Seated in Caldwell. Transport Minister: Adrienne Leclerc.
+
+## Music & Festivals
+- **Windhallow Festival** — Annual 3-day music festival in the Ashwater Valley, ~12 km south of Bobington. 27th year in 2026. Director: Eamon Gallis. ~35,000 attendees. Four stages (expanding to five in 2027).
+- **Dockside Chorus** — Street-tone vocal group from the Docklands. Lead caller: Ivo Brennick.
+- **Caulfield Ensemble** — Chamber-drift quartet from Edgeminster. Led by Celeste Caulfield.
+
 ## Media
 - **The Bobington Times** — Newspaper of record. Vol. CLXII.
 - **Kharstad Gazette** — Delvarian state-controlled newspaper

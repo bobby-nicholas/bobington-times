@@ -46,6 +46,12 @@
 - **Matthias Crane** — Legendary painter, Hargrove's teacher, known for brooding seascapes
 - **Simone Aldair** — Director of the Royal Bobington Gallery
 
+## Infrastructure & Engineering
+- **Dorothea Kinnear** — Chief Municipal Engineer. Ordered closure of Fernwick Bridge on 21 Feb 2026.
+- **Malcolm Stroud** — Senior partner at Hallam & Stroud engineering consultancy. Oversaw Coldharbour Viaduct reinforcement (2019). Assessing Fernwick Bridge.
+- **Transport Minister Adrienne Leclerc** — National government. Championed the Caldwell-Bobington High-Speed Rail Link (9.8B florins, 340 km, 87 minutes).
+- **Archibald Pennyman** — Member of Parliament for Edgeminster. Opposed to rail route through his constituency.
+
 ## Legal
 - **Edmond Crayle** — Solicitor at Crayle, Whitford & Associates. Retained by Gerald Ashcroft in the Greystone Wharf arson investigation. One of Bobington's most prominent legal firms.
 - **Miriam Oakes** — Solicitor representing Thomas Breck (former Greystone Wharf night watchman) in the arson investigation.
@@ -78,6 +84,36 @@
 ## Food & Commerce
 - **Haroun Nazari** — Third-generation spice merchant, Ashbury Lane. Grandfather Tarek established the business in 1962. Warehouse carries 30+ varieties of eastern spice. Severely impacted by Kaelmar crisis.
 - **Simeon Kade** — Proprietor of The Willow Table, Threadneedle Street. Respected Midtown restaurant. Pulled braised lamb shoulder from menu due to velveroot shortage.
+
+## Historical Figures
+- **Lord Mayor Oswald Fenn** — Lord Mayor of Bobington, chartered the Bramblegate Fish Market in 1926. Great-grandfather of Dr. Annalise Fenn-Coulthard.
+- **Arthur Holloway** — Shift foreman, killed in the Dunvale mining disaster of 14 March 1963.
+- **Bess Holloway** — Widow of Arthur Holloway, now 81. Campaigned since 1968 for a memorial. Succeeded Feb 2026.
+- **Roderick Hallam** — Chief Mining Inspector who led the 1963 Dunvale disaster inquiry.
+
+## Civic & Market Figures
+- **Dr. Annalise Fenn-Coulthard** — Marine biologist at Bobington Institute of Natural Sciences. Great-granddaughter of Lord Mayor Fenn. Rang the centenary bell at Bramblegate Fish Market.
+- **Orna Vesely** — Smoked-fish stall holder at Bramblegate Fish Market (28 years). Stall: Vesely & Sons.
+- **Phillip Catton** — Market Warden, Bramblegate Fish Market. Municipal Markets Board.
+- **Marjorie Dunwell** — Retired schoolteacher, Thornhill. 31-year resident.
+
+## Musicians & Festival
+- **Luma Sable** — Resonance player (twin-strung vielle), age 41. From Thessara, living in Bobington for a decade. Gave transcendent solo set at Windhallow Festival 2026.
+- **Celeste Caulfield** — Leader of the Caulfield Ensemble (chamber-drift quartet from Edgeminster), age 28.
+- **Ivo Brennick** — Lead caller of the Dockside Chorus (street-tone group, Docklands).
+- **Eamon Gallis** — Director of the Windhallow Festival.
+
+## Ringball
+- **Fen Barlow** — Ashwick Stoneflies player, age 22. Ninth senior match. Scored two rings in comeback vs Caravel Harriers (22 Feb).
+- **Maren Thatch** — Ashwick Stoneflies keeper. Six clearances in the final quarter.
+- **Petra Venn** — Ashwick Stoneflies lock.
+- **Dov Marsden** — Ashwick Stoneflies centrist, age 36. Veteran. Scored from the centreline.
+- **Oska Dain** — Caravel Harriers centrist. Arguably the finest ringball player in the league.
+- **Regan Hollister** — Ashwick Stoneflies coach.
+- **Wil Sørensen** — Caravel Harriers coach.
+
+## Sculptors
+- **Ines Cavallo** — Sculptor from Port Caravel, working in Bobington. Designed the Dunvale mining memorial (41 bronze figures ascending a staircase).
 
 ## Private Citizens
 - **Captain Runa Halverssen** — Cargo brig *Windhaven*, reported Delvarian naval buildup
