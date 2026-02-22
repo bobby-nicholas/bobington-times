@@ -25,6 +25,8 @@
 - **Fairweather & Chalk** — Insurance firm. Underwrote Ashcroft's warehouse policy.
 - **Helmsford's** — Long-established bakery, Ashbury Lane area
 - **Rensler's Coffee House** — Threadneedle Street. Proprietor: Felix Rensler.
+- **Nazari Spice Merchants** — Ashbury Lane. Third-generation family business (est. 1962 by Tarek Nazari). Current proprietor: Haroun Nazari.
+- **The Willow Table** — Threadneedle Street restaurant. Proprietor: Simeon Kade.
 
 ## Art Trade
 - **Grayle & Finch Fine Art** — Bramblegate Lane, one of Bobington's oldest art dealerships. Director: Desmond Grayle.

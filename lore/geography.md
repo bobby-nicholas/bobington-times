@@ -20,6 +20,9 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Chancery Row** — Location of the Bobington Foreign Office
 - **Chandler's Row** — Docklands street; former sail loft found in disrepair during safety audit
 - **Harrowgate Pier** — Old pier at the southern extent of the Docklands waterfront
+- **Pilot's Alley** — Adjacent to Chandler's Row in the Docklands; site of falsified fire certificate discovery
+- **Mercer Street** — Adjacent to Arundel Crescent, near the Royal Institute
+- **Merchants' Quarter** — District for spice and commodity merchants
 
 ## Broader World
 - **Greymoor Highlands** — Rural/highland region, source of granite and landscape painting inspiration

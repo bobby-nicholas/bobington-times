@@ -1,10 +1,10 @@
 # Sports
 
 ## Teams
-- **Bobington Rovers** — Manager: Phillipa Corbett (contract expires end of season). Won Merchants' Cup 2026 (first in 11 years). Currently 15th in Premier Division, 26 points from 24 matches, 3 points above relegation, 14 matches remaining. Home ground: Bridgewater Stadium (~48,000 capacity, 96 years old). Training ground in Thornhill. Injury concerns: Blackshaw (knee), Osei (hamstring).
+- **Bobington Rovers** — Manager: Phillipa Corbett (contract expires end of season). Won Merchants' Cup 2026 (first in 11 years). Currently 14th in Premier Division, 29 points from 25 matches, 6 points above relegation, 13 matches remaining. Home ground: Bridgewater Stadium (~48,000 capacity, 96 years old). Training ground in Thornhill. Injury concerns: Blackshaw (knee), Osei (hamstring).
 - **Ironhall United** — Were favourites for Merchants' Cup. Goalkeeper: Magnus Stahl. Striker: Brennan Cole.
 - **Haverford Town** — 13th in Premier Division, 29 points. Rovers' next league opponents (Saturday at Bridgewater, expected sellout).
-- **Millwall Athletic** — In final relegation place, 3 points below Rovers
+- **Millwall Athletic** — In final relegation place, 6 points below Rovers. Lost 0-3 at Thornbury (22 Feb).
 - **Caravel City** — League leaders
 - **Thornbury Academicals** — Third in the Premier Division
 - **Port Caravel Wanderers** — Historical club; Rovers beat them 1-0 on final day 1973 to survive relegation
@@ -15,6 +15,7 @@
 
 ## Key Results
 - **Merchants' Cup Final 2026** (14 Feb) — Rovers 2, Ironhall United 1 (AET). Bridgewater Stadium, ~48,000. Cole 34' (IRN), Blackshaw 72' (ROV), Dunmore 118' (ROV, 35-yard strike).
+- **Premier Division, 22 Feb** — Rovers 2 (Osei 43', Harte 78'), Haverford Town 1 (Rhys 34'). Bridgewater Stadium, att: 48,112. Ref: D. Ashworth. Comeback win; Blackshaw subbed 82' (knee stiffened). Millwall 0-3 Thornbury Academicals. Ashwick Borough 1-1 Caravel City reserves.
 
 ## Cup Parade — 18 February 2026
 - Route: Bridgewater Stadium → Harbourfront Parade (Docklands) → Threadneedle Street (Midtown) → Caldecott Square
@@ -28,19 +29,19 @@
 - Felix Rensler ran out of milk at 4:30 PM, served only black coffee
 - Club physiotherapist: Dr. Lena Sorrens (seen consulting with Corbett about Blackshaw's knee)
 
-## Injury Updates (21 Feb)
-- **Blackshaw:** Grade-one ligament strain (right knee). Passed full contact training Friday without restriction. Declared fit, confirmed to start Saturday vs Haverford. "He trained fully. He'll start. That's the end of it." — Corbett.
-- **Osei:** Fully fit. Returns to starting eleven (right wing) in place of Harwick.
+## Injury Updates (22 Feb)
+- **Blackshaw:** Started vs Haverford. Subbed 82' — knee stiffened in the cold. Standing ovation. To be assessed Sunday. Harwick replaced him.
+- **Osei:** Fully fit. Scored equaliser (43') vs Haverford.
 - **Starting XI vs Haverford (confirmed):** Marsh; Kellaway, Blackshaw, Cahill, Torrence; Dunmore, Whitaker, Brennick; Osei, Harte, Volkov.
 
-## Premier Division Table (bottom, as of 19 Feb)
+## Premier Division Table (bottom, as of 22 Feb)
 | Pos | Team | P | Pts |
 |-----|------|---|-----|
-| 13 | Haverford Town | 24 | 29 |
-| 14 | Ashwick Borough | 24 | 27 |
-| 15 | Bobington Rovers | 24 | 26 |
-| 16 | Duncastle FC | 24 | 25 |
-| 17 | Millwall Athletic | 24 | 23 |
+| 13 | Haverford Town | 25 | 29 |
+| 14 | Bobington Rovers | 25 | 29 |
+| 15 | Ashwick Borough | 25 | 28 |
+| 16 | Duncastle FC | 25 | 26 |
+| 17 | Millwall Athletic | 25 | 23 |
 
 ## Upcoming
 - **22 Feb (Sat):** Rovers vs Haverford Town (home, Bridgewater Stadium, 3 PM, confirmed sellout — 48,000). First league sellout this season.

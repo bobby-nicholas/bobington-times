@@ -32,7 +32,9 @@
 - Focus: fire safety, insurance compliance, security arrangements
 - Proposed by Pryce in the wake of the Greystone Wharf arson
 - **Audit began 21 Feb** — Six teams deployed across waterfront (Greystone Wharf to Harrowgate Pier). Coordinated by Fire Marshal Hale with Constabulary and Revenue Office. 72 vacant properties identified for review. 14 preliminary assessments completed on first day; at least 3 with lapsed fire safety certs, 2 with no documentation. Expected 3-4 weeks; preliminary report by mid-March.
-- **Ashcroft tax demand** (21 Feb) — Municipal Revenue Office issued formal demand to Ashcroft Property Group for 2,434,600 florins in outstanding vacant building levy (Jan 2024–Feb 2026). 14-day payment deadline. Crayle disputes calculation and classification of properties as vacant.
+- **Ashcroft tax demand** (21 Feb) — Municipal Revenue Office issued formal demand to Ashcroft Property Group for 2,434,600 florins in outstanding vacant building levy (Jan 2024–Feb 2026). 14-day payment deadline (~7 Mar). Crayle disputes calculation and classification of properties as vacant.
+- **Falsified fire certificates** (22 Feb) — Day 2 of audit: two warehouses (Chandler's Row and Pilot's Alley) found with fire safety certificates bearing signatures of inspectors not employed at listed dates (2023–2025). Referred to Constabulary. 30 of 72 properties assessed. 5 lapsed certs, 2 with no documentation, 2 falsified, 3 with unauthorised habitation.
+- **Commission preparations** (22 Feb) — Pryce and Voss met Saturday to review procedures. Written submissions received from Merchants' Guild (12 pp, supports proceed with modified scope), DWA (5 pp, demands guaranteed wages), Historical Preservation Society (retain Greymoor granite). 200+ DWA members to attend Monday's hearing.
 
 ## Political Dynamics (updated)
 - Council split tested by copper crisis; forced rare bipartisan cooperation (Pryce-Voss commission)

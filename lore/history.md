@@ -29,9 +29,12 @@
 
 - **21 Feb** — Delvarian Consul Lindqvist meets Undersecretary Marchetti at the Foreign Office (~90 minutes); described as "substantive and frank." Sources: Lindqvist receptive but cautious on quiet channel; Delvarian conditions include no preconditions on exercises, bilateral only, Delvaria to designate own envoy. Copper closes at 886. Docklands safety audit begins (6 teams, 72 properties, 14 assessed day one, multiple lapsed fire certs found). Revenue Office issues formal demand to Ashcroft for 2.4M florin levy (14-day deadline). Blackshaw completes full training, declared fit to start Saturday. Corbett names starting eleven. Seldon welcomes audit.
 
+- **22 Feb** — Rovers 2-1 Haverford Town (Osei 43', Harte 78'; Rhys 34'). Blackshaw subbed 82' with stiff knee. Millwall 0-3 Thornbury. Rovers climb to 14th (29 pts, 6 clear of relegation). Docklands audit day 2: falsified fire certificates found at two warehouses (Chandler's Row and Pilot's Alley) — signatures of inspectors not employed at listed dates; referred to Constabulary. 30 of 72 properties assessed. *Kharstad Gazette* publishes strikingly moderate editorial "The Duty of Restraint" — diplomatic observers read it as signal Delvaria considering quiet channel. Pryce and Voss meet to review commission procedures and written submissions (Merchants' Guild, DWA, Historical Preservation Society). 200+ dockworkers to attend Monday hearing. Royal Institute announces emergency copper geology lecture (Wed, sold out in 3 hours). Hargrove retrospective passes 30,000 total visitors; 14,000 in second weekend; timed entry announced. Spice trade crisis: velveroot exhausted, cardamon up 15%.
+
 ## Upcoming
-- **22 Feb (Sat)** — Rovers vs Haverford Town (Premier Division, Bridgewater Stadium, 3 PM, sellout confirmed)
-- **24 Feb (Mon)** — Copper Review Commission first meeting. Okonkwo, Treasury, copper suppliers to testify.
+- **24 Feb (Mon)** — Copper Review Commission first hearing (9 AM, Municipal Chamber). Okonkwo, Whitford, Haversten to testify. 200+ DWA members in gallery.
+- **26 Feb (Wed)** — Royal Institute special lecture: "Copper in the Earth" by Whitstone & Fenn (7:30 PM, sold out)
 - **5 Mar** — Copper Review Commission report deadline
+- **~7 Mar** — Ashcroft tax demand payment deadline
 - **Autumn 2026** — Tramway Phase 1 breaks ground (pending commission recommendation)
 - **Through 30 June** — Hargrove retrospective on view

@@ -70,6 +70,15 @@
 ## Art Market
 - **Desmond Grayle** — Director of Grayle & Finch Fine Art, Bramblegate Lane. One of Bobington's oldest art dealerships. Commented on the Hargrove market surge.
 
+## Sports Figures (additional)
+- **Emrys Pugh** — Haverford Town left-sided midfielder
+- **Gareth Rhys** — Haverford Town centre-back. Scored header vs Rovers (22 Feb).
+- **D. Ashworth** — Premier Division referee
+
+## Food & Commerce
+- **Haroun Nazari** — Third-generation spice merchant, Ashbury Lane. Grandfather Tarek established the business in 1962. Warehouse carries 30+ varieties of eastern spice. Severely impacted by Kaelmar crisis.
+- **Simeon Kade** — Proprietor of The Willow Table, Threadneedle Street. Respected Midtown restaurant. Pulled braised lamb shoulder from menu due to velveroot shortage.
+
 ## Private Citizens
 - **Captain Runa Halverssen** — Cargo brig *Windhaven*, reported Delvarian naval buildup
 - **Estelle Danforth** — Commuter from Docklands to Upper Fernwich, bookkeeper
