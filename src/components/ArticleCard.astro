@@ -1,4 +1,6 @@
 ---
+import { reporterPortraits } from '../data/reporters';
+
 interface Props {
   title: string;
   slug: string;
@@ -27,6 +29,7 @@ const {
   showSummary = true,
 } = Astro.props;
 
+const portrait = reporterPortraits[author];
 const headlineClass = `headline headline--${size === 'hero' ? 'hero' : size === 'large' ? 'large' : size === 'small' ? 'small' : 'medium'}`;
 const href = `/articles/${slug}`;
 const dateStr = `${date.getDate()} ${date.toLocaleDateString('en-GB', { month: 'long' })} ${date.getFullYear()}`;
@@ -45,7 +48,10 @@ const dateStr = `${date.getDate()} ${date.toLocaleDateString('en-GB', { month: '
     <h2 class={headlineClass}>
       <a href={href}>{title}</a>
     </h2>
-    <div class="byline">By {author} · {dateStr}</div>
+    <div class="byline">
+      {portrait && <img src={portrait} alt={author} class="byline__portrait" />}
+      <span>By {author} · {dateStr}</span>
+    </div>
     {showSummary && <p class="summary space-sm">{summary}</p>}
   </div>
 </article>
@@ -78,6 +84,20 @@ const dateStr = `${date.getDate()} ${date.toLocaleDateString('en-GB', { month: '
   .headline a {
     color: var(--color-ink);
     text-decoration: none;
+  }
+
+  .byline {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .byline__portrait {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid var(--color-rule-light);
   }
 
   .headline a:hover {

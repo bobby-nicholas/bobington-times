@@ -12,10 +12,12 @@ const sectionNames: Record<string, string> = {
   sports: 'Sports',
   arts: 'Arts & Culture',
   opinion: 'Opinion',
+  science: 'Science & Discovery',
+  business: 'Business & Commerce',
 };
 
 export async function getStaticPaths() {
-  return ['news', 'international', 'sports', 'arts', 'opinion'].map((section) => ({
+  return ['news', 'international', 'sports', 'arts', 'opinion', 'science', 'business'].map((section) => ({
     params: { section },
   }));
 }

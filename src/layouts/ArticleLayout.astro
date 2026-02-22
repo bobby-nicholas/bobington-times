@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Masthead from '../components/Masthead.astro';
 import Footer from '../components/Footer.astro';
+import { reporterPortraits } from '../data/reporters';
 
 interface Props {
   title: string;
@@ -15,6 +16,7 @@ interface Props {
 }
 
 const { title, subtitle, section, author, authorTitle, date, image, imageCaption } = Astro.props;
+const portrait = reporterPortraits[author];
 const day = date.getDate();
 const weekday = date.toLocaleDateString('en-GB', { weekday: 'long' });
 const month = date.toLocaleDateString('en-GB', { month: 'long' });
@@ -27,6 +29,8 @@ const sectionNames: Record<string, string> = {
   sports: 'Sports',
   arts: 'Arts & Culture',
   opinion: 'Opinion',
+  science: 'Science & Discovery',
+  business: 'Business & Commerce',
 };
 ---
 
@@ -41,10 +45,15 @@ const sectionNames: Record<string, string> = {
         {subtitle && <p class="article__subtitle">{subtitle}</p>}
         <hr class="rule rule--light" />
         <div class="article__meta">
-          <span class="article__author">
-            By <strong>{author}</strong>{authorTitle && `, ${authorTitle}`}
-          </span>
-          <span class="dateline">{dateStr}</span>
+          {portrait && (
+            <img src={portrait} alt={author} class="article__portrait" />
+          )}
+          <div class="article__meta-text">
+            <span class="article__author">
+              By <strong>{author}</strong>{authorTitle && `, ${authorTitle}`}
+            </span>
+            <span class="dateline">{dateStr}</span>
+          </div>
         </div>
         <hr class="rule rule--light" />
       </header>
@@ -91,11 +100,25 @@ const sectionNames: Record<string, string> = {
 
   .article__meta {
     display: flex;
+    align-items: center;
     justify-content: center;
-    gap: 2rem;
+    gap: 1rem;
     padding: 0.6rem 0;
     font-family: var(--font-body);
     font-size: 0.85rem;
+  }
+
+  .article__meta-text {
+    display: flex;
+    gap: 2rem;
+  }
+
+  .article__portrait {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid var(--color-rule-light);
   }
 
   .article__author {

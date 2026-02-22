@@ -31,7 +31,8 @@ When triggered by cron to publish a new edition, follow this process:
   - Advancing 2-3 ongoing storylines (follow-ups to previous articles)
   - Introducing 1-2 new storylines or events
   - Ensuring coverage across sections (news, international, sports, arts, opinion)
-- Plan 4-6 articles for this edition with a brief outline of each
+- Plan 8-12 articles for this edition with a brief outline of each
+- Ensure coverage across ALL sections: news, international, sports, arts, opinion, science, business
 
 ### Phase 2: Writing
 - Write each article as a markdown file in `src/content/articles/`
@@ -40,7 +41,7 @@ When triggered by cron to publish a new edition, follow this process:
   ---
   title: "Article Title"
   subtitle: "Optional subtitle"  # optional
-  section: news  # one of: news, international, sports, arts, opinion
+  section: news  # one of: news, international, sports, arts, opinion, science, business
   date: 2026-02-15  # the edition date
   author: Reporter Name
   authorTitle: Their Beat  # optional, e.g. "City Hall Correspondent"
@@ -51,13 +52,15 @@ When triggered by cron to publish a new edition, follow this process:
   edition: "2026-02-15"  # the edition identifier
   ---
   ```
+- Available sections: `news`, `international`, `sports`, `arts`, `opinion`, `science`, `business`
 - Write in the voice of each bylined reporter — they are recurring characters (see `lore/reporters.md`)
 - Include specific details: names, places, numbers, quotes from sources
 - Cross-reference established lore before introducing anything new
 
 ### Phase 3: Photography
-- Generate ONE image per edition: for the featured article only. (Bob's standing instruction — revert to per-article images when notified.)
-- Save images to `public/images/` with descriptive filenames
+- Generate images for **3-5 articles per edition** (not just the featured one). Prioritise the featured article, plus the most visually compelling stories.
+- Reporter portraits are pre-generated and persistent — do NOT regenerate them. They live in `public/images/reporters/` and are mapped in `src/data/reporters.ts`.
+- Save article images to `public/images/` with descriptive filenames
 - Image prompts should evoke the old-timey newspaper aesthetic: think early press photography, slightly desaturated, editorial composition
 - **Critical:** Always include in prompts: "Do not include any text, captions, labels, watermarks, dates, or annotations within the image." Gemini tends to burn in captions like "CITY HALL, 1934" which breaks immersion.
 - Update the article frontmatter with the image path and caption

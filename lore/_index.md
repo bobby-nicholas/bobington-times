@@ -14,3 +14,5 @@ This directory contains the canonical deep reference for the world of Bobington.
 | `international.md` | Foreign nations, diplomacy, treaties, trade routes, conflicts |
 | `economy.md` | Currency, markets, trade, commodity prices, businesses, labour |
 | `history.md` | Timeline of major past events (pre-publication backstory + published events) |
+| `science.md` | Scientific institutions, discoveries, natural phenomena, technology |
+| `business.md` | Major firms, trade, markets, commercial personalities |
