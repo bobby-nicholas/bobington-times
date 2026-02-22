@@ -6,6 +6,8 @@ This is your short-term editorial memory. Read this every session. For deep refe
 
 Detailed canonical reference lives in `lore/`. **Always consult the relevant file before writing about a topic. Always update the relevant file after publishing.**
 
+**Editorial expansion (21 Feb 2026):** Editions now target 8-12 articles across 7 sections (added Science & Business). 3-5 images per edition. Two new reporters: Henrietta Voss (Science) and Edwin Marsh-Pembroke (Business). Reporter portraits are persistent in `public/images/reporters/` and mapped in `src/data/reporters.ts`. Focus on expanding the world — new sports, natural phenomena, scientific discoveries, business activity, cultural movements. Ongoing storylines should continue but don't need follow-ups every edition; just don't forget dangling threads.
+
 See `lore/_index.md` for the full table of contents. Key files:
 - `lore/geography.md` — Places, districts, nations
 - `lore/people.md` — All named characters
