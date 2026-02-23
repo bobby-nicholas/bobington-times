@@ -27,7 +27,7 @@
 - **Clement Varga** — Senior commodities analyst at Fernwich Trading House
 - **Felix Rensler** — Proprietor of Rensler's coffee house on Threadneedle Street
 - **Guildmaster Hadrian Voss** — Head of the Bobington Merchants' Guild for the past six years (no relation to Councilman Aldric Voss). Vocal about shipping cost impacts.
-- **Nils Haversten** — Chairman of the Miners' Cooperative of Greymoor. Greymoor copper mines produce ~2,000 tonnes annually.
+- **Nils Haversten** — Chairman of the Miners' Cooperative of Greymoor. Greymoor copper mines produce ~2,000 tonnes annually. Testified at Copper Review Commission first hearing (24 Feb). Disclosed a seismic tremor in the Highlands (Sun 23 Feb, 5:20 AM) — first in 11 years. Said expansion to 3,500 tonnes possible with 25-35M florin investment, but full geological survey needed first (3-4 months). "The earth has opinions of her own."
 
 ## Sports Figures
 - **Kael Dunmore** — Bobington Rovers midfielder. Scored winning Merchants' Cup goal from 35 yards, 118th minute. Under contract, transfer talk dismissed.
@@ -36,7 +36,7 @@
 - **Orin Blackshaw** — Rovers centre-back, scored the equaliser in cup final. Right knee assessed as grade-one ligament strain (19 Feb). Game-day decision for Saturday's Haverford match.
 - **Nadia Osei** — Rovers winger, assisted Dunmore's winner. Hamstring tightness. Trained lightly 19 Feb, more optimistic. Expected available for selection.
 - **Dai Llewellyn** — Haverford Town manager. "Cup form and league form are different animals."
-- **Theo Harwick** — Rovers young centre-back, 20, academy graduate. Backup option if Blackshaw unfit.
+- **Theo Harwick** — Rovers young centre-back, 20, academy graduate. Started 2 Premier Division matches (both September, both defeats). Deputising for Blackshaw from 24 Feb; expected to start next 4 league matches.
 - **Ronan Cahill** — Rovers veteran defender, survived two previous relegation scrapes
 - **Magnus Stahl** — Ironhall United goalkeeper
 - **Brennan Cole** — Ironhall United star striker, scored their cup final goal
@@ -83,7 +83,10 @@
 
 ## Food & Commerce
 - **Haroun Nazari** — Third-generation spice merchant, Ashbury Lane. Grandfather Tarek established the business in 1962. Warehouse carries 30+ varieties of eastern spice. Severely impacted by Kaelmar crisis.
-- **Simeon Kade** — Proprietor of The Willow Table, Threadneedle Street. Respected Midtown restaurant. Pulled braised lamb shoulder from menu due to velveroot shortage.
+- **Simeon Kade** — Proprietor of The Willow Table, Threadneedle Street. Respected Midtown restaurant. Pulled braised lamb shoulder from menu due to velveroot shortage. Calls his approach "honest adaptation."
+- **Marguerite Fontenoy** — Executive chef at Verlaine's, Midtown. Eastern-influenced cuisine. Has ~3 weeks of spice reserves remaining.
+- **Raymond Duxbury** — Retired fire inspector. Retired from Fire Marshal's Office March 2022. His signature was forged on a falsified fire certificate (dated Aug 2024) for a warehouse on Old Harbour Road. "I have never set foot in that building."
+- **Vincent Drury** — Sole listed director of Greystone Shipping & Haulage. Owner of the Old Harbour Road warehouse linked to certificate forgery scheme.
 
 ## Historical Figures
 - **Lord Mayor Oswald Fenn** — Lord Mayor of Bobington, chartered the Bramblegate Fish Market in 1926. Great-grandfather of Dr. Annalise Fenn-Coulthard.

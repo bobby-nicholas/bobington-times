@@ -25,7 +25,8 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Merchants' Quarter** — District for spice and commodity merchants
 
 - **River Ashwater** — Major river flowing through Bobington, crossed by multiple bridges. Flows from north to south through the city.
-- **Fernwick Bridge** — 112-year-old iron suspension bridge over the Ashwater connecting Thornhill to Bramblegate. Opened 1914. Closed 21 Feb 2026 due to stress fractures in suspension cables. Carries ~14,000 daily commuters.
+- **Fernwick Bridge** — 112-year-old iron suspension bridge over the Ashwater connecting Thornhill to Bramblegate. Opened 1914. Closed 21 Feb 2026 due to stress fractures in suspension cables. Carries ~14,000 daily commuters. Weekend assessment (24 Feb): ALL four cables fractured (not three as initially reported). Repair: full cable replacement, 8-12 months, 55-65M florins. Original cables designed for 60-year life; reinforced 1968 and 1991. Emergency Ashwater ferry proposed (Thornhill Reach to Bramblegate Steps, 15-min intervals, ~200 passengers/crossing, 800K-1.2M florins to establish).
+- **Old Harbour Road** — Docklands street, ~300m from Greystone Wharf. Third warehouse with falsified fire certificate discovered here (24 Feb). Owned by Greystone Shipping & Haulage.
 - **Coldharbour Viaduct** — Bridge north of Fernwick, crossing the Ashwater. Reinforced 2019 by Hallam & Stroud. Capacity ~8,000 crossings/day.
 - **Lower Ashwater Footbridge** — Pedestrian crossing south of Fernwick Bridge. No motor traffic.
 - **Millgate** — District with a weir (built 1958, ended barge traffic above Bramblegate) and a separate tram bridge over the Ashwater.

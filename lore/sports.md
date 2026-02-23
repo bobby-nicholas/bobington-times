@@ -29,10 +29,11 @@
 - Felix Rensler ran out of milk at 4:30 PM, served only black coffee
 - Club physiotherapist: Dr. Lena Sorrens (seen consulting with Corbett about Blackshaw's knee)
 
-## Injury Updates (22 Feb)
-- **Blackshaw:** Started vs Haverford. Subbed 82' — knee stiffened in the cold. Standing ovation. To be assessed Sunday. Harwick replaced him.
-- **Osei:** Fully fit. Scored equaliser (43') vs Haverford.
-- **Starting XI vs Haverford (confirmed):** Marsh; Kellaway, Blackshaw, Cahill, Torrence; Dunmore, Whitaker, Brennick; Osei, Harte, Volkov.
+## Injury Updates (24 Feb)
+- **Blackshaw:** Out minimum 3 weeks. Diagnosis (Sun 23 Feb, Dr. Sorrens): significant inflammation of medial structures, right knee. Misses next 4 matches. Possible return: home vs Port Caravel Wanderers, 21 Mar.
+- **Osei:** Fully fit.
+- **Harwick:** To deputise at centre-back. Won both aerial duels in 8-min cameo vs Haverford. Ronan Cahill also available.
+- **Corbett contract:** Still unresolved. Board sources: negotiations "ongoing."
 
 ## Premier Division Table (bottom, as of 22 Feb)
 | Pos | Team | P | Pts |
@@ -66,6 +67,9 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 - Thornbury Lancers 26, Millhaven 18
 
 ## Upcoming
-- **22 Feb (Sat):** Rovers vs Haverford Town (home, Bridgewater Stadium, 3 PM, confirmed sellout — 48,000). First league sellout this season.
-- Millwall Athletic travel to Thornbury Academicals (3rd) on Saturday.
-- Haverford manager: Dai Llewellyn. Won 2 of last 3 away. "Meanest travelling defence."
+- **1 Mar (Sat):** Rovers at Duncastle FC (away). Duncastle 16th, desperate; won 3 of last 4 at home via set pieces.
+- **8 Mar (Sat):** Rovers vs Caravel City (home). League leaders.
+- **12 Mar (Wed):** Rovers at Thornbury Academicals (away). Third-placed.
+- **15 Mar (Sat):** Rovers vs Ashwick Borough (home). Directly below Rovers in table.
+- **21 Mar (Sat):** Rovers vs Port Caravel Wanderers (home). Possible Blackshaw return.
+- **Next ringball:** Ashwick Stoneflies host Thornbury Lancers (Sat).

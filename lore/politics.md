@@ -24,7 +24,7 @@
 - Established 19 Feb by unanimous council vote (11-0)
 - Co-chaired by Councilwoman Ida Pryce and Councilman Aldric Voss
 - Mandate: assess tramway options (proceed/redesign/phase) and report by 5 March
-- First meeting: Monday 24 Feb. Okonkwo, Treasury, copper suppliers to testify.
+- **First hearing: Mon 24 Feb** — Municipal Chamber packed to capacity. 200+ DWA members in gallery. Speaker Falk opened with written message from Blackthorne: "The commission has my full confidence." Witnesses: Okonkwo (cost of delay: 2-3M florins/week; overrun ~510M at 889 copper), Whitford (funding gap ~160M florins; bond capacity ~350M without downgrade), Haversten (expansion possible to 3,500 tonnes but geological survey needed after Sun tremor). Voss focused on cost exposure; Pryce steered toward human consequences. Adjourned 12:30. Tuesday session: Merchants' Guild, shipping insurance, public testimony. DWA (Seldon) to present oral testimony.
 
 ## Docklands Safety Audit
 - Authorised 19 Feb (8-3 vote, Voss and 2 allies opposed on procedural grounds)
@@ -43,7 +43,7 @@
 - Docklands Workers' Association (foreman Patrick Seldon) emerging as new political voice — seeking formal meeting with council re: workforce protections
 
 ## Upcoming
-- **22 Feb (Sat)** — Rovers vs Haverford Town (Bridgewater Stadium)
-- **24 Feb (Mon)** — Copper Review Commission first meeting (9 AM, Municipal Chamber)
+- **25 Feb (Tue)** — Commission session 2: Merchants' Guild, shipping insurance, public testimony
+- **27 Feb (Thu)** — Merchants' Guild emergency session on spice crisis (Guild Hall)
 - **5 Mar** — Commission report deadline
 - **~7 Mar** — Ashcroft tax demand payment deadline (14 days from 21 Feb)

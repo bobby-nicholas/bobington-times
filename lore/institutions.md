@@ -25,8 +25,13 @@
 - **Fairweather & Chalk** — Insurance firm. Underwrote Ashcroft's warehouse policy.
 - **Helmsford's** — Long-established bakery, Ashbury Lane area
 - **Rensler's Coffee House** — Threadneedle Street. Proprietor: Felix Rensler.
-- **Nazari Spice Merchants** — Ashbury Lane. Third-generation family business (est. 1962 by Tarek Nazari). Current proprietor: Haroun Nazari.
+- **Nazari Spice Merchants** — Ashbury Lane. Third-generation family business (est. 1962 by Tarek Nazari). Current proprietor: Haroun Nazari. Limiting 7 varieties to existing restaurant clients only (24 Feb).
 - **The Willow Table** — Threadneedle Street restaurant. Proprietor: Simeon Kade.
+- **Verlaine's** — Midtown restaurant, eastern-influenced cuisine. Executive chef: Marguerite Fontenoy. ~3 weeks of spice reserves remaining (as of 24 Feb).
+- **The Ashen Grill** — Threadneedle Street restaurant. Replaced eastern-spiced duck with Greymoor herb preparation.
+- **Harrowgate House** — Docklands restaurant known for peppered crab. Switched to domestic seasoning blend.
+- **Bellamy's of Caldecott Square** — Eliminated spiced dessert course entirely.
+- **Greystone Shipping & Haulage** — Incorporated 2019, registered Harbourfront Parade. Sole director: Vincent Drury. Owner of Old Harbour Road warehouse linked to certificate forgery scheme (24 Feb).
 
 ## Art Trade
 - **Grayle & Finch Fine Art** — Bramblegate Lane, one of Bobington's oldest art dealerships. Director: Desmond Grayle.

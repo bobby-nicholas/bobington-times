@@ -26,18 +26,34 @@ See `lore/_index.md` for the full table of contents. Key files:
 
 These are the threads currently in play. Pick 2-3 to advance each edition, and introduce 1-2 new ones.
 
-1. **Copper Review Commission — Monday's First Hearing** — Hearing Mon 24 Feb, 9 AM, Municipal Chamber. Pryce and Voss met Saturday to review procedures. Written submissions filed: Merchants' Guild (proceed with modified scope), DWA (guaranteed wages), Historical Preservation Society (retain granite). 200+ DWA members to fill gallery. Okonkwo, Whitford, Haversten to testify. Copper at 886. Royal Institute special lecture on copper geology Wed 26 Feb (sold out). → `lore/economy.md`, `lore/politics.md`
-2. **Kaelmar Strait — Gazette Signals Shift** — *Kharstad Gazette* published strikingly moderate editorial "The Duty of Restraint" on Sat 22 Feb — "bilateral discretion," "restraint from a position of power." Observers read it as Delvaria seriously considering quiet channel. No formal envoy designation yet. No new naval incidents. Hale still in Thessara. Spice trade hit hard: velveroot exhausted, cardamon up 15%. Next: will Delvaria formally designate an envoy? Monday copper markets. → `lore/international.md`
-3. **Greystone Wharf — Falsified Certificates** — Audit day 2: falsified fire certificates at two Docklands warehouses (Chandler's Row, Pilot's Alley) — signatures of inspectors not employed at listed dates. Referred to Constabulary. 30 of 72 properties assessed. Crayle says Ashcroft relied on professional assessments. Investigation widening beyond single owner. Tax demand (2.4M fl, ~7 Mar deadline) ongoing. → `lore/people.md`, `lore/institutions.md`
-4. **Rovers — Survival Push** — Beat Haverford 2-1 (Osei 43', Harte 78'). Climb to 14th, 29 pts, 6 clear of relegation. But Blackshaw subbed 82' (knee stiffened). Assessment Sunday. Millwall crushed 0-3 at Thornbury. Corbett contract still unresolved. → `lore/sports.md`
-5. **Hargrove — Record Attendance** — 14,000 second weekend; 30,000+ total. Most-visited exhibition in a decade. Timed entry system announced. Market storyline can evolve into auction house competition, collector profiles. → `lore/arts-culture.md`
-6. **Docklands Workers' Association** — Seldon confirmed 200+ members for Monday hearing. Filed written submission demanding guaranteed wages. Emerging as major political voice. → `lore/institutions.md`, `lore/people.md`
-7. **Blackthorne's Silence** — Still no public statement. Conspicuous. → `lore/politics.md`
-8. **Spice Trade Crisis** — New thread. Haroun Nazari profiled. Velveroot gone, cardamon +15%. Restaurants reformulating menus. Sarenne rerouting adds 12-15 days. Human face of the Kaelmar disruption. → `lore/economy.md`, `lore/business.md`
+1. **Copper Review Commission — Hearing Underway** — First hearing held Mon 24 Feb. Okonkwo: overrun ~510M at 889 copper, cost of delay 2-3M/week. Whitford: funding gap ~160M; bond capacity ~350M without credit downgrade. Haversten: seismic tremor in Greymoor Highlands (Sun 23 Feb, first in 11 yrs) — geological survey needed before expansion (3-4 months). Voss focuses on cost exposure; Pryce on human consequences. DWA (200+ members) in gallery, disciplined. Tuesday session: Merchants' Guild, shipping insurance, public testimony. Seldon to present DWA oral testimony. Commission has 9 days (report deadline 5 Mar). Next: Tuesday's session, DWA testimony, will Pryce or Voss's frame prevail? → `lore/economy.md`, `lore/politics.md`
+2. **Kaelmar Strait — Delvaria Acknowledges Contacts** — Delvarian Ministry of External Affairs issued 47-word statement Mon 24 Feb: acknowledges "ongoing bilateral contacts," favours "discreet, bilateral resolution." First official acknowledgement of any diplomatic process. Mirrors Hale's language. Hale: "constructive." Thessarine response measured (drops "reckless provocation"). Lindqvist at Foreign Office again Mon. No envoy named yet — key outstanding step. *Kharstad Gazette* ran statement on p2 without comment. Next: envoy designation? Concrete timetable for talks? → `lore/international.md`
+3. **Greystone Wharf — Forgery Ring Widens** — Third warehouse (Old Harbour Road) linked to certificate forgery. Owned by Greystone Shipping & Haulage (dir: Vincent Drury), NOT Ashcroft — scheme extends beyond single owner. Retired Inspector Duxbury says his signature forged ("I have never set foot in that building"). Handwriting specialist retained. Crayle shifts Ashcroft posture: "my client is a victim." 37 of 72 properties assessed; 3 falsified, 5 lapsed, 2 no documentation, 3 unauthorised habitation. Audit continues through mid-March. Next: who procured the forgeries? Drury connection? More falsified certs? → `lore/people.md`, `lore/institutions.md`
+4. **Rovers — Survival Without Blackshaw** — Blackshaw out 3+ weeks (medial inflammation, right knee). Misses next 4 matches: Duncastle (a), Caravel City (h), Thornbury (a), Ashwick Borough (h). Harwick (20, academy) to deputise. Possible return 21 Mar vs Port Caravel Wanderers. Corbett contract still unresolved. Rovers 14th, 29 pts, 6 clear. Next: Sat 1 Mar at Duncastle (16th, desperate). → `lore/sports.md`
+5. **Hargrove — Record Attendance** — 30,000+ total. Most-visited exhibition in a decade. Timed entry announced. Market storyline can evolve. → `lore/arts-culture.md`
+6. **Docklands Workers' Association** — 200+ attended commission hearing in disciplined rows. Seldon to present oral testimony at Tue session. Emerging as major political voice. → `lore/institutions.md`, `lore/people.md`
+7. **Blackthorne's Silence** — Sent written message to commission ("full confidence") but still no public appearance or press conference. → `lore/politics.md`
+8. **Spice Trade Crisis — Record Index** — Eastern Spice Index hit record 348 (up 22% in 10 days). 7+ restaurants pulled signature dishes. Merchants' Guild calls emergency session Thu 27 Feb at Guild Hall. Petition to Foreign Office to include spice trade in Kaelmar negotiations. Fontenoy (Verlaine's) has ~3 weeks of reserves. Next: Guild session outcome, further menu casualties, does Foreign Office include spice in diplomatic agenda? → `lore/economy.md`
+9. **Fernwick Bridge — Year-Long Closure** — All four cables fractured (not three). Repair: 8-12 months, 55-65M florins. Emergency Ashwater ferry proposed (Thornhill Reach to Bramblegate Steps). Ferry cost: 800K-1.2M florins. Stroud: "Fernwick is the bridge that broke. It is not the only bridge that is old." Voss raised Fernwick during commission hearing. 400+ ageing structures in city portfolio. Next: ferry approval? Budget strain with tramway overrun? → `lore/geography.md`
+10. **Caldwell-Bobington High-Speed Rail** — Parliament approved preliminary funding (340M of 9.8B total). Full budget vote early 2027. → `lore/geography.md`, `lore/institutions.md`
+11. **Dunvale Mining Memorial** — Parliament approved 2.1M florins. Construction spring-autumn 2026. Links to Greymoor tremor (Haversten). → `lore/history.md`
+12. **Bramblegate Fish Market Centenary** — Celebrations continue through week. → `lore/geography.md`
+13. **Ringball Season** — Title race: Caravel 47, Lancers 45, Stoneflies 44, 6 rounds left. Stoneflies host Lancers next Sat. → `lore/sports.md`
+14. **Windhallow Festival / Music Scene** — Festival concluded. Cultural legacy established. → `lore/arts-culture.md`
+15. **Greymoor Seismic Tremor** — New thread. First tremor in 11 years (Sun 23 Feb, 5:20 AM). No damage, but mining cooperative recommends full geological survey before any expansion. Complicates commission calculus — domestic copper supply not a quick fix. → `lore/geography.md`
 
 ---
 
 ## Recent Editions
+
+### Edition: 24 February 2026
+- Commission hears the price of delay: Okonkwo warns 2-3M/week in idle costs; Whitford reveals 160M funding gap; Haversten discloses Greymoor tremor and cautions against rushed mining expansion (FEATURED)
+- Blackshaw out 3+ weeks with knee inflammation; Harwick to deputise for next 4 league matches
+- Delvaria issues 47-word statement acknowledging "bilateral contacts" — first official recognition of diplomatic process; Hale calls it "constructive"
+- All four Fernwick Bridge cables fractured; repair 8-12 months, 55-65M florins; emergency ferry proposed
+- Eastern Spice Index hits record 348; 7+ restaurants pull dishes; Merchants' Guild calls emergency session Thursday
+- Third warehouse (Old Harbour Road) linked to certificate forgery; retired inspector says signature forged; scheme extends beyond Ashcroft
+- Pemberton column: "On the Weight of a Gavel" (the commission hearing, the particular weight of decisions made in public)
 
 ### Edition: 22 February 2026
 - Rovers 2-1 Haverford in Bridgewater comeback thriller; Osei and Harte score; Blackshaw subbed 82' (knee); climb to 14th, 6 clear (FEATURED)
@@ -70,10 +86,5 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 - Hargrove art market fever: private sales at record prices, auction houses circling, 22,000+ advance bookings
 - Pemberton column: "The Roar of Caldecott Square" (the parade, the woman with the scarlet scarf)
 
-### Edition: 17 February 2026
-- Constabulary searches Ashcroft Property Group offices; former night watchman testifies
-- Ashford Republic proposes Kaelmar mediation at Fenmouth; Delvaria rejects (FEATURED)
-- Mayor convenes emergency council session (Wed) on copper prices and tramway budget overrun
-- Rovers face injury concerns (Blackshaw, Osei) ahead of parade and Haverford match
-- Pemberton column: "On the Virtue of Standing in the Cold" (parade-eve reflection)
+<!-- older editions in lore/history.md -->
 
