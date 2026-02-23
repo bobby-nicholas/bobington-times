@@ -73,6 +73,25 @@
 - **Dockside Chorus** — Street-tone vocal group from the Docklands. Lead caller: Ivo Brennick.
 - **Caulfield Ensemble** — Chamber-drift quartet from Edgeminster. Led by Celeste Caulfield.
 
+## Postal Service
+- **Bobington General Post Office** — City postal service. Docklands Post Office has 7 carriers. Postmaster: Arthur Gullick. Round 14 (Docklands) served by Albie Finch for 33 years; Maisie Hollander succeeding from 28 Feb.
+- **Caldwell Central Sorting Office** — National capital's main postal facility.
+
+## Manufacturing
+- **Haldane & Webb** — Typewriter workshop, Cartwright Lane, est. 1908. Founded by Arthur Haldane (locksmith) and Samuel Webb (piano tuner). 12 employees, 3 teams of 4. Produces ~80 handmade typewriters/year (Standard Model, 14 lbs, 42 florins, 2,400 parts). Managing director: Clive Haldane (founder's grandson). Received 500-machine order from Ashford Republic's Ministry of Public Records (Feb 2026). Facing skilled labour shortage.
+- **Pringle & Hatch** — Tailoring/sewing firm, Moorgate. Edith Calloway worked there for 31 years.
+
+## Sporting Clubs
+- **Bobington Ladies' Sculling Club (BLSC)** — Founded 1884 by mill workers' wives. Boathouse at Millgate Pier (shared with Ashwater Rowing Association). Head coach: Vera Duncombe. Racing shell: *The Lark* (built 1997). Annual budget: ~1,200 florins. Qualified for National Regatta for first time in 142-year history (22 Feb 2026, time: 6:42 over 2,000m at Coldharbour Reach).
+- **Ashwater Rowing Association** — Rowing club with priority access to Millgate Pier boathouse.
+
+## Amateur Science
+- **Bramblegate Astronomy Circle** — Informal amateur astronomy group. Now consists solely of Edith Calloway (and a neighbour's cat). At peak, numbered 9 members.
+- **International Astronomical Registry** — Located in Fenmouth. Requires independent verification by 2+ observatories before assigning comet designations.
+
+## Trade Guilds
+- **Mechanics' Guild** — Trade guild for skilled machinists and toolmakers. Only 3 qualified toolmakers on books citywide (as of Feb 2026).
+
 ## Media
 - **The Bobington Times** — Newspaper of record. Vol. CLXII.
 - **Kharstad Gazette** — Delvarian state-controlled newspaper

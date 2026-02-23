@@ -76,6 +76,12 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 
 ## Sculling / Rowing
 
+- **Bobington Ladies' Sculling Club** — Founded 1884. Boathouse at Millgate Pier (shared with Ashwater Rowing Association; BLSC trains early morning). Head coach: Vera Duncombe (58, geography teacher, Bramblegate Secondary). Previous coach: Elspeth Duncombe (Vera's mother, retired 2007 at 73, now 92). Racing shell: *The Lark* (1997). Annual budget: ~1,200 florins. Qualified for National Regatta for first time in 142-year history on 22 Feb 2026 (6:42 over 2,000m at Coldharbour Reach, 3 seconds inside qualifying standard). Crew: Agnes Holt (34, stroke), Dora Whitley (31), Patience Greer (29), Suki Adewale (27), Bridget Tolliver (36), Frances Rowe (40), May Cartwright (33), Nell Parish (30). 4 of 32 crews at National Regatta are women's crews.
+- **National Regatta** — Annual rowing/sculling competition held at Lake Thornfield, Westhaven Hills. First weekend of May. 32 crews compete.
+- **Ashwater Regional Qualifying Trials** — Held at Coldharbour Reach. Qualifying standard for National Regatta: 6:45 over 2,000m (approx).
+
+## Sculling / Rowing
+
 - **Ashwater Sculling Club** — Est. 1923. Boathouse on the Lower Ashwater. 38 members. Subscription: 15 florins. Commodore: Gareth Toll (67, former national-level competitor).
 - **Ashwater Head Race** — Annual 6km time trial, Millgate weir to Lower Ashwater.
 - **National Veterans' Sculling Championship** — Held at Caldwell Rowing Basin (River Lenn). 2026 championship: 18 April.

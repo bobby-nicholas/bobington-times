@@ -100,6 +100,9 @@
 - **Phillip Catton** — Market Warden, Bramblegate Fish Market. Municipal Markets Board.
 - **Marjorie Dunwell** — Retired schoolteacher, Thornhill. 31-year resident.
 
+## Amateur Scientists
+- **Edith Calloway** — Amateur astronomer, age 73. Retired seamstress (31 years at Pringle & Hatch, Moorgate). Lives at 14 Harbinger Lane, Bramblegate. Has observed the night sky from her rooftop since 1986 using a homemade 4-inch brass refractor telescope. Member (sole remaining) of the Bramblegate Astronomy Circle. Maintains 47 notebooks of nightly observations. Claimed discovery of a new comet (Tue 17 Feb 2026) in a constellation she calls "the Fisherman's Basket." Cartwright Observatory verifying. Invited to present at Royal Institute Thursday lecture series — first non-credentialed speaker in 14 years.
+
 ## Astronomers & Scientists
 - **Dr. Odette Collis** — Retired mathematics teacher (Bramblegate Grammar School, 31 years, retired 2020), age 64. Volunteer astronomer at the Cartwright Observatory since 2015. Has filled 43 observation notebooks. Discovered a persistent luminous phenomenon above the Greymoor Highlands (first observed 3 Feb 2026) — a faint greenish-white glow visible on clear nights. Methodical, precise, quietly determined. "I am a retired schoolteacher with a telescope and a notebook."
 
@@ -144,3 +147,28 @@
 - **Doyle** — Plumber known to Pemberton, affected by copper price rises
 - **Marta Selwyn** — Tram conductor from the Docklands, visited Hargrove exhibition with teenage daughter
 - **Tobias Renn** — Elderly farmer in Millhaven, subject of Hargrove portrait (2018). Bewildered by surging prices for Hargrove works.
+
+## Artisans & Craftspeople
+- **Oswin Faraday** — Retired tram conductor, age 62. Drove the number 7 route (Caldecott Square to Millgate) for 26 years. Lives in Thornhill with wife Constance. Has spent 8 years building an extraordinarily detailed mechanical model of Bobington in his garage (14 x 9 ft). Model includes 2,340 buildings, 14 bridges, 6 functioning clockwork tramlines, 48 wired streetlamps, flowing water via aquarium pump. Historical Preservation Society wants to exhibit it (spring exhibition, 18 Apr). Problem: model won't fit through garage door. Plan to divide at the river.
+- **Constance Faraday** — Wife of Oswin Faraday. Has negotiated strict territorial boundaries in the household. "He gets the garage. I get everything else."
+- **Clive Haldane** — Managing director of Haldane & Webb typewriter workshop, age 56. Founder's grandson. Received bulk order for 500 machines from Ashford Republic's Ministry of Public Records. Struggling to find skilled workers to scale production.
+- **Dorothy Haldane** — Wife of Clive, manages accounts at Haldane & Webb.
+- **Bernard Tull** — Oldest employee at Haldane & Webb, age 67. Has worked there 42 years. Key-lever specialist.
+
+## Postal Service
+- **Albert "Albie" Finch** — Postman, age 61. Walked Docklands Round 14 (Chandler's Row, Pilot's Alley, lower Harbourfront Parade, 19 connecting streets) for 33 years since 1993. Retiring Fri 27 Feb 2026. Estimated 48,000 miles walked, 1.2 million pieces of mail delivered. Never lost a letter. Encyclopaedic knowledge of his route's residents. Wife: Joan.
+- **Joan Finch** — Wife of Albie Finch. Once hid his shoes to prevent him delivering post while delirious with pneumonia.
+- **Maisie Hollander** — Replacement postwoman for Round 14, age 24. Transferred from Caldwell Central Sorting Office. Has been shadowing Finch since Mon 24 Feb.
+- **Arthur Gullick** — Postmaster, Docklands Post Office. Described Finch as "the most reliable man I have ever worked with."
+
+## Sporting Figures (Non-League)
+- **Vera Duncombe** — Head coach, Bobington Ladies' Sculling Club, age 58. Geography teacher at Bramblegate Secondary School. Coached the club for 19 years (since 2007). Former competitive rower; shoulder injury ended racing career at 26. Took over from her mother Elspeth.
+- **Elspeth Duncombe** — Former BLSC coach, age 92. Mother of Vera. Retired 2007 at 73. Still attends Saturday sessions from a folding chair on the pier.
+- **Agnes Holt** — BLSC stroke-seat, age 34. Nurse at St. Dunstan's Hospital.
+- **Dora Whitley** — BLSC rower, age 31. Clerk in Municipal Records Office.
+- **Patience Greer** — BLSC rower, age 29.
+- **Suki Adewale** — BLSC rower, age 27.
+- **Bridget Tolliver** — BLSC rower, age 36.
+- **Frances Rowe** — BLSC rower, age 40.
+- **May Cartwright** — BLSC rower, age 33.
+- **Nell Parish** — BLSC rower, age 30.

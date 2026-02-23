@@ -45,6 +45,9 @@
 - **Edmund Vale** — Historical figure (1840s). First superintendent of lamps in Bobington. Fought to extend gas lighting to working-class districts. Subject of *The Lamplighter's Oath*.
 - ***The Lamplighter's Oath*** — Historical drama by Augustin Fell. Cast of 11. Opens 10 April 2026 at the Bellvue. About Edmund Vale and the founding of Bobington's public lighting. Benefit night: 15 March.
 
+## Model-Making / Folk Art
+- **Oswin Faraday's Mechanical Model of Bobington** — An extraordinarily detailed 14x9 ft mechanical model of the entire city, built over 8 years (2018-2026) by retired tram conductor Oswin Faraday in his Thornhill garage. Features 2,340 buildings, 14 bridges, 6 clockwork tramlines, 48 wired streetlamps, flowing water. Bobington Historical Preservation Society plans to exhibit at spring exhibition (opens 18 Apr, Grayling Street). Extraction plan: divide at the river into northern and southern halves.
+
 ## Venues
 - **Royal Bobington Gallery** — Major art museum. Director: Simone Aldair. Meridian Hall is the main exhibition space.
 - **Bobington Academy of Fine Arts** — Art school, annual show tradition

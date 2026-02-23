@@ -35,6 +35,13 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Ashwick** — Town with its own sporting traditions. Home of Ashwick Oval (ringball ground, ~14,000 capacity) and Ashwick Borough (football).
 - **Bramblegate Fish Market** — Open-air fish market on the Ashwater riverfront, between the Bramblegate Exchange and the Lower Ashwater footbridge. Opened 22 Feb 1926 under charter of Lord Mayor Oswald Fenn. ~47 permanent stall holders. Market Warden: Phillip Catton.
 - **Ashwater Valley** — Valley south of Bobington where the river bends through a natural amphitheatre of low hills and oak woodland. Site of the annual Windhallow Festival, ~12 km from the city.
+- **Harbinger Lane** — Residential street in Bramblegate. No. 14 is home to amateur astronomer Edith Calloway.
+- **Cartwright Lane** — Street in Bobington. Home to Haldane & Webb typewriter workshop (between a tobacconist and a button shop).
+- **Millgate Pier** — Pier on the Ashwater in the Millgate district. Location of the boathouse shared by the Ashwater Rowing Association and the Bobington Ladies' Sculling Club.
+- **Coldharbour Reach** — Stretch of the Ashwater used for rowing/sculling events. Site of the Ashwater Regional Qualifying Trials.
+- **Grayling Street** — Location of the Bobington Historical Preservation Society premises.
+- **Lake Thornfield** — Lake in the Westhaven Hills. Venue for the annual National Regatta.
+- **Moorgate** — Street in Bobington. Location of Pringle & Hatch (tailoring/sewing firm).
 - **Marchmont Street** — Street between Midtown and Upper Fernwich. Once the centre of Bobington's theatrical life. Home of the Bellvue Theatre (est. 1897).
 - **The Marches** — Hilltop district, home of the Cartwright Observatory (built 1881).
 - **Lower Ashwater** — Stretch of riverfront south of Bramblegate. Location of the Ashwater Sculling Club boathouse (corrugated-iron shed between the Lower Ashwater footbridge and Bramblegate Steps).

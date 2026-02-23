@@ -24,4 +24,6 @@ This file tracks the commercial world of Bobington — major firms, trade, marke
 
 ## Business Personalities
 
-*(To be expanded as stories develop)*
+- **Clive Haldane** — Managing director of Haldane & Webb, age 56. Founder's grandson. Cautious but committed; accepted the 500-machine Ashford Republic order despite scaling concerns.
+- **Dorothy Haldane** — Manages accounts at Haldane & Webb. Pragmatic optimist. "We've survived two wars, a factory fire in 1943..."
+- **Bernard Tull** — Oldest employee at Haldane & Webb, age 67, 42 years of service. Key-lever specialist. Philosophical about the future of the trade.
