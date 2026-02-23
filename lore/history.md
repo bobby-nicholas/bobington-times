@@ -43,9 +43,19 @@
 - **22 Feb** — Bramblegate Fish Market centenary (dawn ceremony, Dr. Fenn-Coulthard rings bell). Ringball: Ashwick Stoneflies 34-29 Caravel Harriers (ends 23-match unbeaten run). Parliament approves Dunvale mining memorial (312-7).
 - **22 Feb** — Rovers 2-1 Haverford Town (Osei 43', Harte 78'; Rhys 34'). Blackshaw subbed 82' with stiff knee. Millwall 0-3 Thornbury. Rovers climb to 14th (29 pts, 6 clear of relegation). Docklands audit day 2: falsified fire certificates found at two warehouses (Chandler's Row and Pilot's Alley) — signatures of inspectors not employed at listed dates; referred to Constabulary. 30 of 72 properties assessed. *Kharstad Gazette* publishes strikingly moderate editorial "The Duty of Restraint" — diplomatic observers read it as signal Delvaria considering quiet channel. Pryce and Voss meet to review commission procedures and written submissions (Merchants' Guild, DWA, Historical Preservation Society). 200+ dockworkers to attend Monday hearing. Royal Institute announces emergency copper geology lecture (Wed, sold out in 3 hours). Hargrove retrospective passes 30,000 total visitors; 14,000 in second weekend; timed entry announced. Spice trade crisis: velveroot exhausted, cardamon up 15%.
 
+- **~Early Feb** — Arlo Kessling opens The Thirty-Mile Table, 14b Threadneedle Street (local-only sourcing restaurant).
+- **3 Feb** — Dr. Odette Collis first documents a persistent luminous phenomenon above Greymoor Highlands at the Cartwright Observatory. Phenomenon observed on every clear night since.
 - **24 Feb** — Copper Review Commission first hearing (Municipal Chamber). Packed gallery; 200+ DWA members. Okonkwo: overrun ~510M at 889 copper, cost of delay 2-3M/week. Whitford: funding gap ~160M. Haversten: seismic tremor in Greymoor Highlands (Sun 23 Feb, first in 11 years); geological survey needed before any expansion. Delvarian Ministry of External Affairs issues 47-word statement acknowledging "ongoing bilateral contacts" — first official acknowledgement of diplomatic process; mirrors Hale's "quiet channel" language. Hale calls it "constructive." Lindqvist visits Bobington Foreign Office. Blackshaw confirmed out 3 weeks (medial inflammation, right knee); Harwick to deputise. Third Docklands warehouse (Old Harbour Road, owned by Greystone Shipping & Haulage) linked to certificate forgery; retired Inspector Duxbury says his signature was forged. 37 of 72 properties now assessed. Fernwick Bridge: all four cables fractured (not three); repair 8-12 months, 55-65M florins; emergency Ashwater ferry proposed. Eastern Spice Index hits record 348; Merchants' Guild calls emergency session for Thu 27 Feb. At least 7 restaurants pull signature dishes.
 
+- **~Late Feb** — Municipal surveyor Pella Strand discovers unmapped buried waterway beneath the Docklands during subsurface hydrology survey. ~400m traced, brick-lined, predates Victorian drainage. Investigation ongoing.
+- **~Late Feb** — Bellvue Theatre structural assessment: fly tower needs 180,000 florins in repairs. Deadline 1 May. Augustin Fell announces *The Lamplighter's Oath* (opens 10 April).
+- **~Late Feb** — Edie Wren (58, Ashwater Sculling Club) qualifies for National Veterans' Sculling Championship at Caldwell regional qualifier.
+
 ## Upcoming
+- **15 Mar** — Bellvue Theatre benefit night (details TBA)
+- **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre
+- **18 Apr** — National Veterans' Sculling Championship, Caldwell Rowing Basin
+- **1 May** — Bellvue Theatre fly tower repair deadline
 - **25 Feb (Tue)** — Commission session 2: Merchants' Guild, shipping insurance, public testimony. DWA to present oral testimony.
 - **26 Feb (Wed)** — Royal Institute special lecture: "Copper in the Earth" by Whitstone & Fenn (7:30 PM, sold out)
 - **27 Feb (Thu)** — Merchants' Guild emergency session on spice crisis (Guild Hall, 10 AM)

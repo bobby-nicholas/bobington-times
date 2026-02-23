@@ -73,3 +73,11 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 - **15 Mar (Sat):** Rovers vs Ashwick Borough (home). Directly below Rovers in table.
 - **21 Mar (Sat):** Rovers vs Port Caravel Wanderers (home). Possible Blackshaw return.
 - **Next ringball:** Ashwick Stoneflies host Thornbury Lancers (Sat).
+
+## Sculling / Rowing
+
+- **Ashwater Sculling Club** — Est. 1923. Boathouse on the Lower Ashwater. 38 members. Subscription: 15 florins. Commodore: Gareth Toll (67, former national-level competitor).
+- **Ashwater Head Race** — Annual 6km time trial, Millgate weir to Lower Ashwater.
+- **National Veterans' Sculling Championship** — Held at Caldwell Rowing Basin (River Lenn). 2026 championship: 18 April.
+- **Caldwell Rowing Basin** — Purpose-built course on the River Lenn in Caldwell.
+- **Edith "Edie" Wren** — 58, retired postal worker, Thornhill. 30-year club member. Rows *Early Post* (wooden scull, self-built 1999). Placed 2nd at regional qualifier. First national championship appearance. See `people.md`.

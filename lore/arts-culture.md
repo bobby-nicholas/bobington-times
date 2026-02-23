@@ -40,6 +40,12 @@
 ### Festivals
 - **Windhallow Festival** — Annual music festival, Ashwater Valley (~12 km south of Bobington). 27th edition held Feb 2026. ~35,000 attendees over 3 days. Four stages (Ashwater Stage, River Stage, Woodland Stage, and a fourth). Director: Eamon Gallis. Traditions: Friday-night bonfire, Sunday-morning brass procession. 2027 will add a fifth stage for emerging artists.
 
+## Theatre
+- **The Bellvue Theatre** — Marchmont Street, built 1897. Oldest continuously operating independent theatre in Bobington. Seats 380. Owner-director: Augustin Fell (since 2007). Needs 180,000 florins in fly tower repairs by 1 May 2026. Fell staking everything on *The Lamplighter's Oath* (his first play, opens 10 April). Notable alumni: actor Ruben Glass. See `institutions.md`.
+- **Edmund Vale** — Historical figure (1840s). First superintendent of lamps in Bobington. Fought to extend gas lighting to working-class districts. Subject of *The Lamplighter's Oath*.
+- ***The Lamplighter's Oath*** — Historical drama by Augustin Fell. Cast of 11. Opens 10 April 2026 at the Bellvue. About Edmund Vale and the founding of Bobington's public lighting. Benefit night: 15 March.
+
 ## Venues
 - **Royal Bobington Gallery** — Major art museum. Director: Simone Aldair. Meridian Hall is the main exhibition space.
 - **Bobington Academy of Fine Arts** — Art school, annual show tradition
+- **The Bellvue Theatre** — See Theatre section above.

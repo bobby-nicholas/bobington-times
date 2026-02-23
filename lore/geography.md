@@ -35,6 +35,10 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Ashwick** — Town with its own sporting traditions. Home of Ashwick Oval (ringball ground, ~14,000 capacity) and Ashwick Borough (football).
 - **Bramblegate Fish Market** — Open-air fish market on the Ashwater riverfront, between the Bramblegate Exchange and the Lower Ashwater footbridge. Opened 22 Feb 1926 under charter of Lord Mayor Oswald Fenn. ~47 permanent stall holders. Market Warden: Phillip Catton.
 - **Ashwater Valley** — Valley south of Bobington where the river bends through a natural amphitheatre of low hills and oak woodland. Site of the annual Windhallow Festival, ~12 km from the city.
+- **Marchmont Street** — Street between Midtown and Upper Fernwich. Once the centre of Bobington's theatrical life. Home of the Bellvue Theatre (est. 1897).
+- **The Marches** — Hilltop district, home of the Cartwright Observatory (built 1881).
+- **Lower Ashwater** — Stretch of riverfront south of Bramblegate. Location of the Ashwater Sculling Club boathouse (corrugated-iron shed between the Lower Ashwater footbridge and Bramblegate Steps).
+- **Unnamed Buried Waterway** — Substantial underground waterway beneath the Docklands, discovered Feb 2026 by surveyor Pella Strand. Brick-lined, arched, ~2m wide, 1.5m tall, carrying flowing water. Runs east-west from near Harrowgate Pier toward the Ashwater. ~400m traced so far. Predates Victorian drainage system. Not on any known map. Origin and purpose unknown.
 
 ## Broader World
 - **Greymoor Highlands** — Rural/highland region, source of granite and landscape painting inspiration

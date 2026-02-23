@@ -100,6 +100,26 @@
 - **Phillip Catton** — Market Warden, Bramblegate Fish Market. Municipal Markets Board.
 - **Marjorie Dunwell** — Retired schoolteacher, Thornhill. 31-year resident.
 
+## Astronomers & Scientists
+- **Dr. Odette Collis** — Retired mathematics teacher (Bramblegate Grammar School, 31 years, retired 2020), age 64. Volunteer astronomer at the Cartwright Observatory since 2015. Has filled 43 observation notebooks. Discovered a persistent luminous phenomenon above the Greymoor Highlands (first observed 3 Feb 2026) — a faint greenish-white glow visible on clear nights. Methodical, precise, quietly determined. "I am a retired schoolteacher with a telescope and a notebook."
+
+## Chefs & Restaurateurs (new)
+- **Arlo Kessling** — Chef, age 26. Owner of The Thirty-Mile Table (14b Threadneedle Street, opened early Feb 2026). Trained at The Willow Table under Simeon Kade, then spent two years in Caldwell kitchens. Sources all ingredients from within 30 miles of Bobington. Suppliers include Pennock's dairy (Millhaven), the Threlfall family smallholding (near Edgeminster), and Greta Solvay (beekeeper/herbalist, south of Ashwater Valley). Restaurant seats 18, open Wed-Sat, no bookings. 12 florins per meal. "I'm cooking dinner with what's nearby. That used to be the only way anyone cooked."
+
+## Theatre
+- **Augustin Fell** — Owner-director of the Bellvue Theatre, Marchmont Street, age 53. Former history teacher at Thornhill Secondary School. Inherited the Bellvue from his aunt Constance Fell in 2007. Has staged 100+ productions over 19 years. Theatre needs 180,000 florins in fly tower repairs by 1 May deadline. Writing and staging *The Lamplighter's Oath* (opens 10 April), his first play, about Edmund Vale and the founding of Bobington's public lighting. "I'd rather go out with a play than a whimper."
+- **Constance Fell** — Augustin's aunt, ran the Bellvue Theatre from 1971 until her death in 2006.
+- **Ruben Glass** — Actor, now a fixture of the Caldwell stage. Got his start at the Bellvue in *The Ferryman's Wife* (2011).
+- **Edmund Vale** — Historical figure. Bobington's first superintendent of lamps (1840s). Fought to extend gas lighting from Midtown into working-class districts. Subject of *The Lamplighter's Oath*.
+
+## Surveyors & Engineers (new)
+- **Pella Strand** — Municipal surveyor, age 29. Works for the Municipal Works Office. Studied civil engineering at Bobington Polytechnic. Discovered a buried, unmapped waterway beneath the Docklands during a comprehensive underground survey (Feb 2026). The waterway is brick-lined, arched, ~2m wide, carries flowing water, and appears on no known city map. "Somewhere under this city, there is a river that nobody named."
+
+## Rowers & Athletes (new)
+- **Edith "Edie" Wren** — Retired postal worker, age 58, from Thornhill. Member of the Ashwater Sculling Club for 30 years. Rows 6 mornings/week in a wooden scull she built herself in 1999 named *Early Post*. Qualified for the National Veterans' Sculling Championship (Caldwell, 18 April) after placing 2nd at regional qualifier. Late husband Stanley Wren (d. 2019) watched from the bank every morning for 22 years. "The river doesn't care how you placed."
+- **Stanley Wren** — Edie's late husband (d. 2019). Couldn't swim but was at the riverbank every morning for 22 years with tea and a wave.
+- **Gareth Toll** — Commodore of the Ashwater Sculling Club, age 67. Former national-level competitor (1990s). Described Wren's qualifying performance as "quietly remarkable."
+
 ## Musicians & Festival
 - **Luma Sable** — Resonance player (twin-strung vielle), age 41. From Thessara, living in Bobington for a decade. Gave transcendent solo set at Windhallow Festival 2026.
 - **Celeste Caulfield** — Leader of the Caulfield Ensemble (chamber-drift quartet from Edgeminster), age 28.

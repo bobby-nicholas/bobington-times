@@ -10,11 +10,12 @@ This file tracks scientific institutions, discoveries, natural phenomena, and te
 
 ## Current Scientific Threads
 
-*(To be expanded as stories develop)*
+- **Greymoor Highland Luminous Phenomenon** — Persistent diffuse glow above the Greymoor Highlands, first documented by Dr. Odette Collis on 3 Feb 2026. Visible on clear nights (10 PM–2 AM), greenish-white, ~2° band above ridge. Through telescope: faint vertical striations. Spectral signature doesn't match known industrial or atmospheric sources. Coincides roughly in location/time with seismic tremor (23 Feb). Observatory has formally logged it and requested Royal Institute spectroscopic equipment time. See people.md: Dr. Odette Collis.
+- **Underground Waterway Survey** — Municipal Works Office comprehensive survey of subsurface hydrology (commissioned by Kinnear, 6 months before Feb 2026). Surveyor Pella Strand discovered a substantial unmapped buried waterway beneath the Docklands — brick-lined, arched, ~2m wide, predates Victorian drainage. ~400m traced. Investigation ongoing through mid-March.
 
 ## Natural Phenomena
 
-*(Unique geological, meteorological, atmospheric events in this world — to be developed)*
+- **Greymoor Highland Luminous Phenomenon** — See Current Scientific Threads above. Greenish-white glow, vertical striations, visible since 3 Feb 2026. Possibly linked to seismic activity (speculative). Under investigation by Cartwright Observatory and Royal Institute.
 
 ## Technology
 

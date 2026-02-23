@@ -76,3 +76,17 @@
 ## Media
 - **The Bobington Times** — Newspaper of record. Vol. CLXII.
 - **Kharstad Gazette** — Delvarian state-controlled newspaper
+
+## Restaurants (new)
+- **The Thirty-Mile Table** — 14b Threadneedle Street (converted cobbler's shop). Owner/chef: Arlo Kessling. Opened early Feb 2026. All ingredients sourced within 30 miles of Bobington. 18 seats, Wed-Sat, no bookings, 12 florins/meal. Key suppliers: Pennock's dairy (Millhaven), Threlfall smallholding (Edgeminster), Greta Solvay (herbalist, Ashwater Valley).
+
+## Theatre
+- **The Bellvue Theatre** — Marchmont Street, built 1897. Bobington's oldest continuously operating independent theatre (since closure of Adelphi, Parade Street, in 2003). Seats 380 (originally 440). Gilt-and-crimson Victorian theatre with fly tower, raked stage, deep orchestra pit. Owner-director: Augustin Fell (since 2007; inherited from aunt Constance Fell, who ran it 1971-2006). Needs 180,000 florins in fly tower repairs by 1 May. Listed by Historical Preservation Society as one of 52 "structures of cultural significance" (2024 survey, no legal protection). Notable alumni: actor Ruben Glass. Current production: *The Lamplighter's Oath* (opens 10 April).
+
+## Sporting Clubs (new)
+- **Ashwater Sculling Club** — Boathouse on the Lower Ashwater (corrugated-iron shed between footbridge and Bramblegate Steps). Est. 1923. 38 members. Annual subscription: 15 florins. Commodore: Gareth Toll. Notable member: Edie Wren (National Veterans' Championship qualifier).
+
+## Farms & Suppliers (new)
+- **Pennock's Dairy** — Millhaven. Supplies cream and butter to The Thirty-Mile Table.
+- **Threlfall Family Smallholding** — Near Edgeminster. Poultry and eggs.
+- **Greta Solvay** — Beekeeper and herbalist, half-acre plot south of Ashwater Valley. Supplies herbs to The Thirty-Mile Table.

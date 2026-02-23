@@ -41,10 +41,22 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 13. **Ringball Season** — Title race: Caravel 47, Lancers 45, Stoneflies 44, 6 rounds left. Stoneflies host Lancers next Sat. → `lore/sports.md`
 14. **Windhallow Festival / Music Scene** — Festival concluded. Cultural legacy established. → `lore/arts-culture.md`
 15. **Greymoor Seismic Tremor** — New thread. First tremor in 11 years (Sun 23 Feb, 5:20 AM). No damage, but mining cooperative recommends full geological survey before any expansion. Complicates commission calculus — domestic copper supply not a quick fix. → `lore/geography.md`
+16. **Greymoor Highland Luminous Phenomenon** — New thread. Dr. Odette Collis (64, retired maths teacher, Cartwright Observatory volunteer) has documented a persistent greenish-white glow above the Greymoor Highlands since 3 Feb. Spectral signature doesn't match known sources. Observatory has formally logged it; seeking Royal Institute spectroscopic time. Possible connection to seismic tremor (speculative). Next: Royal Institute analysis? More data? → `lore/science.md`, `lore/people.md`
+17. **The Thirty-Mile Table** — New thread. Arlo Kessling (26) opened a hyperlocal restaurant on Threadneedle Street sourcing all ingredients within 30 miles. 18 seats, 12 florins/meal. During spice crisis, his model is suddenly relevant. Next: will it sustain? Cultural impact? → `lore/institutions.md`, `lore/people.md`
+18. **Bellvue Theatre — Last Stand** — New thread. Augustin Fell's 128-year-old theatre needs 180,000 florins in fly tower repairs by 1 May. Fell staking everything on *The Lamplighter's Oath* (his first play, opens 10 April). Benefit night 15 March. Next: can he raise the money? Will the play succeed? → `lore/arts-culture.md`, `lore/people.md`
+19. **The Buried River** — New thread. Surveyor Pella Strand discovered an unmapped waterway beneath the Docklands — brick-lined, arched, predates Victorian drainage. ~400m traced. Origin unknown. Preservation Society and Royal Institute consulted. Next: where does it lead? Who built it? Historical research? → `lore/geography.md`, `lore/science.md`
+20. **Edie Wren — National Championship** — New thread. Edie Wren (58, retired postal worker) qualified for National Veterans' Sculling Championship (Caldwell, 18 April). Rows handmade wooden scull *Early Post*. 30 years on the Ashwater. Ashwater Sculling Club covering travel. Next: championship day. → `lore/sports.md`, `lore/people.md`
 
 ---
 
 ## Recent Editions
+
+### Edition: 24 February 2026 (supplement — new storylines)
+- Dr. Odette Collis documents persistent luminous phenomenon above Greymoor Highlands; Cartwright Observatory formally logs anomaly, seeks Royal Institute spectroscopic analysis (Science)
+- Arlo Kessling's The Thirty-Mile Table opens on Threadneedle Street: hyperlocal restaurant sourcing within 30 miles, suddenly relevant during spice crisis (Business)
+- Bellvue Theatre faces 180,000-florin fly tower repair deadline; owner Augustin Fell staking everything on his first play, *The Lamplighter's Oath* (Arts)
+- Municipal surveyor Pella Strand discovers unmapped buried waterway beneath the Docklands during subsurface hydrology survey (News)
+- Edie Wren, 58, retired postal worker and 30-year sculler, qualifies for National Veterans' Championship in Caldwell (Sports)
 
 ### Edition: 24 February 2026
 - Commission hears the price of delay: Okonkwo warns 2-3M/week in idle costs; Whitford reveals 160M funding gap; Haversten discloses Greymoor tremor and cautions against rushed mining expansion (FEATURED)
