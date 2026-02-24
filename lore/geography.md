@@ -32,6 +32,9 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Millgate** — District with a weir (built 1958, ended barge traffic above Bramblegate) and a separate tram bridge over the Ashwater.
 - **Havelock Road** — Location of Municipal Works depot
 - **Port Sovereign** — Deep-water district east of the Docklands. Proposed terminus for high-speed rail link from Caldwell.
+- **Thornhill Reach** — Embankment on the Thornhill side of the Ashwater, near Fernwick Bridge. Northern terminus of emergency ferry service (from ~6 Mar 2026).
+- **Bramblegate Steps** — Steps on the Bramblegate side of the Ashwater. Southern terminus of emergency ferry service. Has a disused commercial wharf.
+- **The Coalfield Ground** — Home ground of Duncastle FC. Compact, hostile away ground.
 - **Ashwick** — Town with its own sporting traditions. Home of Ashwick Oval (ringball ground, ~14,000 capacity) and Ashwick Borough (football).
 - **Bramblegate Fish Market** — Open-air fish market on the Ashwater riverfront, between the Bramblegate Exchange and the Lower Ashwater footbridge. Opened 22 Feb 1926 under charter of Lord Mayor Oswald Fenn. ~47 permanent stall holders. Market Warden: Phillip Catton.
 - **Ashwater Valley** — Valley south of Bobington where the river bends through a natural amphitheatre of low hills and oak woodland. Site of the annual Windhallow Festival, ~12 km from the city.

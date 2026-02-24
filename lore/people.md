@@ -118,6 +118,17 @@
 ## Surveyors & Engineers (new)
 - **Pella Strand** — Municipal surveyor, age 29. Works for the Municipal Works Office. Studied civil engineering at Bobington Polytechnic. Discovered a buried, unmapped waterway beneath the Docklands during a comprehensive underground survey (Feb 2026). The waterway is brick-lined, arched, ~2m wide, carries flowing water, and appears on no known city map. "Somewhere under this city, there is a river that nobody named."
 
+## New Characters (25 Feb 2026)
+- **Ged Halloran** — Riveter, Docklands. Wife and two boys in Chandler's Row. Stayed in Bobington rather than take work at Ironhall Steelworks, waiting for tramway contracts. Named by Seldon in commission testimony.
+- **Petra Voss (worker)** — Cable-layer, Docklands. No relation to Councilman Voss. Completed 9-month cable-laying certification; borrowed 280 florins for the course. Named by Seldon in commission testimony.
+- **Samuel Obi** — Apprentice welder, 19. Has never held a full-time position. The tramway would have been his first. Named by Seldon in commission testimony.
+- **Caspar Helmsley** — Senior underwriter at Tidewater Mutual insurance. Testified at Copper Review Commission (25 Feb) that firm has not written a new Kaelmar-route policy since 12 Feb.
+- **Nora Felling** — Representative of the Bobington Insurance Exchange. Testified at commission that Kaelmar diversion claims reached 420,000 florins in 10 days.
+- **Marcus Dunbar** — Duncastle FC centre-forward. Leads the league in headed goals (7).
+- **Gwen Alderly** — Managing director, Ashwater River Services. Firm awarded emergency ferry contract (940,000 florins) to replace Fernwick Bridge crossing.
+- **Dominic Hale** — Chef, The Ashen Grill, Threadneedle Street. Replaced eastern-influenced menu with "honest Bobington cooking" during spice crisis.
+- **Professor Aldous Merrifield** — Discovered the last comet from Bobington in 1985 using the Cartwright 36-inch refractor. Short-period comet bears his name.
+
 ## Rowers & Athletes (new)
 - **Edith "Edie" Wren** — Retired postal worker, age 58, from Thornhill. Member of the Ashwater Sculling Club for 30 years. Rows 6 mornings/week in a wooden scull she built herself in 1999 named *Early Post*. Qualified for the National Veterans' Sculling Championship (Caldwell, 18 April) after placing 2nd at regional qualifier. Late husband Stanley Wren (d. 2019) watched from the bank every morning for 22 years. "The river doesn't care how you placed."
 - **Stanley Wren** — Edie's late husband (d. 2019). Couldn't swim but was at the riverbank every morning for 22 years with tea and a wave.

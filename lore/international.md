@@ -22,7 +22,8 @@
 - **Hale reaction** (24 Feb) — Called the statement "constructive." Sources say Hale was briefed before it was issued — indicating bilateral channel is functioning informally.
 - **Thessarine reaction** (24 Feb) — Foreign Secretary's office: "notes the statement and reiterates its commitment to resolving differences through dialogue consistent with the Treaty of Ashen Bluffs." Notably measured; drops earlier "reckless provocation" language.
 - **Lindqvist** (24 Feb) — Seen arriving at Bobington Foreign Office on Chancery Row Mon morning. Unannounced visit; Foreign Office confirmed "a scheduled meeting."
-- **Copper** — Opened Mon 24 Feb at 883 (cautious optimism on diplomatic signal), recovered to 889 by mid-morning as commission testimony reasserted demand reality. Rose to 891 by midday. Merchants' Guild: 12 vessels now rerouting via Sarenne; total fleet costs exceeding 1.6M florins.
+- **Copper** — Opened Mon 24 Feb at 883; rose to 891 by midday. Eased Tue 25 Feb to 885 on modest diplomatic optimism. Merchants' Guild: 14 vessels now rerouting via Sarenne (2 additional Tue); total fleet costs ~1.8M florins.
+- **Envoy expected** (25 Feb) — Diplomatic sources indicate Delvaria preparing to designate a senior diplomat as quiet channel envoy, possibly by Thu 27 Feb. Lindqvist's Mon visit confirmed as coordination session on envoy mechanics (venue, confidentiality, format). Hale described progress as "tangible" (upgrade from "constructive"). *Kharstad Gazette* ran no editorial comment Tue — second day of conspicuous restraint. Thornbury: "When [the Gazette] is quiet, it is because someone has told it to be quiet."
 
 ## Nations
 See `geography.md` for full nation details.

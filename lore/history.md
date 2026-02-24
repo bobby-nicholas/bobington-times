@@ -51,6 +51,8 @@
 - **~Late Feb** — Bellvue Theatre structural assessment: fly tower needs 180,000 florins in repairs. Deadline 1 May. Augustin Fell announces *The Lamplighter's Oath* (opens 10 April).
 - **~Late Feb** — Edie Wren (58, Ashwater Sculling Club) qualifies for National Veterans' Sculling Championship at Caldwell regional qualifier.
 
+- **25 Feb** — Copper Review Commission session 2. Seldon (DWA) delivers 37-minute testimony naming 3 workers; Merchants' Guild and insurance firms testify. Emergency ferry approved (940K florins, Ashwater River Services) for Fernwick Bridge closure. Ashford Republic's Southern Observatory confirms Calloway's comet — first discovered from Bobington in 41 years. Royal Institute grants spectrometer access for Greymoor luminous phenomenon investigation. Delvaria expected to name quiet channel envoy within days; Hale describes progress as "tangible." Constabulary summons Vincent Drury (Greystone Shipping) over forged certificates; handwriting analysis links all three forgeries. Bellvue Theatre announces cast and 15 March benefit night; 72,000 of 180,000 florins raised. Eastern Spice Index hits 351 (new record). Copper at 885.
+
 ## Upcoming
 - **15 Mar** — Bellvue Theatre benefit night (details TBA)
 - **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre

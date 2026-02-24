@@ -42,8 +42,19 @@
 - Blackthorne navigating between factions; struck tone of "measured resolve"
 - Docklands Workers' Association (foreman Patrick Seldon) emerging as new political voice — seeking formal meeting with council re: workforce protections
 
+## Commission Session 2 (25 Feb, Tue)
+- Seldon (DWA) delivers 37-minute oral testimony. Names three workers: Ged Halloran (riveter), Petra Voss (cable-layer, no relation), Samuel Obi (19, apprentice welder). Asks for wage guarantees if proceed, transition fund if delay. Quotes 14M florins for 18-month half-wage support (precedent: 2011 dockers' strike settlement). Gallery of 200+ DWA members. Pryce visibly moved. Voss wrote the 14M figure down.
+- Guildmaster Hadrian Voss presents Merchants' Guild 12-page submission in person. 12 vessels rerouting, 1.6M+ fleet costs. Supports proceeding at modified scope. Urges phased copper procurement (tranches vs bulk).
+- Insurance testimony: Caspar Helmsley (Tidewater Mutual) — no new Kaelmar policies since 12 Feb. Nora Felling (Bobington Insurance Exchange) — 420,000 florins in diversion claims in 10 days.
+- Commission interim report expected Friday 28 Feb. Five options on table: proceed at current scope, modified scope, aluminium redesign, phase, or suspend pending diplomacy.
+- Wednesday session: Kinnear (infrastructure costs) and Whitstone (domestic copper geology).
+
+## Fernwick Bridge Emergency Ferry
+- Approved 25 Feb by emergency infrastructure committee (chaired by Falk). Ashwater River Services (Gwen Alderly) awarded 940,000-florin contract. Route: Thornhill Reach to Bramblegate Steps. First crossings ~6 March.
+
 ## Upcoming
-- **25 Feb (Tue)** — Commission session 2: Merchants' Guild, shipping insurance, public testimony
-- **27 Feb (Thu)** — Merchants' Guild emergency session on spice crisis (Guild Hall)
-- **5 Mar** — Commission report deadline
+- **26 Feb (Wed)** — Commission session 3: Kinnear, Whitstone
+- **27 Feb (Thu)** — Merchants' Guild emergency session on spice crisis (Guild Hall); Royal Institute lectures (Calloway 6:30 PM, Whitstone/Fenn 7:30 PM)
+- **28 Feb (Fri)** — Commission interim report expected; Albie Finch retirement day
+- **5 Mar** — Commission final report deadline
 - **~7 Mar** — Ashcroft tax demand payment deadline (14 days from 21 Feb)

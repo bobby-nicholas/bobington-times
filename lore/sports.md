@@ -41,7 +41,7 @@
 | 13 | Haverford Town | 25 | 29 |
 | 14 | Bobington Rovers | 25 | 29 |
 | 15 | Ashwick Borough | 25 | 28 |
-| 16 | Duncastle FC | 25 | 26 |
+| 16 | Duncastle FC (Coalfield Ground; Marcus Dunbar, 7 headed goals; won 3/4 at home) | 25 | 26 |
 | 17 | Millwall Athletic | 25 | 23 |
 
 ## Ringball

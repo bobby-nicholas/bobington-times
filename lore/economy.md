@@ -20,5 +20,19 @@
 See `institutions.md` for full business listings.
 
 ## Insurance
-- **Fairweather & Chalk** — Underwrote Ashcroft's warehouse policy. Valued building at 3.8 million florins (above city assessment). Policy renewed and increased 4 months before fire.
+- **Fairweather & Chalk** — Underwrote Ashcroft's warehouse policy. Valued building at 3.8 million florins (above city assessment). Policy renewed and increased 4 months before fire. Ceased writing new Kaelmar-route policies.
+- **Tidewater Mutual** — Insurance firm. Senior underwriter Caspar Helmsley. Has not written a new Kaelmar-route policy since 12 Feb.
+- **Bobington Insurance Exchange** — Representative Nora Felling testified at commission (25 Feb) that Kaelmar diversion claims reached 420,000 florins in 10 days.
 - **Ashcroft tax dispute** — 2.4-million-florin vacant building levy owed to the city
+
+## Spice Crisis (updated 25 Feb)
+- Eastern Spice Index hit 351 on Tue 25 Feb (new record; up 24% in 11 days)
+- Nazari imposing purchasing limits on 14 of 32 varieties (up from 7)
+- At least 9 of 12 surveyed restaurants have made significant menu changes
+- The Ashen Grill replaced entire eastern menu; The Willow Table introduced "Greymoor preparation"
+- Fontenoy (Verlaine's) estimates ~2.5 weeks of reserves remaining
+- The Thirty-Mile Table fully booked for first time (accidental beneficiary)
+- Merchants' Guild emergency session Thu 27 Feb; petition for spice trade in Kaelmar negotiations (47 signatures)
+
+## Fernwick Ferry
+- Emergency ferry approved 25 Feb. Contract: 940,000 florins to Ashwater River Services (Gwen Alderly). Route: Thornhill Reach to Bramblegate Steps. 15-min intervals, 6 AM–10 PM, ~200 passengers/crossing. First sailings expected ~6 March. Fare: 30 centimes (subsidised). Monthly pass: 12 florins. Vessels: *Thornhill Star* (220 pax) and *Bramblegate Belle* (backup).
