@@ -16,7 +16,7 @@ This file tracks scientific institutions, discoveries, natural phenomena, and te
 
 ## Natural Phenomena
 
-- **Greymoor Highland Luminous Phenomenon** — See Current Scientific Threads above. Greenish-white glow, vertical striations, visible since 3 Feb 2026. 22 consecutive clear nights observed. Royal Institute granted portable spectrometer access (25 Feb). Dr Collis to operate alongside Professor Whitstone's geological team. First spectroscopic observations planned for Wed/Thu 26-27 Feb (clear skies forecast). Results expected within 48 hours. Possibly linked to seismic activity (speculative — glow predates tremor by 3 weeks).
+- **Greymoor Highland Luminous Phenomenon** — See Current Scientific Threads above. Greenish-white glow, vertical striations, visible since 3 Feb 2026. 23 consecutive clear nights observed. Royal Institute granted portable spectrometer access (25 Feb). **First spectroscopic results (26 Feb):** Dr Collis and Dr Maren Ilkley (Royal Institute spectroscopist, age 30) operated portable spectrometer from ridge above Dunvale, Wed night 26 Feb, 10:15 PM-2:30 AM. Emission spectrum shows strong lines consistent with ionised nitrogen and trace sulphur dioxide. NOT typical atmospheric phenomenon. Consistent with volcanic/geothermal venting — superheated gases escaping through fractured rock. Whitstone: "The emission profile suggests a subsurface thermal source. Something beneath the Greymoor ridge is venting gas through the rock." Glow predates tremor by 3 weeks — both may be symptoms of same geothermal system. Second observation night planned Thu 27 Feb (spatial distribution). Complicates Greymoor mining expansion — geothermal activity adds new variable to geological survey.
 
 ## Technology
 

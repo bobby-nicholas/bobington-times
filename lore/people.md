@@ -118,6 +118,18 @@
 ## Surveyors & Engineers (new)
 - **Pella Strand** — Municipal surveyor, age 29. Works for the Municipal Works Office. Studied civil engineering at Bobington Polytechnic. Discovered a buried, unmapped waterway beneath the Docklands during a comprehensive underground survey (Feb 2026). The waterway is brick-lined, arched, ~2m wide, carries flowing water, and appears on no known city map. "Somewhere under this city, there is a river that nobody named."
 
+## New Characters (26 Feb 2026)
+- **Count Viktor Soren** — Delvarian diplomat, age 61. Former ambassador to Ashford Republic (2011-2018). Designated as Delvaria's quiet channel envoy for Kaelmar talks (26 Feb). Son of Admiral Pehr Soren (commanded Eastern Fleet in 1980s, helped negotiate Treaty of Ashen Bluffs). Career moderate, pragmatist, known for listening first. Chose diplomacy over military commission.
+- **Admiral Pehr Soren** — Count Soren's father. Commanded Delvarian Eastern Fleet in 1980s. Instrumental in negotiating naval provisions of Treaty of Ashen Bluffs (1987). Historical figure.
+- **Elise Braddock** — Solicitor at Doncaster & Braddock. Represents Vincent Drury.
+- **Dr Maren Ilkley** — Spectroscopist, age 30, Royal Institute physical sciences division (joined previous year). Operated portable spectrometer for Greymoor glow observations alongside Dr Collis (26 Feb).
+- **Hamid Rassam** — Spice merchant, Ashbury Lane. Father Youssef established the dried bark and root spice business in 1968. Closed temporarily on 26 Feb after exhausting black cardamon and velveroot stock.
+- **Youssef Rassam** — Hamid's father, founded the Rassam spice business on Ashbury Lane in 1968. Historical.
+- **Elia Thorne** — Herb and spice shopkeeper, Chandler's Row. 19 years in business. Shuttered rather than charge crisis prices to dockworkers' families.
+- **Thomas Ashworth (actor)** — Age 47, schoolteacher by day, Bellvue Theatre regular for 15 years. Plays Edmund Vale in *The Lamplighter's Oath*.
+- **Nessa Holloway** — Age 23, recent graduate of Bobington Academy of Dramatic Arts. Plays Clara (Vale's daughter) in *The Lamplighter's Oath*. First professional engagement.
+- **Jens Aldric** — Thornbury Lancers ringball centrist, age 28, from Thornbury. 6-year veteran. Most assists in the league. Pragmatic, results-oriented.
+
 ## New Characters (25 Feb 2026)
 - **Ged Halloran** — Riveter, Docklands. Wife and two boys in Chandler's Row. Stayed in Bobington rather than take work at Ironhall Steelworks, waiting for tramway contracts. Named by Seldon in commission testimony.
 - **Petra Voss (worker)** — Cable-layer, Docklands. No relation to Councilman Voss. Completed 9-month cable-laying certification; borrowed 280 florins for the course. Named by Seldon in commission testimony.

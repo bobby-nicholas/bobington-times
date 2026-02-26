@@ -24,6 +24,7 @@
 - **Lindqvist** (24 Feb) — Seen arriving at Bobington Foreign Office on Chancery Row Mon morning. Unannounced visit; Foreign Office confirmed "a scheduled meeting."
 - **Copper** — Opened Mon 24 Feb at 883; rose to 891 by midday. Eased Tue 25 Feb to 885 on modest diplomatic optimism. Merchants' Guild: 14 vessels now rerouting via Sarenne (2 additional Tue); total fleet costs ~1.8M florins.
 - **Envoy expected** (25 Feb) — Diplomatic sources indicate Delvaria preparing to designate a senior diplomat as quiet channel envoy, possibly by Thu 27 Feb. Lindqvist's Mon visit confirmed as coordination session on envoy mechanics (venue, confidentiality, format). Hale described progress as "tangible" (upgrade from "constructive"). *Kharstad Gazette* ran no editorial comment Tue — second day of conspicuous restraint. Thornbury: "When [the Gazette] is quiet, it is because someone has told it to be quiet."
+- **Delvaria names envoy** (26 Feb, Wed) — Ministry of External Affairs designates Count Viktor Soren (61, former ambassador to Ashford Republic 2011-2018) as quiet channel envoy. 52-word communiqué. Soren is a career moderate; father Admiral Pehr Soren negotiated naval provisions of Treaty of Ashen Bluffs. Hale: "an important and welcome step." Daine responds cautiously but measuredly. Copper falls to 878 (sharpest single-day decline since crisis began). *Kharstad Gazette* runs announcement on front page without commentary — fourth day of restraint. Venue under discussion (Fenmouth, Bobington, or neutral). First meeting expected within days. Thornbury: "The machinery of peace is being assembled."
 
 ## Nations
 See `geography.md` for full nation details.
@@ -35,5 +36,7 @@ See `geography.md` for full nation details.
 - **Foreign Minister Luisa Vandermeer** — Ashford Republic
 - **Sir Duncan Hale** — Bobington envoy to Thessara
 - **Consul Pehr Lindqvist** — Delvarian consul in Bobington
+- **Count Viktor Soren** — Delvarian quiet channel envoy. Age 61. Former ambassador to Ashford Republic (2011-2018). Son of Admiral Pehr Soren. Career moderate. Designated 26 Feb 2026.
+- **Admiral Pehr Soren** — Count Soren's father. Commanded Delvarian Eastern Fleet 1980s. Negotiated naval provisions of Treaty of Ashen Bluffs (1987).
 - **Professor Elias Thornbury** — Bobington Institute for Foreign Affairs
 - **Undersecretary Helena Marchetti** — Bobington Foreign Office, Undersecretary for Eastern Affairs. Career diplomat; served as deputy consul in Thessara 2014–2019. Received Lindqvist on 21 Feb.

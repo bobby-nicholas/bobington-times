@@ -52,9 +52,15 @@
 ## Fernwick Bridge Emergency Ferry
 - Approved 25 Feb by emergency infrastructure committee (chaired by Falk). Ashwater River Services (Gwen Alderly) awarded 940,000-florin contract. Route: Thornhill Reach to Bramblegate Steps. First crossings ~6 March.
 
+## Commission Session 3 (26 Feb, Wed)
+- Kinnear presents 63-page engineering analysis: three design variants. Full copper spec (12,000 tonnes, 60-year life, 530M+ overrun); aluminium substitution (4,100 tonnes, 30-year life — but rebuild at year 30 costs ~280M); phased approach (Phase 1 only, 5,200 tonnes, ~280M overrun). Kinnear: "You can build a cheaper tramway. You cannot build a cheaper tramway that lasts." Investigated copper-clad aluminium conductors — not manufactured domestically; 3 firms in Ashford Republic only.
+- Whitstone on geology: core samples show declining ore grades at depth (2.8% at 40-60m, 1.6% at 80m). Deeper deposits (150m+) exist per 1970s surveys but require new shafts, modern ventilation, major investment. Expansion to 3,500 tonnes feasible but earliest late 2027. Full geological/seismic survey prerequisite: 4 months, 1.2M florins. Tremor seismometer data shows origin at ~4km depth along previously unmapped north-south fault.
+- Commission narrowing to phased approach as likely recommendation. Interim report Fri 28 Feb expected to narrow from 5 to 2-3 options.
+- Falk: interim report will "narrow the field considerably."
+- Final hearing Thu 27 Feb: public comment and co-chair closing statements.
+
 ## Upcoming
-- **26 Feb (Wed)** — Commission session 3: Kinnear, Whitstone
-- **27 Feb (Thu)** — Merchants' Guild emergency session on spice crisis (Guild Hall); Royal Institute lectures (Calloway 6:30 PM, Whitstone/Fenn 7:30 PM)
+- **27 Feb (Thu)** — Commission session 4 (final): public comment, closing statements. Merchants' Guild emergency session on spice crisis (Guild Hall, 10 AM); Royal Institute lectures (Calloway 6:30 PM, Whitstone/Fenn 7:30 PM)
 - **28 Feb (Fri)** — Commission interim report expected; Albie Finch retirement day
 - **5 Mar** — Commission final report deadline
 - **~7 Mar** — Ashcroft tax demand payment deadline (14 days from 21 Feb)

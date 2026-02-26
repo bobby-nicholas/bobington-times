@@ -57,7 +57,7 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 
 ### Ringball League
 - **Caravel Harriers** — Defending champions (back-to-back titles). 23-match unbeaten run ended 22 Feb. Coach: Wil Sørensen. Star centrist: Oska Dain. Top of table, 47 pts.
-- **Thornbury Lancers** — Second, 45 pts. Beat Millhaven 26-18 (22 Feb).
+- **Thornbury Lancers** — Second, 45 pts. Beat Millhaven 26-18 (22 Feb). Unbeaten in 7 matches (19 pts/game avg conceded). Best away record in league (7/10). Centrist: Jens Aldric (28, from Thornbury, 6-year veteran, most assists in league). Methodical, patient, efficient style.
 - **Ashwick Stoneflies** — Third, 44 pts. Beat Caravel 34-29 (22 Feb). Coach: Regan Hollister. Home ground: Ashwick Oval (~14,000). Key players: Fen Barlow (22, breakout star), Maren Thatch (keeper), Dov Marsden (veteran centrist, 36), Petra Venn (lock).
 - **Millhaven** — Lost 18-26 to Thornbury (22 Feb).
 - Six rounds remaining in the season.
