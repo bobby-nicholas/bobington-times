@@ -32,6 +32,7 @@
 - **Harrowgate House** — Docklands restaurant known for peppered crab. Switched to domestic seasoning blend.
 - **Bellamy's of Caldecott Square** — Eliminated spiced dessert course entirely.
 - **Greystone Shipping & Haulage** — Incorporated 2019, registered Harbourfront Parade. Sole director: Vincent Drury. Owner of Old Harbour Road warehouse linked to certificate forgery scheme (24 Feb).
+- **Southgate Safety Consultants Ltd** — Ghost compliance firm. Registered office: 47 Mercer Street (single room above Canford & Sons printshop). Incorporated 14 March 2022, single unnamed director. Filed no revenue, no employees, no business activity. Lease expired 31 Dec 2025. Landlord Canford saw occupant ~6-7 times in 3 years. No inspection records, no equipment. The firm Drury cited as source of fire safety certificates. Under Constabulary investigation (28 Feb). Premises sealed.
 
 ## Art Trade
 - **Grayle & Finch Fine Art** — Bramblegate Lane, one of Bobington's oldest art dealerships. Director: Desmond Grayle.

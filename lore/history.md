@@ -55,16 +55,21 @@
 
 - **26 Feb** — Copper Review Commission session 3: Kinnear presents engineering analysis (three design variants; aluminium substitution halves lifespan to 30 years; phased approach emerges as pragmatic middle ground at 280M overrun). Whitstone reveals declining ore grades at Greymoor depths and unmapped fault line from tremor seismometer data. Delvaria formally designates Count Viktor Soren (61, former ambassador to Ashford Republic) as quiet channel envoy — first named individual in the diplomatic process; copper falls to 878. Vincent Drury (Greystone Shipping) interviewed at Constabulary for 3 hours; claims certificates from unnamed compliance consultancy; shared registered address with Ashcroft subsidiary in 2020. First spectroscopic analysis of Greymoor glow: ionised nitrogen and sulphur dioxide emission lines — consistent with geothermal venting; Whitstone: "Something beneath the ridge is venting." Buried Docklands waterway traced to 650m; carved date of 1782 found on brickwork; Marchbank finds "lower conduit" reference in 1793 journal. ESI hits 356; two smaller spice merchants shutter; Guild petition grows to 52 signatures. Bellvue Theatre first read-through of *The Lamplighter's Oath*; fundraising at 74K of 180K. Albie Finch on penultimate round with successor Maisie Hollander.
 
+- **27 Feb** — Commission session 4 (final): 12 public testimonies including riveter Ged Halloran, Mrs Holm (dockworker's wife). Pryce and Voss deliver closing statements converging on phased approach; Voss concedes "delay has a cost." Interim report expected Sat 28 Feb. Bobington confirmed as venue for Soren-Hale quiet channel talks; Foreign Office on Chancery Row to host; first meeting early next week; copper eases to 872. Calloway presents comet discovery to standing-room Royal Institute audience; 42-minute presentation; standing ovation; Fenmouth designation considered a formality. Second Greymoor glow observation: vent system extends 3km along ridge, 4 discrete emission points; Whitstone: "not a single vent but a system"; geological survey now urgent. Merchants' Guild votes unanimously (43) for coordinated spice rationing: pricing cap at 250% pre-crisis, shared stockpile inventory, petition (67 signatures) hand-delivered to Foreign Office; ESI eases to 349. Albie Finch retires after 33 years on Round 14; final delivery to Mrs Tolliver at 9 Lower Harbourfront Parade. Hargrove retrospective introduces timed entry; total attendance ~35,400.
+
+- **28 Feb** — Commission interim report released: phased approach recommended (Phase 1: 7 stations, 5,200t copper, ~280M overrun), full geological survey mandated, 14M transition fund endorsed. Pryce-Voss: "not a compromise but a sequence." Count Soren arrives in Bobington by overnight train; installed at Delvarian consulate; first quiet channel session expected Tue 3 Mar. Rovers 2-1 at Duncastle (Dunbar 23', Osei 61', Harwick 84'); Rovers to 32 pts, 14th. Ringball: Stoneflies 31-28 Lancers (Barlow 2 rings, Marsden masterclass); title race tightens to Caravel 47, Stoneflies 46, Lancers 45. Royal Institute convenes 6-member emergency geology panel (Tue 3 Mar). Constabulary traces ghost compliance firm Southgate Safety Consultants to empty office at 47 Mercer Street. Guild Spice Crisis Committee named (Nazari, Kade, Engel, Ferris). Hargrove exhibition passes 36,000. Hollander walks first solo Round 14.
+
 ## Upcoming
-- **15 Mar** — Bellvue Theatre benefit night (details TBA)
-- **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre
-- **18 Apr** — National Veterans' Sculling Championship, Caldwell Rowing Basin
-- **1 May** — Bellvue Theatre fly tower repair deadline
-- **25 Feb (Tue)** — Commission session 2: Merchants' Guild, shipping insurance, public testimony. DWA to present oral testimony.
-- **26 Feb (Wed)** — Royal Institute special lecture: "Copper in the Earth" by Whitstone & Fenn (7:30 PM, sold out)
-- **27 Feb (Thu)** — Merchants' Guild emergency session on spice crisis (Guild Hall, 10 AM)
-- **1 Mar (Sat)** — Rovers at Duncastle FC (away)
-- **5 Mar** — Copper Review Commission report deadline
-- **~7 Mar** — Ashcroft tax demand payment deadline
-- **Autumn 2026** — Tramway Phase 1 breaks ground (pending commission recommendation)
-- **Through 30 June** — Hargrove retrospective on view
+- **3 Mar (Mon)** — Spice Crisis Committee first meeting at Guild Hall. Soren-Hale first session expected at Foreign Office.
+- **3 Mar (Tue)** — RI emergency geology panel meets at Arundel Crescent.
+- **5 Mar (Wed)** — Guild stockpile inventory due.
+- **5 Mar (Thu)** — Copper Review Commission final report deadline.
+- **~6 Mar** — Ashwater emergency ferry first crossings.
+- **~7 Mar** — Ashcroft tax demand payment deadline.
+- **8 Mar (Sat)** — Rovers vs Caravel City (home). League leaders.
+- **15 Mar** — Bellvue Theatre benefit night.
+- **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre.
+- **18 Apr** — National Veterans' Sculling Championship, Caldwell Rowing Basin; Faraday model exhibition opens.
+- **1 May** — Bellvue Theatre fly tower repair deadline.
+- **Late 2026/Early 2027** — Tramway Phase 1 groundbreaking (pending geological survey).
+- **Through 30 June** — Hargrove retrospective on view.

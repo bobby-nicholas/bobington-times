@@ -59,8 +59,28 @@
 - Falk: interim report will "narrow the field considerably."
 - Final hearing Thu 27 Feb: public comment and co-chair closing statements.
 
+## Commission Session 4 — Final (27 Feb, Thu)
+- Public comment: 12 members of the public addressed the co-chairs. Gallery two-thirds full. Ged Halloran (riveter) spoke first — 3 minutes, no prepared remarks. Celia Dunbar (grocer, Harbourfront Parade) spoke about business impact. Walter Griggs (retired teacher, Thornhill) argued against fiscal overcommitment. Mrs Holm (dockworker's wife, Pilot's Alley) gave the most affecting testimony about the uncertainty at kitchen tables.
+- Pryce closing statement (11 minutes, no notes): "One — a phased approach — is imperfect but honest." Echoed Kinnear: "We must not build cheaply what must last a lifetime." Clear argument for Phase 1 at current copper spec, Phase 2 deferred pending geological survey and Kaelmar diplomacy.
+- Voss closing statement (8 minutes, handwritten notes): "Delay is not neutral. Delay has a cost, and that cost falls disproportionately on those least able to bear it." Remarkable concession from the tramway's chief opponent. Qualification: full geological/seismic survey of Greymoor deposits is prerequisite (4 months, 1.2M florins).
+- Both co-chairs signal convergence on phased approach. Interim report expected Sat 28 Feb.
+- Falk: "The commission has done its work with diligence and, I believe, with honour."
+
+## Commission Interim Report (28 Feb, Sat)
+- 34-page report released Saturday morning, bound in blue card. Delivered to Municipal Chamber by messenger.
+- **Primary recommendation:** Phased approach. Phase 1: 7 stations, 8.2 miles (Docklands terminus through Midtown to Caldecott Square interchange), 5,200 tonnes copper, ~280M florin overrun. Phase 2 deferred minimum 2 years, contingent on: Kaelmar resolution, geological survey completion, council approval of revised financing.
+- **Contingent alternative:** Full copper specification, revisited only if Kaelmar talks produce "durable resolution" within reporting period.
+- **Eliminated:** Aluminium substitution (dismissed on engineering/economic grounds), suspension (195-220M in termination/idle costs), modified scope (folded into phased framework).
+- **Geological survey mandate:** Unanimously recommended. Comprehensive geological and geothermal survey of Greymoor Highlands. 1.2M florins, 4 months. Cites Whitstone testimony, tremor fault, and Collis/Ilkley vent system. "We must know what we are building upon before we build."
+- **Transition fund:** 14M florin fund endorsed (18-month half-wage support for workers with specialist training). Names Halloran, Petra Voss, Obi.
+- **Joint statement (Pryce-Voss):** "Not a compromise but a sequence."
+- Falk: "serious and careful document." Blackthorne: single sentence, reviewing.
+- Voss (by telephone): geological survey mandate is "the most important paragraph."
+- Seldon (DWA): "Fourteen million is a start."
+- All 11 council members collected copies by noon.
+- Phase 1 groundbreaking pushed from autumn 2026 to late 2026/early 2027 pending survey.
+
 ## Upcoming
-- **27 Feb (Thu)** — Commission session 4 (final): public comment, closing statements. Merchants' Guild emergency session on spice crisis (Guild Hall, 10 AM); Royal Institute lectures (Calloway 6:30 PM, Whitstone/Fenn 7:30 PM)
-- **28 Feb (Fri)** — Commission interim report expected; Albie Finch retirement day
-- **5 Mar** — Commission final report deadline
+- **5 Mar (Thu)** — Commission final report (costings, financing, survey timeline, transition fund eligibility)
 - **~7 Mar** — Ashcroft tax demand payment deadline (14 days from 21 Feb)
+- **Following week** — Council debate on final report expected

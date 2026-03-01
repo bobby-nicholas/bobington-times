@@ -26,21 +26,21 @@ See `lore/_index.md` for the full table of contents. Key files:
 
 These are the threads currently in play. Pick 2-3 to advance each edition, and introduce 1-2 new ones.
 
-1. **Copper Review Commission — Session 4 Thursday (Final)** — Session 3 (Wed 26 Feb): Kinnear's 63-page analysis presents 3 variants (full copper 530M+ overrun/60yr; aluminium 4,100t/30yr + 280M rebuild; phased 5,200t/~280M overrun). Whitstone: ore grades declining (2.8% at 40m, 1.6% at 80m); unmapped N-S fault at ~4km depth; expansion feasible but earliest late 2027; survey: 4 months, 1.2M florins. Commission narrowing to phased approach. Thu 27 Feb: final session — public comment + co-chair closing statements. Interim report Fri 28 Feb. Final report deadline 5 Mar. → `lore/economy.md`, `lore/politics.md`
-2. **Kaelmar Strait — Envoy Named, Talks Imminent** — Count Viktor Soren (61, former amb. to Ashford Republic) designated as Delvarian envoy Wed 26 Feb. Son of Admiral Pehr Soren (Treaty of Ashen Bluffs). Career moderate. Hale: "important and welcome step." Copper fell to 878 (sharpest single-day decline). Venue under discussion (Fenmouth, Bobington, or neutral). First meeting expected within days. *Kharstad Gazette* ran announcement without comment — 4th day of restraint. Next: venue decision, first Soren-Hale meeting. → `lore/international.md`
-3. **Greystone Wharf — Drury's "Compliance Firm"** — Drury spent 3h15m at Constabulary Wed. Claims certificates obtained through unnamed compliance consultancy. Left document case behind. Companies Registry reveals Greystone Shipping shared registered address with Ashcroft subsidiary in 2020 — link tightening. Handwriting analysis: all 3 certificates by same hand. Not arrested but asked to remain available. Next: who is the compliance firm? Ashcroft-Drury link deepens? → `lore/people.md`, `lore/institutions.md`
-4. **Rovers — Survival Without Blackshaw** — Corbett devoted Wed training entirely to set-piece defence ahead of Duncastle away (Sat 1 Mar). Harwick training well, Blackshaw offering touchline instruction. Duncastle 16th, desperate, Dunbar leads league in headed goals. Next: Sat 1 Mar at Duncastle. → `lore/sports.md`
-5. **Hargrove — Record Attendance** — 30,000+ total. Timed entry in effect. Market storyline dormant but can recur. → `lore/arts-culture.md`
-6. **Docklands Workers' Association** — Seldon's testimony was the commission highlight. DWA emerging as major political voice. 14M florin transition fund request on the table. Next: commission response to DWA demands in final report. → `lore/institutions.md`
-7. **Blackthorne's Silence** — Still no public appearance. Written message only. → `lore/politics.md`
-8. **Spice Trade Crisis — Merchants Shuttering** — ESI at 356 (26 Feb, record, 27% in 12 days). Two merchants shuttered: Rassam (Ashbury Lane) and Thorne (Chandler's Row). Nazari limiting 18 of 32 varieties. Guild emergency session Thu 27 Feb (coordinated stockpile management, emergency pricing, Foreign Office petition with 52 signatures). Soren envoy designation gives cautious hope. Next: Thu Guild session outcome, does Foreign Office fold spice into diplomatic talks? → `lore/economy.md`
-9. **Fernwick Bridge — Ferry Preparations** — Ferry approved, first crossings ~6 Mar. Stroud assessing all Ashwater crossings. Bridge repair 8-12 months, 55-65M. Next: ferry launch. → `lore/geography.md`
-10. **Ringball Season — Title Showdown Saturday** — Caravel 47, Lancers 45, Stoneflies 44, 6 rounds left. Stoneflies host Lancers Sat at Ashwick Oval. Caravel have bye. Next: Saturday results. → `lore/sports.md`
-11. **Greymoor Glow — Geothermal Venting Confirmed** — First spectroscopic results (Wed 26 Feb night): ionised nitrogen + sulphur dioxide. Consistent with volcanic/geothermal venting through fractured rock. Whitstone: "subsurface thermal source." Glow predates tremor by 3 weeks — both symptoms of same geothermal system. Second observation Thu 27 Feb (spatial distribution). Complicates mining expansion. Next: Thu spatial mapping, implications for mining, Royal Institute response. → `lore/science.md`
-12. **Calloway Comet** — Confirmed. Mrs Calloway presents Thu 27 Feb at Royal Institute (6:30 PM). First non-credentialed speaker in 14 years. Fenmouth designation expected 4-6 weeks. → `lore/science.md`
-13. **The Buried River / Lower Conduit** — Dated to 1782 via mason's marks. 650m traced. 1793 Harbourmaster's journal: "the lower conduit which serves the dock warehouses with fresh water." Water still flowing, clean and cold. Strand following downstream. Next: where does it emerge? Full archaeological assessment? → `lore/geography.md`
-14. **Bellvue Theatre — Rehearsals Underway** — First read-through Wed 26 Feb. Ashworth commanding as Vale, Holloway found her voice. Glass telegram read aloud. 74K of 180K raised (41%). Arts Council response pending. Benefit night 15 Mar. Opens 10 Apr. Next: rehearsal progress, Arts Council, benefit night. → `lore/arts-culture.md`
-15. **Albie Finch Retires** — Penultimate round Wed. Teaching Hollander the route. Retires Fri 27 Feb. Next: retirement day. → `lore/people.md`
+1. **Copper Review Commission — Interim Report Released, Final Report 5 Mar** — Interim report released Sat 28 Feb: recommends phased approach (Phase 1: 7 stations, 8.2 miles, 5,200 tonnes copper, ~280M overrun). Full copper spec retained as contingent alternative. Aluminium and suspension dropped. Full geological/geothermal survey mandated (1.2M florins, 4 months). 14M florin worker transition fund endorsed. Pryce-Voss joint statement: "not a compromise but a sequence." Blackthorne: reviewing. Falk: "serious and careful." Final report Thu 5 Mar (costings, financing, survey timeline). Council debate expected following week. Phase 1 groundbreaking pushed to late 2026 or early 2027 pending survey. Next: council reaction, final report details, survey commissioning. → `lore/economy.md`, `lore/politics.md`
+2. **Kaelmar Strait — Soren in Bobington, Talks Tuesday** — Soren arrived Sat 28 Feb by overnight train. Met by Lindqvist at Central Station. Installed at Delvarian consulate, Ashbury Lane. Hale returning from Thessara Sun. Thessarine aide provided written outline of priorities. First formal session expected Tue. Marchetti preparing Chancery Row logistics. *Kharstad Gazette* buried departure on front page below grain prices. Copper at 872. Next: Hale return Sun, first session Tue, initial outcomes. → `lore/international.md`
+3. **Greystone Wharf — Ghost Compliance Firm Found** — Constabulary traced Drury's compliance firm to Southgate Safety Consultants Ltd, registered 47 Mercer Street (single room above Canford & Sons printshop). Incorporated March 2022, single unnamed director. No employees, no records, no inspection equipment. Room vacated Dec 2025. Landlord Canford saw tenant "six or seven times" in 3 years. Annual filings show no revenue or activity. Ashcroft/Greystone link still under investigation. Next: who is the director? Charges? Ashcroft connection? → `lore/people.md`, `lore/institutions.md`
+4. **Rovers — Won at Duncastle 2-1** — Duncastle 1-2 Rovers (Sat 28 Feb). Dunbar headed opener (23', from Crewe corner). Osei equalised (61'). Harwick headed winner (84', from Dunmore corner — vindication of Corbett's set-piece work). Rovers 32 pts, 14th, 9 clear of relegation. Next: Caravel City at home (Sat 8 Mar, league leaders). Blackshaw possible return 21 Mar. → `lore/sports.md`
+5. **Hargrove — 36,000+ Visitors, Arts Council Report Midweek** — Passed 36,000 (15 days). Timed entry working smoothly. 3,200+ Saturday visitors. Arts Council observer completed assessment; report expected midweek, early indications "highly positive." Average visit 47 minutes. Considering Thu evening openings. Next: Arts Council formal report, potential heritage classification. → `lore/arts-culture.md`
+6. **Docklands Workers' Association** — 14M florin transition fund endorsed by interim report. Seldon: "Fourteen million is a start." Next: final report eligibility criteria, council debate. → `lore/institutions.md`
+7. **Blackthorne's Silence** — Single-sentence response to interim report ("received and will comment following review"). Still no public appearance. → `lore/politics.md`
+8. **Spice Trade Crisis — Crisis Committee Meets Monday** — Committee named Sat: Nazari (chair), Kade, Marta Engel (broker), Alistair Ferris (Guild trade secretary). First meeting Mon. Stockpile audit Wed. Preliminary estimates: 8-10 weeks at rationed levels. 250% cap enforcement Mon. ESI at 347 (Fri close, 3rd consecutive decline). Next: Mon meeting, Wed inventory results, diplomatic inclusion question. → `lore/economy.md`
+9. **Fernwick Bridge — Ferry Preparations** — Ferry approved, first crossings ~6 Mar. Bridge repair 8-12 months, 55-65M. Next: ferry launch. → `lore/geography.md`
+10. **Ringball Season — Three-Way Title Race** — Stoneflies 31-28 Lancers at sold-out Ashwick Oval (Sat 28 Feb). Barlow 2 rings, Marsden masterclass in 3rd quarter. Aldric 2 for Lancers. Table: Caravel 47, Stoneflies 46, Lancers 45. 5 rounds left. Next: next round matchups. → `lore/sports.md`
+11. **Greymoor Glow — RI Emergency Panel Tuesday** — RI formally convened 6-member emergency geology/geophysics panel (Sat announcement). Whitstone chairs. Meets Tue. Will define survey scope including geothermal assessment. Collis and Ilkley on panel. Mining cooperative (Haversten) invited. Permanent monitoring station under consideration (180K construction + 45K/yr). Next: Tue panel recommendations, survey commissioning. → `lore/science.md`
+12. **Calloway Comet** — Fenmouth designation expected 4-6 weeks. Background thread. → `lore/science.md`
+13. **The Buried River / Lower Conduit** — Dated to 1782. 650m traced. Next: where does it emerge? → `lore/geography.md`
+14. **Bellvue Theatre — Rehearsals Underway** — ~74-90K of 180K raised. Arts Council heritage grant pending (separate from Hargrove assessment). Benefit night 15 Mar. Opens 10 Apr. Next: Arts Council decision, rehearsal progress, benefit night. → `lore/arts-culture.md`
+15. **Hollander on Round 14** — First solo round completed Sat 28 Feb (83 items, 2h35m). Mrs Carmody gave shortbread. Blue notebook in pocket. Learning the route. Finch at home. Storyline ongoing as colour/community thread. → `lore/people.md`
 16. **Faraday's Mechanical Bobington** — Model extraction planned for spring. Exhibition 18 Apr. Background thread. → `lore/arts-culture.md`
 17. **Haldane & Webb — 500 Typewriters** — Skilled labour shortage ongoing. Background thread. → `lore/business.md`
 18. **Bobington Ladies' Sculling Club** — Qualified for National Regatta (May, Lake Thornfield). Equipment funding pending. Background thread. → `lore/sports.md`
@@ -52,6 +52,30 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 ---
 
 ## Recent Editions
+
+### Edition: 28 February 2026
+- Commission interim report released: phased approach recommended (Phase 1: 7 stations, 5,200t copper, ~280M overrun); full geological survey mandated; 14M transition fund endorsed; Pryce-Voss: "not a compromise but a sequence" (FEATURED)
+- Count Soren arrives in Bobington by overnight train; installed at Delvarian consulate; Hale returning Sunday; first quiet channel session expected Tuesday
+- Rovers 2-1 at Duncastle: Dunbar heads opener; Osei equalises; Harwick heads dramatic 84th-minute winner from corner; Corbett's set-piece preparation pays off both ways
+- Ringball: Stoneflies 31-28 Lancers at sold-out Ashwick Oval; Barlow 2 rings, Marsden 3rd-quarter masterclass; title race now Caravel 47, Stoneflies 46, Lancers 45 with 5 rounds left
+- RI convenes emergency 6-member geology panel for Tuesday; will scope Greymoor survey including geothermal assessment; permanent monitoring station under consideration
+- Ghost compliance firm found: Southgate Safety Consultants at 47 Mercer Street — empty room, no staff, no records; single unnamed director; incorporated March 2022
+- Guild Spice Crisis Committee named: Nazari (chair), Kade, Engel, Ferris; first meeting Monday; stockpile audit Wednesday; preliminary estimate: 8-10 weeks at rationed levels
+- Hargrove retrospective passes 36,000 visitors; Arts Council observer report expected midweek; "highly positive" early indications
+- Hollander walks first solo Round 14: 83 items, 2h35m; Mrs Carmody gives shortbread; blue notebook consulted ~40 times
+- Pemberton column: "On the Wisdom of Halves" (the phased approach as philosophy — half a tramway, half a diplomatic channel, half a postal round)
+
+### Edition: 27 February 2026
+- Commission session 4 (final): 12 public testimonies including riveter Halloran and dockworker's wife Mrs Holm; Pryce and Voss deliver closing statements converging on phased approach; Voss concedes "delay has a cost"; interim report Saturday (FEATURED)
+- Bobington confirmed as venue for Soren-Hale quiet channel talks; Foreign Office on Chancery Row hosting; first meeting expected early next week; copper eases to 872
+- Calloway presents comet discovery at Royal Institute; standing-room audience; 42-minute talk; standing ovation; Fenmouth designation a formality
+- Greymoor glow mapped: 3km fracture zone, 4 discrete emission points; Whitstone: "not a single vent but a system"; geological survey now urgent
+- Guild votes unanimously for coordinated spice rationing: 250% pricing cap, shared stockpile inventory; 67-signature petition delivered to Foreign Office; ESI eases to 349
+- Albie Finch walks his last round after 33 years; farewell from Docklands community; Hollander takes over Monday
+- Rovers travel to Duncastle Saturday; Corbett drills set-piece defence; Dunbar (7 headed goals) awaits Harwick
+- Ringball: Stoneflies host Lancers Saturday in title-defining match (Caravel 47, Lancers 45, Stoneflies 44)
+- Hargrove timed entry begins; total attendance ~35,400; Arts Council observer visits; Wednesday evening openings draw younger crowd
+- Pemberton column: "On the Things We Carry Out the Door" (Finch's postbag, Calloway's notebooks, Voss's petition — what ordinary people bear)
 
 ### Edition: 26 February 2026
 - Commission session 3: Kinnear's 63-page engineering analysis (3 design variants — full copper/aluminium/phased); Whitstone reveals declining ore grades and unmapped north-south fault at 4km depth; commission narrowing toward phased approach (FEATURED)
@@ -103,13 +127,6 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 - Royal Institute announces emergency copper geology lecture (Wed, sold out in 3 hours)
 - Hargrove retrospective hits 30,000+ visitors; timed entry announced
 - Spice merchants profile: Nazari warehouse, velveroot exhausted, cardamon up 15%
-
-### Edition: 21 February 2026
-- Lindqvist meets Undersecretary Marchetti at Foreign Office; "substantive and frank"; Delvaria receptive but cautious on quiet channel with conditions; copper at 886 (FEATURED)
-- Blackshaw declared fit, Corbett names starting XI for Saturday's Haverford match; first league sellout; Millwall at Thornbury
-- Docklands safety audit begins: 6 teams, 72 properties, multiple lapsed fire certs; Revenue Office issues 2.4M florin tax demand to Ashcroft (14-day deadline)
-- Commission preview: Monday's first hearing, Pryce-Voss dynamics, three options, who testifies, 490M overrun at current prices
-- Pemberton column: "On the Useful Properties of Friction" (the productive grinding of incompatible surfaces — commission, diplomat, knee, coffee)
 
 <!-- older editions in lore/history.md -->
 

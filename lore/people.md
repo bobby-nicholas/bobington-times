@@ -118,6 +118,20 @@
 ## Surveyors & Engineers (new)
 - **Pella Strand** — Municipal surveyor, age 29. Works for the Municipal Works Office. Studied civil engineering at Bobington Polytechnic. Discovered a buried, unmapped waterway beneath the Docklands during a comprehensive underground survey (Feb 2026). The waterway is brick-lined, arched, ~2m wide, carries flowing water, and appears on no known city map. "Somewhere under this city, there is a river that nobody named."
 
+## New Characters (28 Feb 2026)
+- **Marta Engel** — Wholesale spice broker, offices on Threadneedle Lane. Handles largest volume of Guild-traded spice by weight. Member of Spice Crisis Committee. Knows the precise quantity of velveroot remaining in the city (~40 lbs as of 28 Feb).
+- **Alistair Ferris** — Guild trade secretary. Serves as Spice Crisis Committee's administrative officer and Foreign Office liaison.
+- **Douglas Canford** — Proprietor of Canford & Sons printers, 47 Mercer Street, age 64. Landlord of the upstairs room rented by Southgate Safety Consultants. Saw tenant "six or seven times in total" over nearly three years.
+
+## New Characters (27 Feb 2026)
+- **Celia Dunbar** — Grocer, Harbourfront Parade. No relation to the Duncastle footballer. Spoke at Commission session 4 about the impact of construction delays on Docklands businesses.
+- **Walter Griggs** — Retired schoolteacher, Thornhill. Spoke at Commission session 4 against fiscal overcommitment.
+- **Mrs Holm** — Dockworker's wife, Pilot's Alley. Gave affecting testimony at Commission session 4 about uncertainty at kitchen tables. "My husband doesn't follow the commission. He follows whether there's work next month."
+- **Alfie Crewe** — Duncastle FC left-footed winger. Delivers set pieces from the right side that target Dunbar at the near post.
+- **Mrs Carmody** — Resident of 11 Chandler's Row. Gave Finch shortbread on his last round.
+- **Mr Pettigrew** — Elderly resident of Chandler's Row. Waved from his window as Finch passed on his last round; hasn't been downstairs since November.
+- **Mrs Tolliver (Docklands)** — Runs a boarding house at 9 Lower Harbourfront Parade. Received Finch's final delivery (a furniture shop circular).
+
 ## New Characters (26 Feb 2026)
 - **Count Viktor Soren** — Delvarian diplomat, age 61. Former ambassador to Ashford Republic (2011-2018). Designated as Delvaria's quiet channel envoy for Kaelmar talks (26 Feb). Son of Admiral Pehr Soren (commanded Eastern Fleet in 1980s, helped negotiate Treaty of Ashen Bluffs). Career moderate, pragmatist, known for listening first. Chose diplomacy over military commission.
 - **Admiral Pehr Soren** — Count Soren's father. Commanded Delvarian Eastern Fleet in 1980s. Instrumental in negotiating naval provisions of Treaty of Ashen Bluffs (1987). Historical figure.
@@ -179,7 +193,7 @@
 - **Bernard Tull** — Oldest employee at Haldane & Webb, age 67. Has worked there 42 years. Key-lever specialist.
 
 ## Postal Service
-- **Albert "Albie" Finch** — Postman, age 61. Walked Docklands Round 14 (Chandler's Row, Pilot's Alley, lower Harbourfront Parade, 19 connecting streets) for 33 years since 1993. Retiring Fri 27 Feb 2026. Estimated 48,000 miles walked, 1.2 million pieces of mail delivered. Never lost a letter. Encyclopaedic knowledge of his route's residents. Wife: Joan.
+- **Albert "Albie" Finch** — Retired postman, age 61. Walked Docklands Round 14 (Chandler's Row, Pilot's Alley, lower Harbourfront Parade, 19 connecting streets) for 33 years since 4 Sep 1993. **Retired Fri 27 Feb 2026.** Estimated 48,000 miles walked, 1.2 million pieces of mail delivered. Never lost a letter. Encyclopaedic knowledge of his route's residents. Final delivery: a furniture circular to Mrs Tolliver at 9 Lower Harbourfront Parade. Received presentation clock and cake from post office staff. 47-household farewell card from Docklands Residents' Association. Wife: Joan.
 - **Joan Finch** — Wife of Albie Finch. Once hid his shoes to prevent him delivering post while delirious with pneumonia.
 - **Maisie Hollander** — Replacement postwoman for Round 14, age 24. Transferred from Caldwell Central Sorting Office. Has been shadowing Finch since Mon 24 Feb.
 - **Arthur Gullick** — Postmaster, Docklands Post Office. Described Finch as "the most reliable man I have ever worked with."

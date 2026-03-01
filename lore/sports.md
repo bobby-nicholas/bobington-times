@@ -16,6 +16,7 @@
 ## Key Results
 - **Merchants' Cup Final 2026** (14 Feb) — Rovers 2, Ironhall United 1 (AET). Bridgewater Stadium, ~48,000. Cole 34' (IRN), Blackshaw 72' (ROV), Dunmore 118' (ROV, 35-yard strike).
 - **Premier Division, 22 Feb** — Rovers 2 (Osei 43', Harte 78'), Haverford Town 1 (Rhys 34'). Bridgewater Stadium, att: 48,112. Ref: D. Ashworth. Comeback win; Blackshaw subbed 82' (knee stiffened). Millwall 0-3 Thornbury Academicals. Ashwick Borough 1-1 Caravel City reserves.
+- **Premier Division, 28 Feb** — Duncastle FC 1 (Dunbar 23'), Bobington Rovers 2 (Osei 61', Harwick 84'). Coalfield Ground, att: 11,400. Dunbar headed opener from Crewe corner; Osei equalised at far post; Harwick headed winner from Dunmore corner. Rovers to 32 pts. Corbett's set-piece preparation vindicated.
 
 ## Cup Parade — 18 February 2026
 - Route: Bridgewater Stadium → Harbourfront Parade (Docklands) → Threadneedle Street (Midtown) → Caldecott Square
@@ -35,13 +36,13 @@
 - **Harwick:** To deputise at centre-back. Won both aerial duels in 8-min cameo vs Haverford. Ronan Cahill also available.
 - **Corbett contract:** Still unresolved. Board sources: negotiations "ongoing."
 
-## Premier Division Table (bottom, as of 22 Feb)
+## Premier Division Table (bottom, as of 28 Feb)
 | Pos | Team | P | Pts |
 |-----|------|---|-----|
 | 13 | Haverford Town | 25 | 29 |
-| 14 | Bobington Rovers | 25 | 29 |
+| 14 | Bobington Rovers | 26 | 32 |
 | 15 | Ashwick Borough | 25 | 28 |
-| 16 | Duncastle FC (Coalfield Ground; Marcus Dunbar, 7 headed goals; won 3/4 at home) | 25 | 26 |
+| 16 | Duncastle FC (Coalfield Ground; Marcus Dunbar, 8 headed goals) | 26 | 26 |
 | 17 | Millwall Athletic | 25 | 23 |
 
 ## Ringball
@@ -56,23 +57,25 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 - **Cornerwork** — Tactical play near the edges of the oval.
 
 ### Ringball League
-- **Caravel Harriers** — Defending champions (back-to-back titles). 23-match unbeaten run ended 22 Feb. Coach: Wil Sørensen. Star centrist: Oska Dain. Top of table, 47 pts.
-- **Thornbury Lancers** — Second, 45 pts. Beat Millhaven 26-18 (22 Feb). Unbeaten in 7 matches (19 pts/game avg conceded). Best away record in league (7/10). Centrist: Jens Aldric (28, from Thornbury, 6-year veteran, most assists in league). Methodical, patient, efficient style.
-- **Ashwick Stoneflies** — Third, 44 pts. Beat Caravel 34-29 (22 Feb). Coach: Regan Hollister. Home ground: Ashwick Oval (~14,000). Key players: Fen Barlow (22, breakout star), Maren Thatch (keeper), Dov Marsden (veteran centrist, 36), Petra Venn (lock).
+- **Caravel Harriers** — Defending champions (back-to-back titles). 23-match unbeaten run ended 22 Feb. Coach: Wil Sørensen. Star centrist: Oska Dain. Top of table, 47 pts. Had bye on 28 Feb.
+- **Thornbury Lancers** — Third, 45 pts (after 28 Feb loss at Ashwick). Best away record in league. Centrist: Jens Aldric (28, from Thornbury, 6-year veteran, most assists in league). Methodical, patient, efficient style. Aldric: "This league isn't won at Ashwick."
+- **Ashwick Stoneflies** — Second, 46 pts (after 28 Feb win over Lancers). Coach: Regan Hollister. Home ground: Ashwick Oval (~14,000). Key players: Fen Barlow (22, breakout star), Maren Thatch (keeper), Dov Marsden (veteran centrist, 36), Petra Venn (lock). Won 4 consecutive matches — the form side.
 - **Millhaven** — Lost 18-26 to Thornbury (22 Feb).
-- Six rounds remaining in the season.
+- Five rounds remaining in the season. Title race: Caravel 47, Stoneflies 46, Lancers 45.
+
+### Ringball Results (28 Feb)
+- Ashwick Stoneflies 31, Thornbury Lancers 28. Ashwick Oval, att: 14,200 (sellout). Barlow 2 rings, Marsden orchestrated decisive 3rd-quarter surge. Aldric 2 rings for Lancers. Thatch 7 clearances.
 
 ### Ringball Results (22 Feb)
 - Ashwick Stoneflies 34, Caravel Harriers 29 (Barlow 2 rings, Marsden 1, Venn 1; Dain scored for Caravel)
 - Thornbury Lancers 26, Millhaven 18
 
 ## Upcoming
-- **1 Mar (Sat):** Rovers at Duncastle FC (away). Duncastle 16th, desperate; won 3 of last 4 at home via set pieces.
 - **8 Mar (Sat):** Rovers vs Caravel City (home). League leaders.
 - **12 Mar (Wed):** Rovers at Thornbury Academicals (away). Third-placed.
 - **15 Mar (Sat):** Rovers vs Ashwick Borough (home). Directly below Rovers in table.
 - **21 Mar (Sat):** Rovers vs Port Caravel Wanderers (home). Possible Blackshaw return.
-- **Next ringball:** Ashwick Stoneflies host Thornbury Lancers (Sat).
+- **Next ringball:** TBD (next round matchups).
 
 ## Sculling / Rowing
 
