@@ -85,6 +85,10 @@
 - **Haldane & Webb** — Typewriter workshop, Cartwright Lane, est. 1908. Founded by Arthur Haldane (locksmith) and Samuel Webb (piano tuner). 12 employees, 3 teams of 4. Produces ~80 handmade typewriters/year (Standard Model, 14 lbs, 42 florins, 2,400 parts). Managing director: Clive Haldane (founder's grandson). Received 500-machine order from Ashford Republic's Ministry of Public Records (Feb 2026). Facing skilled labour shortage.
 - **Pringle & Hatch** — Tailoring/sewing firm, Moorgate. Edith Calloway worked there for 31 years.
 
+## Harbour & Port
+- **Bobington Harbour Authority** — Issues annual March gales advisory (since 1911, when March squall sank two coal barges). Harbour Master: Cornelius Ashby (13 years in post). Office on third floor of Port Authority building overlooking harbour.
+- **Marchmont Street Traders' Association** — Association of local businesses on Marchmont Street (butcher, stationer, tobacconist, two tea rooms, ironmonger). Collected 4,200 florins for Bellvue Theatre repair fund via door-to-door appeal (1 Mar 2026).
+
 ## Sporting Clubs
 - **Bobington Ladies' Sculling Club (BLSC)** — Founded 1884 by mill workers' wives. Boathouse at Millgate Pier (shared with Ashwater Rowing Association). Head coach: Vera Duncombe. Racing shell: *The Lark* (built 1997). Annual budget: ~1,200 florins. Qualified for National Regatta for first time in 142-year history (22 Feb 2026, time: 6:42 over 2,000m at Coldharbour Reach).
 - **Ashwater Rowing Association** — Rowing club with priority access to Millgate Pier boathouse.

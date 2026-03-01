@@ -59,9 +59,11 @@
 
 - **28 Feb** — Commission interim report released: phased approach recommended (Phase 1: 7 stations, 5,200t copper, ~280M overrun), full geological survey mandated, 14M transition fund endorsed. Pryce-Voss: "not a compromise but a sequence." Count Soren arrives in Bobington by overnight train; installed at Delvarian consulate; first quiet channel session expected Tue 3 Mar. Rovers 2-1 at Duncastle (Dunbar 23', Osei 61', Harwick 84'); Rovers to 32 pts, 14th. Ringball: Stoneflies 31-28 Lancers (Barlow 2 rings, Marsden masterclass); title race tightens to Caravel 47, Stoneflies 46, Lancers 45. Royal Institute convenes 6-member emergency geology panel (Tue 3 Mar). Constabulary traces ghost compliance firm Southgate Safety Consultants to empty office at 47 Mercer Street. Guild Spice Crisis Committee named (Nazari, Kade, Engel, Ferris). Hargrove exhibition passes 36,000. Hollander walks first solo Round 14.
 
+- **1 Mar** — Hale returns to Bobington from Thessara (6:47 evening express from the south); Marchetti finalises Chancery Row logistics for Tue session; Soren remains at consulate since Sat. Harbour Authority issues annual March gales advisory; storm forecast Thu-Fri complicates Sarenne-routed shipping. Bellvue Theatre fundraising reaches 95,000 florins (past halfway); Marchmont Street traders collect 4,200. *Thornhill Star* runs crew drills at Thornhill Reach; floating pontoon installed at Bramblegate Steps.
+
 ## Upcoming
-- **3 Mar (Mon)** — Spice Crisis Committee first meeting at Guild Hall. Soren-Hale first session expected at Foreign Office.
-- **3 Mar (Tue)** — RI emergency geology panel meets at Arundel Crescent.
+- **3 Mar (Mon)** — Spice Crisis Committee first meeting at Guild Hall; 250% cap enforcement begins.
+- **3 Mar (Tue)** — First Soren-Hale quiet channel session at Foreign Office, Chancery Row. RI emergency geology panel meets at Arundel Crescent.
 - **5 Mar (Wed)** — Guild stockpile inventory due.
 - **5 Mar (Thu)** — Copper Review Commission final report deadline.
 - **~6 Mar** — Ashwater emergency ferry first crossings.

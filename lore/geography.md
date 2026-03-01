@@ -50,6 +50,8 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Lower Ashwater** — Stretch of riverfront south of Bramblegate. Location of the Ashwater Sculling Club boathouse (corrugated-iron shed between the Lower Ashwater footbridge and Bramblegate Steps).
 - **Unnamed Buried Waterway ("The Lower Conduit")** — Substantial underground waterway beneath the Docklands, discovered Feb 2026 by surveyor Pella Strand. Brick-lined, arched, ~2m wide, 1.5m tall, carrying flowing water. Runs east-west from near Harrowgate Pier toward the Ashwater. ~650m traced as of 26 Feb (up from 400m). **Dated to 1782** via carved mason's marks and numerals on brickwork (26 Feb discovery). Also bears mason's mark (circle bisected by cross) and initials at 5m intervals. Predates city's formal drainage system (1820s-30s) by nearly 50 years. Marchbank (Historical Preservation Society) found reference in 1793 Harbourmaster's journal to "the lower conduit which serves the dock warehouses with fresh water." Water currently flowing, clean and cold — still connected to Ashwater's upper tributaries. Strand following downstream toward the Ashwater.
 
+- **Port Authority Building** — Harbour authority offices overlooking the harbour. Harbour Master Cornelius Ashby's office on third floor.
+
 ## Broader World
 - **Greymoor Highlands** — Rural/highland region, source of granite and landscape painting inspiration
 - **Dunbar's Reach** — Coastal village, birthplace of painter Isolde Hargrove

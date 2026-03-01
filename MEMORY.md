@@ -26,21 +26,21 @@ See `lore/_index.md` for the full table of contents. Key files:
 
 These are the threads currently in play. Pick 2-3 to advance each edition, and introduce 1-2 new ones.
 
-1. **Copper Review Commission — Interim Report Released, Final Report 5 Mar** — Interim report released Sat 28 Feb: recommends phased approach (Phase 1: 7 stations, 8.2 miles, 5,200 tonnes copper, ~280M overrun). Full copper spec retained as contingent alternative. Aluminium and suspension dropped. Full geological/geothermal survey mandated (1.2M florins, 4 months). 14M florin worker transition fund endorsed. Pryce-Voss joint statement: "not a compromise but a sequence." Blackthorne: reviewing. Falk: "serious and careful." Final report Thu 5 Mar (costings, financing, survey timeline). Council debate expected following week. Phase 1 groundbreaking pushed to late 2026 or early 2027 pending survey. Next: council reaction, final report details, survey commissioning. → `lore/economy.md`, `lore/politics.md`
-2. **Kaelmar Strait — Soren in Bobington, Talks Tuesday** — Soren arrived Sat 28 Feb by overnight train. Met by Lindqvist at Central Station. Installed at Delvarian consulate, Ashbury Lane. Hale returning from Thessara Sun. Thessarine aide provided written outline of priorities. First formal session expected Tue. Marchetti preparing Chancery Row logistics. *Kharstad Gazette* buried departure on front page below grain prices. Copper at 872. Next: Hale return Sun, first session Tue, initial outcomes. → `lore/international.md`
+1. **Copper Review Commission — Final Report Thu 5 Mar** — Interim report (28 Feb) recommends phased approach (Phase 1: 7 stations, 8.2 miles, 5,200 tonnes copper, ~280M overrun). Council members studying it over weekend; Falk signals "prompt" debate after final report. Blackthorne still silent (3rd week). Final report Thu 5 Mar (costings, financing, survey timeline, transition fund eligibility). Council debate expected ~Mon 9 Mar. Phase 1 groundbreaking late 2026/early 2027 pending survey. Next: final report Thu, council debate. → `lore/economy.md`, `lore/politics.md`
+2. **Kaelmar Strait — First Session Tuesday** — Hale returned Sun evening from Thessara, carrying Thessarine written outline of priorities. Soren installed at Delvarian consulate since Sat. Marchetti prepared dedicated meeting room at Chancery Row with separate entrances, comms protocols. First formal quiet channel session Tue 3 Mar. No published agenda, no joint communiqué expected. Bilateral format: Soren-Hale, Thessarine participation via Daine's senior aide. Copper at 872. Next: Tue first session, initial outcomes, market reaction. → `lore/international.md`
 3. **Greystone Wharf — Ghost Compliance Firm Found** — Constabulary traced Drury's compliance firm to Southgate Safety Consultants Ltd, registered 47 Mercer Street (single room above Canford & Sons printshop). Incorporated March 2022, single unnamed director. No employees, no records, no inspection equipment. Room vacated Dec 2025. Landlord Canford saw tenant "six or seven times" in 3 years. Annual filings show no revenue or activity. Ashcroft/Greystone link still under investigation. Next: who is the director? Charges? Ashcroft connection? → `lore/people.md`, `lore/institutions.md`
 4. **Rovers — Won at Duncastle 2-1** — Duncastle 1-2 Rovers (Sat 28 Feb). Dunbar headed opener (23', from Crewe corner). Osei equalised (61'). Harwick headed winner (84', from Dunmore corner — vindication of Corbett's set-piece work). Rovers 32 pts, 14th, 9 clear of relegation. Next: Caravel City at home (Sat 8 Mar, league leaders). Blackshaw possible return 21 Mar. → `lore/sports.md`
-5. **Hargrove — 36,000+ Visitors, Arts Council Report Midweek** — Passed 36,000 (15 days). Timed entry working smoothly. 3,200+ Saturday visitors. Arts Council observer completed assessment; report expected midweek, early indications "highly positive." Average visit 47 minutes. Considering Thu evening openings. Next: Arts Council formal report, potential heritage classification. → `lore/arts-culture.md`
+5. **Hargrove — 36,000+ Visitors, Arts Council Report Midweek** — Passed 36,000 (15 days). Timed entry working smoothly. Arts Council report expected midweek. Considering Thu evening openings. Background thread now; check in periodically. → `lore/arts-culture.md`
 6. **Docklands Workers' Association** — 14M florin transition fund endorsed by interim report. Seldon: "Fourteen million is a start." Next: final report eligibility criteria, council debate. → `lore/institutions.md`
 7. **Blackthorne's Silence** — Single-sentence response to interim report ("received and will comment following review"). Still no public appearance. → `lore/politics.md`
-8. **Spice Trade Crisis — Crisis Committee Meets Monday** — Committee named Sat: Nazari (chair), Kade, Marta Engel (broker), Alistair Ferris (Guild trade secretary). First meeting Mon. Stockpile audit Wed. Preliminary estimates: 8-10 weeks at rationed levels. 250% cap enforcement Mon. ESI at 347 (Fri close, 3rd consecutive decline). Next: Mon meeting, Wed inventory results, diplomatic inclusion question. → `lore/economy.md`
-9. **Fernwick Bridge — Ferry Preparations** — Ferry approved, first crossings ~6 Mar. Bridge repair 8-12 months, 55-65M. Next: ferry launch. → `lore/geography.md`
+8. **Spice Trade Crisis — Cap Enforcement Mon, Audit Wed** — 250% price cap takes effect Mon 3 Mar. Committee (Nazari, Kade, Engel, Ferris) meets Mon at Guild Hall. Stockpile audit Wed 5 Mar. 8-10 weeks supply at rationed levels. ~40 lbs velveroot citywide. ESI at 347. March gales advisory complicates Sarenne route timing. Guild petition for inclusion in Kaelmar talks pending. Next: Mon meeting outcomes, Wed inventory results, diplomatic inclusion question. → `lore/economy.md`
+9. **Fernwick Bridge — Ferry Launch Fri 6 Mar** — *Thornhill Star* undergoing crew drills at Thornhill Reach. Floating pontoon installed at Bramblegate Steps. 30-centime fare, 15-min intervals. Monthly passes on sale Wed. First crossings Fri 6 Mar. March gales advisory a minor concern. Bridge repair 8-12 months, 55-65M. Next: ferry launch Fri. → `lore/geography.md`
 10. **Ringball Season — Three-Way Title Race** — Stoneflies 31-28 Lancers at sold-out Ashwick Oval (Sat 28 Feb). Barlow 2 rings, Marsden masterclass in 3rd quarter. Aldric 2 for Lancers. Table: Caravel 47, Stoneflies 46, Lancers 45. 5 rounds left. Next: next round matchups. → `lore/sports.md`
 11. **Greymoor Glow — RI Emergency Panel Tuesday** — RI formally convened 6-member emergency geology/geophysics panel (Sat announcement). Whitstone chairs. Meets Tue. Will define survey scope including geothermal assessment. Collis and Ilkley on panel. Mining cooperative (Haversten) invited. Permanent monitoring station under consideration (180K construction + 45K/yr). Next: Tue panel recommendations, survey commissioning. → `lore/science.md`
 12. **Calloway Comet** — Fenmouth designation expected 4-6 weeks. Background thread. → `lore/science.md`
 13. **The Buried River / Lower Conduit** — Dated to 1782. 650m traced. Next: where does it emerge? → `lore/geography.md`
-14. **Bellvue Theatre — Rehearsals Underway** — ~74-90K of 180K raised. Arts Council heritage grant pending (separate from Hargrove assessment). Benefit night 15 Mar. Opens 10 Apr. Next: Arts Council decision, rehearsal progress, benefit night. → `lore/arts-culture.md`
-15. **Hollander on Round 14** — First solo round completed Sat 28 Feb (83 items, 2h35m). Mrs Carmody gave shortbread. Blue notebook in pocket. Learning the route. Finch at home. Storyline ongoing as colour/community thread. → `lore/people.md`
+14. **Bellvue Theatre — Past Halfway (95K of 180K)** — Fundraising at 95,000 florins (past halfway). Marchmont Street Traders' Association collected 4,200; anonymous private donations added 8,000. Rehearsals entering 2nd week. Ashworth commanding as Vale; Holloway growing confident. Glass confirmed for benefit night 15 Mar in person. Arts Council heritage grant pending. Opens 10 Apr. Next: Arts Council decision, benefit night 15 Mar. → `lore/arts-culture.md`
+15. **Hollander on Round 14** — Entering 2nd week. First solo round completed 28 Feb (83 items, 2h35m). Blue notebook consulted ~40 times. Learning the route. Background colour/community thread. → `lore/people.md`
 16. **Faraday's Mechanical Bobington** — Model extraction planned for spring. Exhibition 18 Apr. Background thread. → `lore/arts-culture.md`
 17. **Haldane & Webb — 500 Typewriters** — Skilled labour shortage ongoing. Background thread. → `lore/business.md`
 18. **Bobington Ladies' Sculling Club** — Qualified for National Regatta (May, Lake Thornfield). Equipment funding pending. Background thread. → `lore/sports.md`
@@ -48,10 +48,24 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 20. **The Thirty-Mile Table** — Fully booked during spice crisis. Cultural relevance growing. Background thread. → `lore/institutions.md`
 21. **Caldwell-Bobington High-Speed Rail** — Preliminary funding approved. Full budget vote early 2027. Background thread. → `lore/geography.md`
 22. **Dunvale Mining Memorial** — 2.1M approved. Construction spring-autumn 2026. Background thread. → `lore/history.md`
+23. **March Gales — Harbour Advisory** — NEW. Annual March gales advisory issued 1 Mar. Storm season complicates Sarenne-routed shipping (14 vessels). Gale-force winds forecast Thu-Fri. Potential impact on spice supply timeline and ferry launch. Harbour Master: Cornelius Ashby. → `lore/geography.md`
 
 ---
 
 ## Recent Editions
+
+### Edition: 1 March 2026
+- Hale returns to Bobington Sunday evening from Thessara; first quiet channel session with Soren set for Tuesday at Chancery Row; Marchetti prepared dedicated meeting room with separate entrances; Thessarine priorities committed to paper (FEATURED)
+- Spice Crisis Committee meets Monday; 250% cap takes effect; stockpile audit Wednesday; ~40 lbs velveroot citywide; ESI at 347
+- Council digests interim report; Falk signals "prompt" debate after Thursday's final report; Blackthorne's silence enters 3rd week
+- Greymoor panel meets Tuesday at Royal Institute to define geological/geothermal survey scope; monitoring station under consideration
+- Rovers preview: Caravel City (league leaders) visit Bridgewater Saturday; Harwick transformed by emergency promotion
+- Ringball title race analysis: Caravel 47, Stoneflies 46, Lancers 45; five rounds remaining; Stoneflies have momentum
+- Constabulary closing in on Southgate Safety Consultants' unnamed director; Companies Registry investigation active
+- Ashwater ferry on track for 6 March launch; *Thornhill Star* running crew drills; floating pontoon installed at Bramblegate Steps
+- Bellvue Theatre fundraising passes halfway at 95,000 florins; Marchmont Street traders collected 4,200; Glass confirmed for benefit night
+- NEW: Harbour Authority issues annual March gales advisory; storm season complicates Sarenne shipping route; new character Harbour Master Cornelius Ashby
+- Pemberton column: "On the Art of Arrival" (Soren, Hale, the ferry, the committee, Hollander — everyone arriving)
 
 ### Edition: 28 February 2026
 - Commission interim report released: phased approach recommended (Phase 1: 7 stations, 5,200t copper, ~280M overrun); full geological survey mandated; 14M transition fund endorsed; Pryce-Voss: "not a compromise but a sequence" (FEATURED)
@@ -101,32 +115,6 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 - Fell announces cast and benefit night details for Bellvue Theatre; Ruben Glass to return; 72,000 of 180,000 raised
 - Royal Institute grants spectroscopic time for Greymoor glow investigation; Dr Collis to operate alongside Whitstone team
 - Pemberton column: "On the Testimony of Hands" (Seldon's calloused hands on the marble lectern, the dignity of labour)
-
-### Edition: 24 February 2026 (supplement — new storylines)
-- Dr. Odette Collis documents persistent luminous phenomenon above Greymoor Highlands; Cartwright Observatory formally logs anomaly, seeks Royal Institute spectroscopic analysis (Science)
-- Arlo Kessling's The Thirty-Mile Table opens on Threadneedle Street: hyperlocal restaurant sourcing within 30 miles, suddenly relevant during spice crisis (Business)
-- Bellvue Theatre faces 180,000-florin fly tower repair deadline; owner Augustin Fell staking everything on his first play, *The Lamplighter's Oath* (Arts)
-- Municipal surveyor Pella Strand discovers unmapped buried waterway beneath the Docklands during subsurface hydrology survey (News)
-- Edie Wren, 58, retired postal worker and 30-year sculler, qualifies for National Veterans' Championship in Caldwell (Sports)
-
-### Edition: 24 February 2026
-- Commission hears the price of delay: Okonkwo warns 2-3M/week in idle costs; Whitford reveals 160M funding gap; Haversten discloses Greymoor tremor and cautions against rushed mining expansion (FEATURED)
-- Blackshaw out 3+ weeks with knee inflammation; Harwick to deputise for next 4 league matches
-- Delvaria issues 47-word statement acknowledging "bilateral contacts" — first official recognition of diplomatic process; Hale calls it "constructive"
-- All four Fernwick Bridge cables fractured; repair 8-12 months, 55-65M florins; emergency ferry proposed
-- Eastern Spice Index hits record 348; 7+ restaurants pull dishes; Merchants' Guild calls emergency session Thursday
-- Third warehouse (Old Harbour Road) linked to certificate forgery; retired inspector says signature forged; scheme extends beyond Ashcroft
-- Pemberton column: "On the Weight of a Gavel" (the commission hearing, the particular weight of decisions made in public)
-
-### Edition: 22 February 2026
-- Rovers 2-1 Haverford in Bridgewater comeback thriller; Osei and Harte score; Blackshaw subbed 82' (knee); climb to 14th, 6 clear (FEATURED)
-- Docklands audit uncovers falsified fire certificates at two warehouses — signatures of inspectors not employed at listed dates; referred to Constabulary
-- Commission eve: Pryce-Voss meet Saturday; written submissions from Guild, DWA, Preservation Society; 200+ dockworkers to attend Monday
-- *Kharstad Gazette* publishes moderate editorial "The Duty of Restraint" — observers read it as signal Delvaria weighing quiet channel
-- Pemberton column: "On the Sound a City Makes" (the roar of 48,000 at Bridgewater and what a city needs)
-- Royal Institute announces emergency copper geology lecture (Wed, sold out in 3 hours)
-- Hargrove retrospective hits 30,000+ visitors; timed entry announced
-- Spice merchants profile: Nazari warehouse, velveroot exhausted, cardamon up 15%
 
 <!-- older editions in lore/history.md -->
 

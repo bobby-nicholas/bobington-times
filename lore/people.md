@@ -118,6 +118,9 @@
 ## Surveyors & Engineers (new)
 - **Pella Strand** — Municipal surveyor, age 29. Works for the Municipal Works Office. Studied civil engineering at Bobington Polytechnic. Discovered a buried, unmapped waterway beneath the Docklands during a comprehensive underground survey (Feb 2026). The waterway is brick-lined, arched, ~2m wide, carries flowing water, and appears on no known city map. "Somewhere under this city, there is a river that nobody named."
 
+## New Characters (1 Mar 2026)
+- **Cornelius Ashby** — Harbour Master of Bobington. Issued the annual March gales advisory on 1 Mar 2026 (13th consecutive year). Office overlooks the harbour from Port Authority building.
+
 ## New Characters (28 Feb 2026)
 - **Marta Engel** — Wholesale spice broker, offices on Threadneedle Lane. Handles largest volume of Guild-traded spice by weight. Member of Spice Crisis Committee. Knows the precise quantity of velveroot remaining in the city (~40 lbs as of 28 Feb).
 - **Alistair Ferris** — Guild trade secretary. Serves as Spice Crisis Committee's administrative officer and Foreign Office liaison.
