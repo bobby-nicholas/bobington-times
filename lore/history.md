@@ -61,13 +61,14 @@
 
 - **1 Mar** — Hale returns to Bobington from Thessara (6:47 evening express from the south); Marchetti finalises Chancery Row logistics for Tue session; Soren remains at consulate since Sat. Harbour Authority issues annual March gales advisory; storm forecast Thu-Fri complicates Sarenne-routed shipping. Bellvue Theatre fundraising reaches 95,000 florins (past halfway); Marchmont Street traders collect 4,200. *Thornhill Star* runs crew drills at Thornhill Reach; floating pontoon installed at Bramblegate Steps.
 
+- **2 Mar** — Spice Crisis Committee first meeting at Guild Hall; 250% cap enforcement begins; 14 Guild members inspected by midday (all compliant); 4 non-Guild merchants selling above cap; committee petitions Council for emergency pricing ordinance. Stockpile revised to 7-9 weeks. Velveroot at 38 lbs citywide. Constabulary identifies Arthur Selby (bookkeeper, Thornhill, former Whitaker & Sons) as sole director of ghost firm Southgate Safety Consultants; voluntary interview requested. March gales arrive 2 days early; 3 vessels shelter; Ashby extends advisory through Wednesday; ferry crew drills paused. ESI at 345; copper at 869. Greymoor glow marks 28th consecutive clear-night observation; Collis notes possible brightening. Hollander completes 3rd solo round (2h18m). Bellvue rehearsals: Ashworth finds Vale's Council scene anger; benefit night tickets go on sale (half sold by lunchtime). Kharstad Gazette silent for 7th consecutive day.
+
 ## Upcoming
-- **3 Mar (Mon)** — Spice Crisis Committee first meeting at Guild Hall; 250% cap enforcement begins.
 - **3 Mar (Tue)** — First Soren-Hale quiet channel session at Foreign Office, Chancery Row. RI emergency geology panel meets at Arundel Crescent.
 - **5 Mar (Wed)** — Guild stockpile inventory due.
 - **5 Mar (Thu)** — Copper Review Commission final report deadline.
-- **~6 Mar** — Ashwater emergency ferry first crossings.
-- **~7 Mar** — Ashcroft tax demand payment deadline.
+- **6 Mar** — Ashwater emergency ferry launches at 6 AM. *Thornhill Star* carries 193 passengers on maiden crossing. 8,200 passengers by end of day. *Fernleigh Cross* docks with 480 lbs eastern spice (inc. 42 lbs velveroot). Kaelmar second session concludes after 5 hours; first joint statement; third session set for Monday 9 Mar. Copper at 851, ESI at 328. Pella Strand traces buried conduit to outfall beneath Bramblegate Steps wharf. Bridge repair tender opens Monday.
+- **7 Mar (Sat)** — Ashcroft tax demand payment deadline.
 - **8 Mar (Sat)** — Rovers vs Caravel City (home). League leaders.
 - **15 Mar** — Bellvue Theatre benefit night.
 - **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre.

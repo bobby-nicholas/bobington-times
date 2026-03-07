@@ -36,5 +36,24 @@ See `institutions.md` for full business listings.
 - **Guild emergency session (27 Feb, Thu):** Unanimous vote (43 members) for three resolutions: (1) Spice Crisis Committee of 4 (3 merchants + 1 Guild officer) to coordinate shared stockpile inventory (first meeting Mon, inventory by Wed); (2) Emergency pricing cap — no Guild member may charge more than 250% of pre-crisis price; (3) Formal petition to Foreign Office for spice trade inclusion in Kaelmar talks — 67 signatures (up from 52), delivered by Voss in person with Nazari. Foreign Office: concerns "will be considered within the appropriate diplomatic framework."
 - **Spice Crisis Committee named (28 Feb, Sat):** Nazari (chair), Simeon Kade, Marta Engel (wholesale broker, Threadneedle Lane), Alistair Ferris (Guild trade secretary). First meeting Mon 3 Mar at Guild Hall. Stockpile audit Wed 5 Mar. Preliminary estimates: combined Guild reserves 8-10 weeks at rationed levels. Cap (250% of 10 Feb prices) enforcement begins Mon. Cap covers ~80% of commercial spice trade by volume (Guild members only). ESI closed Fri at 347 (3rd consecutive daily decline). Velveroot: ~40 lbs remaining citywide.
 
+## Spice Crisis (updated 2 Mar)
+- Cap enforcement began Mon 2 Mar. Guild inspectors visited 14 member businesses by midday — all in compliance.
+- At least 4 non-Guild merchants selling above cap (3 on Ashbury Lane, 1 on Chandler's Row). One selling dried saffron bark at ~4x pre-crisis price.
+- Committee petitioned Council for emergency pricing ordinance extending cap to all merchants.
+- Revised stockpile estimate: 7-9 weeks (down from 8-10). Velveroot: 38 lbs, 2-3 weeks. Black cardamom: ~4 weeks. Saffron bark/golden peppervine: 5-6 weeks. Smoked coriander: 8-10 weeks.
+- ESI: opened 345, traded narrow range. Copper: opened 869 (first below 870 since mid-Feb).
+- Wednesday audit will require physical warehouse inspections.
+- March gales (arrived Mon 2 Mar, 2 days early) complicate Sarenne route timing.
+
+## Spice Crisis (updated 6 Mar)
+- *Aldara* docked Thu 5 Mar with 120 lbs spice (first Sarenne resupply). Captain Willem Oort.
+- *Fernleigh Cross* docked Fri 6 Mar with 480 lbs spice across 22 varieties. Captain Edith Varne. Includes 42 lbs velveroot (more than doubling city supply from 29 to ~71 lbs), 65 lbs black cardamom, 48 lbs saffron bark, 38 lbs golden peppervine, 72 lbs smoked coriander seed.
+- ESI fell to 328 on Fri 6 Mar (sharpest single-session decline since crisis began; 6th consecutive daily decline). Copper at 851 (lowest since 8 Feb).
+- Two additional Sarenne-rerouted vessels expected within fortnight.
+- Emergency pricing ordinance petition referred to Commerce Committee; not yet scheduled.
+- 6 non-Guild merchants still selling above 250% cap.
+- Kade expects to restore braised lamb shoulder "within a week" once velveroot allocated.
+
 ## Fernwick Ferry
-- Emergency ferry approved 25 Feb. Contract: 940,000 florins to Ashwater River Services (Gwen Alderly). Route: Thornhill Reach to Bramblegate Steps. 15-min intervals, 6 AM–10 PM, ~200 passengers/crossing. First sailings expected ~6 March. Fare: 30 centimes (subsidised). Monthly pass: 12 florins. Vessels: *Thornhill Star* (220 pax) and *Bramblegate Belle* (backup).
+- Emergency ferry approved 25 Feb. Contract: 940,000 florins to Ashwater River Services (Gwen Alderly). Route: Thornhill Reach to Bramblegate Steps. 15-min intervals, 6 AM–10 PM, ~200 passengers/crossing. Fare: 30 centimes (subsidised). Monthly pass: 12 florins. Vessels: *Thornhill Star* (220 pax, Captain Morris Aldgate) and *Bramblegate Belle* (backup).
+- **Launched 6 Mar at 6:00 AM.** Maiden crossing: 193 passengers, 14 minutes. 340 monthly passes sold by Thursday. Day 1: 48 crossings, ~8,200 passengers. Peak-hour queues 20-30 min at Thornhill Reach. *Bramblegate Belle* not needed. Bridge repair tender opens Monday; 2 potential cable manufacturers identified (1 domestic, 1 Ashford Republic).

@@ -118,6 +118,17 @@
 ## Surveyors & Engineers (new)
 - **Pella Strand** — Municipal surveyor, age 29. Works for the Municipal Works Office. Studied civil engineering at Bobington Polytechnic. Discovered a buried, unmapped waterway beneath the Docklands during a comprehensive underground survey (Feb 2026). The waterway is brick-lined, arched, ~2m wide, carries flowing water, and appears on no known city map. "Somewhere under this city, there is a river that nobody named."
 
+## New Characters (2 Mar 2026)
+- **Arthur Selby** — Bookkeeper, age 51, of Thornhill. Currently employed at Loxton & Gray textile warehouse, Havelock Road. Previously accounts clerk at Whitaker & Sons (Docklands shipping supply firm, 11 years, closed 2021). Sole named director of Southgate Safety Consultants Ltd (ghost compliance firm). Incorporated Southgate on 14 Mar 2022, six days after Whitaker & Sons ceased trading. No fire safety qualifications. No criminal record. Whitaker & Sons supplied Ashcroft Property Group 2019-2021. Asked to attend voluntary interview at Constabulary.
+- **Mrs Hadley** — Resident of 6A Pilot's Alley (upper floors). Met Hollander on Monday when the new postwoman used the back staircase.
+- **Edvard Kessler** — Caravel City striker, 17 league goals, most prolific in the Premier Division.
+
+## New Characters (6 Mar 2026)
+- **Captain Morris Aldgate** — Captain of the *Thornhill Star* ferry. Sounded the horn for the maiden crossing at 6:00 AM on 6 Mar 2026.
+- **Captain Edith Varne** — Captain of the *Fernleigh Cross* cargo vessel. Commanded the 22-day Sarenne passage. Three years commanding the vessel.
+- **Lise Grahn** — Art student, age 22, second year at Bobington Polytechnic (illustration). Sketched Hargrove paintings at Thursday evening opening.
+- **Petra Innes** — Art student, age 21, second year at Bobington Polytechnic (textile design). Studying colour relationships in Hargrove landscapes for weaving.
+
 ## New Characters (1 Mar 2026)
 - **Cornelius Ashby** — Harbour Master of Bobington. Issued the annual March gales advisory on 1 Mar 2026 (13th consecutive year). Office overlooks the harbour from Port Authority building.
 

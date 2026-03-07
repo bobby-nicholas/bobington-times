@@ -66,12 +66,25 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 ### Ringball Results (28 Feb)
 - Ashwick Stoneflies 31, Thornbury Lancers 28. Ashwick Oval, att: 14,200 (sellout). Barlow 2 rings, Marsden orchestrated decisive 3rd-quarter surge. Aldric 2 rings for Lancers. Thatch 7 clearances.
 
+### Ringball League — Additional Teams
+- **Dunmore Eagles** — Mid-table side
+- **Fernwich Falcons** — Strong at home (lost only twice there all year)
+- **Coldharbour** — Comfortable mid-table
+
+### Ringball Round 23 Fixtures (week of 2 Mar)
+- Dunmore Eagles vs Caravel Harriers (away)
+- Fernwich Falcons vs Ashwick Stoneflies (away)
+- Thornbury Lancers vs Coldharbour (home)
+
 ### Ringball Results (22 Feb)
 - Ashwick Stoneflies 34, Caravel Harriers 29 (Barlow 2 rings, Marsden 1, Venn 1; Dain scored for Caravel)
 - Thornbury Lancers 26, Millhaven 18
 
+## Premier Division — Caravel City
+- **Caravel City** — League leaders, 50 points from 26 matches. Unbeaten in last 12. Top scorer: Edvard Kessler (17 goals). Best defensive record in division (19 conceded). Travelling to Bridgewater 8 Mar. North Stand allocation: ~4,800.
+
 ## Upcoming
-- **8 Mar (Sat):** Rovers vs Caravel City (home). League leaders.
+- **8 Mar (Sat):** Rovers vs Caravel City (home). League leaders. Expected sellout (48,000).
 - **12 Mar (Wed):** Rovers at Thornbury Academicals (away). Third-placed.
 - **15 Mar (Sat):** Rovers vs Ashwick Borough (home). Directly below Rovers in table.
 - **21 Mar (Sat):** Rovers vs Port Caravel Wanderers (home). Possible Blackshaw return.

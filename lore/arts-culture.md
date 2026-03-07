@@ -10,7 +10,8 @@
   - **Second weekend** (22-23 Feb) — ~14,000 visitors (nearly double opening weekend). Total attendance surpasses 30,000. Most-visited exhibition since Crane memorial 2009; on pace to surpass.
   - **Timed entry introduced** (27 Feb) — 90-minute entry windows, groups of 40 at 12-minute intervals. Two additional staff at Meridian Hall entrance. Total attendance ~35,400 as of 27 Feb (13 days open). On pace to surpass Crane memorial (68,000 over 8 weeks) well before 30 June close. Wednesday evening openings now running until 9 PM, drawing younger, quieter crowds. Arts Council sent observer to assess exhibition impact.
   - **36,000+ visitors** (28 Feb) — Passed 36,000 after 15 days. Saturday alone: 3,200+. Timed entry working smoothly. Average visit duration: 47 minutes. Arts Council observer completed preliminary assessment; formal report expected midweek, early indications "highly positive" and may recommend "exceptional cultural significance" classification. Aldair: exhibition has become "a civic event, not merely a gallery show." Considering expanding evening hours to Thursdays.
-  - Gallery hours: 8 florins admission, concessions 4, free Wednesdays. Fri/Sat evening openings extended through March; Wed evening openings active.
+  - **Thursday evenings begin (6 Mar)** — First extended Thursday hours, 6-9 PM. ~280 visitors. Younger, quieter crowd. Art students sketching in Greymoor room (Lise Grahn, Petra Innes from Polytechnic). Total attendance ~43,800 after 20 days. Two national lending institutions in discussions to contribute additional works. Aldair: "If we can expand the exhibition, we will."
+  - Gallery hours: 8 florins admission, concessions 4, free Wednesdays. Evening openings: Wed, Thu, Fri/Sat extended through March.
 - **Matthias Crane** — Legendary painter, Hargrove's teacher, known for brooding seascapes
 
 ## Art Market

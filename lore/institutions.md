@@ -111,11 +111,15 @@
 - **The Bellvue Theatre** — Marchmont Street, built 1897. Bobington's oldest continuously operating independent theatre (since closure of Adelphi, Parade Street, in 2003). Seats 380 (originally 440). Gilt-and-crimson Victorian theatre with fly tower, raked stage, deep orchestra pit. Owner-director: Augustin Fell (since 2007; inherited from aunt Constance Fell, who ran it 1971-2006). Needs 180,000 florins in fly tower repairs by 1 May. Listed by Historical Preservation Society as one of 52 "structures of cultural significance" (2024 survey, no legal protection). Notable alumni: actor Ruben Glass. Current production: *The Lamplighter's Oath* (opens 10 April).
 
 ## Transport & Ferry
-- **Ashwater River Services** — Private ferry and charter operator on the lower Ashwater. Managing director: Gwen Alderly. Awarded 940,000-florin emergency contract (25 Feb) to operate passenger ferry between Thornhill Reach and Bramblegate Steps during Fernwick Bridge closure. Vessels: *Thornhill Star* (220 pax) and *Bramblegate Belle* (backup).
+- **Ashwater River Services** — Private ferry and charter operator on the lower Ashwater. Managing director: Gwen Alderly. Awarded 940,000-florin emergency contract (25 Feb) to operate passenger ferry between Thornhill Reach and Bramblegate Steps during Fernwick Bridge closure. Vessels: *Thornhill Star* (220 pax, Captain Morris Aldgate) and *Bramblegate Belle* (backup). **Service launched 6 Mar at 6 AM.** Day 1: 48 crossings, ~8,200 passengers. Belle not needed.
 - **Tidewater Mutual** — Shipping insurance firm. Senior underwriter: Caspar Helmsley. Ceased writing Kaelmar-route policies since 12 Feb.
 
 ## Sporting Clubs (new)
 - **Ashwater Sculling Club** — Boathouse on the Lower Ashwater (corrugated-iron shed between footbridge and Bramblegate Steps). Est. 1923. 38 members. Annual subscription: 15 florins. Commodore: Gareth Toll. Notable member: Edie Wren (National Veterans' Championship qualifier).
+
+## Businesses (new, 2 Mar)
+- **Whitaker & Sons** — Former Docklands shipping supply firm (rope, rigging, marine hardware). Closed/ceased trading March 2022. Supplied Ashcroft Property Group among other Docklands warehouse operators (2019-2021). Former employee Arthur Selby later registered Southgate Safety Consultants.
+- **Loxton & Gray** — Textile storage warehouse, Havelock Road, Thornhill. Current employer of Arthur Selby.
 
 ## Farms & Suppliers (new)
 - **Pennock's Dairy** — Millhaven. Supplies cream and butter to The Thirty-Mile Table.
