@@ -123,6 +123,18 @@
 - **Mrs Hadley** — Resident of 6A Pilot's Alley (upper floors). Met Hollander on Monday when the new postwoman used the back staircase.
 - **Edvard Kessler** — Caravel City striker, 17 league goals, most prolific in the Premier Division.
 
+## New Characters (8 Mar 2026)
+- **Yannick Barbier** — Caravel City manager. Set up high press at Bridgewater. Conceded: "On another day, we win that. Today, the stadium won it for them."
+- **Solberg** — Caravel City goalkeeper. Did not move on Osei's equaliser.
+- **K. Stannard** — Premier Division referee. Officiated Rovers vs Caravel City (8 Mar).
+- **Nyland** — Caravel City player. Made runs down the left channel; thwarted by Harwick sliding challenge.
+- **Eames** — Caravel City player. Header tipped onto crossbar by Marsh.
+- **Morrow** — Caravel City right-sided centre-back. Struggled with Dunmore's movement.
+- **Harte** — Rovers midfielder. Introduced at half-time for Lennox. Won tackle that set up Osei equaliser.
+- **Lennox** — Rovers player. Replaced at half-time by Harte.
+- **Rees** — Millhaven ringball player (lock). Scored twice against Caravel in Round 24.
+- **Tomas Albrecht** — Dunmore Eagles ringball centrist. Orchestrated third-quarter pressure against Stoneflies.
+
 ## New Characters (6 Mar 2026)
 - **Captain Morris Aldgate** — Captain of the *Thornhill Star* ferry. Sounded the horn for the maiden crossing at 6:00 AM on 6 Mar 2026.
 - **Captain Edith Varne** — Captain of the *Fernleigh Cross* cargo vessel. Commanded the 22-day Sarenne passage. Three years commanding the vessel.

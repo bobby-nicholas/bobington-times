@@ -76,19 +76,42 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 - Fernwich Falcons vs Ashwick Stoneflies (away)
 - Thornbury Lancers vs Coldharbour (home)
 
+### Ringball Round 24 Fixtures (7 Mar)
+- Caravel Harriers vs Millhaven (home)
+- Ashwick Stoneflies vs Dunmore Eagles (home)
+- Fernwich Falcons vs Thornbury Lancers (home)
+- Coldharbour — bye
+
+### Ringball Round 24 Results (7 Mar)
+- Caravel Harriers 35, Millhaven 19 (Dain 3 rings). Caravel to 51 pts.
+- Ashwick Stoneflies 29, Dunmore Eagles 22 (Barlow 2 rings, Venn 1; Albrecht orchestrated Dunmore's 3rd-quarter push). Stoneflies to 48 pts.
+- Thornbury Lancers 30, Fernwich Falcons 24 (Aldric 4 rings, 6 assists — extraordinary performance). Lancers to 49 pts.
+- Coldharbour — bye.
+
+### Ringball Table after Round 24
+| Pos | Team | P | Pts |
+|-----|------|---|-----|
+| 1 | Caravel Harriers | 24 | 51 |
+| 2 | Thornbury Lancers | 24 | 49 |
+| 3 | Ashwick Stoneflies | 24 | 48 |
+
+Two rounds remaining. Round 25: Ashwick Stoneflies vs Caravel Harriers (Ashwick Oval) — potential title decider. Lancers host Coldharbour.
+
 ### Ringball Results (22 Feb)
 - Ashwick Stoneflies 34, Caravel Harriers 29 (Barlow 2 rings, Marsden 1, Venn 1; Dain scored for Caravel)
 - Thornbury Lancers 26, Millhaven 18
 
 ## Premier Division — Caravel City
-- **Caravel City** — League leaders, 50 points from 26 matches. Unbeaten in last 12. Top scorer: Edvard Kessler (17 goals). Best defensive record in division (19 conceded). Travelling to Bridgewater 8 Mar. North Stand allocation: ~4,800.
+- **Caravel City** — League leaders, 51 points from 27 matches. Drew 1-1 at Bridgewater (8 Mar). Unbeaten in last 12 but have drawn 3 of last 5. Top scorer: Edvard Kessler (18 goals). Best defensive record in division (20 conceded). Manager: Yannick Barbier. Goalkeeper: Solberg.
+
+## Key Results (continued)
+- **Premier Division, 8 Mar** — Bobington Rovers 1 (Osei 76'), Caravel City 1 (Kessler 28'). Bridgewater Stadium, att: 48,212. Ref: K. Stannard. Kessler opened scoring; Osei spectacular half-volley equaliser from 22 yards. Harwick dominant at centre-back (9 aerial duels won, goal-line clearance 84'). Harte introduced at half-time. Blackshaw watched from directors' box. Rovers to 33 pts (14th, 7 clear of relegation).
 
 ## Upcoming
-- **8 Mar (Sat):** Rovers vs Caravel City (home). League leaders. Expected sellout (48,000).
 - **12 Mar (Wed):** Rovers at Thornbury Academicals (away). Third-placed.
 - **15 Mar (Sat):** Rovers vs Ashwick Borough (home). Directly below Rovers in table.
 - **21 Mar (Sat):** Rovers vs Port Caravel Wanderers (home). Possible Blackshaw return.
-- **Next ringball:** TBD (next round matchups).
+- **Next ringball (Round 25):** Ashwick Stoneflies vs Caravel Harriers (Ashwick Oval). Thornbury Lancers vs Coldharbour (home).
 
 ## Sculling / Rowing
 

@@ -4,7 +4,7 @@
 - **The florin** — Bobington's currency. Subdivided into centimes (50-centime tram fare mentioned).
 
 ## Key Economic Facts
-- **Copper** — Major import via Kaelmar Strait (~1/3 of supply). Opened Mon 24 Feb at 889, rose to 891 by midday. Eased to 885 Tue 25 Feb. Fell to 878 Wed 26 Feb (sharpest single-day decline since crisis began) on envoy designation. Eased further to 872 Thu 27 Feb on Bobington venue confirmation. Estimated tramway copper cost overrun: ~510M florins at 889, 620M+ at 950 (upper analyst forecast). Funding gap: ~160M florins between available financing (~350M via bonds) and overrun. Okonkwo: cost of delay is 2-3M florins/week in idle costs. Merchants' Guild: total fleet costs now ~1.8M florins; 14 vessels rerouted via Cape of Sarenne.
+- **Copper** — Major import via Kaelmar Strait (~1/3 of supply). Opened Mon 24 Feb at 889, rose to 891 by midday. Eased to 885 Tue 25 Feb. Fell to 878 Wed 26 Feb (sharpest single-day decline since crisis began) on envoy designation. Eased further to 872 Thu 27 Feb on Bobington venue confirmation. Fell to 851 by 6 Mar. **Closed Fri 7 Mar at 847** — below 850 for the first time since crisis began. Varga: "trajectory is downward." Estimated tramway copper cost overrun: ~510M florins at 889, 620M+ at 950 (upper analyst forecast). Funding gap: ~160M florins between available financing (~350M via bonds) and overrun. Okonkwo: cost of delay is 2-3M florins/week in idle costs. Merchants' Guild: total fleet costs now ~1.8M florins; 14 vessels rerouted via Cape of Sarenne.
 - **Eastern spice trade** — ~half passes through Kaelmar Strait. Eastern Spice Index (Bramblegate Exchange, 12-spice weighted basket, est. 2003) hit record 348 (Mon 24 Feb close), up 22% in 10 days. Previous record 327 (2018 dock strike). Velveroot exhausted. Black cardamon +18%. Dried saffron bark, golden peppervine, smoked coriander seed +10-20%. At least 7 restaurants pulled signature dishes. Merchants' Guild emergency session Thu 27 Feb at Guild Hall (stockpile management, emergency pricing, petition to Foreign Office). First emergency session since 2011 dockers' strike.
 - **Shipping insurance** — Premiums doubled for Kaelmar-route cargo. Some underwriters declining new policies. Shipowners rerouting via Cape of Sarenne (+12-15 days).
 - **Coffee at Rensler's** — 4 florins (up from 3.60) due to shipping cost increases
@@ -53,6 +53,14 @@ See `institutions.md` for full business listings.
 - Emergency pricing ordinance petition referred to Commerce Committee; not yet scheduled.
 - 6 non-Guild merchants still selling above 250% cap.
 - Kade expects to restore braised lamb shoulder "within a week" once velveroot allocated.
+
+## Spice Crisis (updated 7 Mar)
+- Committee began distributing Fernleigh Cross cargo Fri evening from Guild warehouse on Threadneedle Lane. Priority allocation to exhausted merchants.
+- Combined reserves now ~940 lbs across all varieties. Velveroot: ~71 lbs (up from 29). "Adequate through mid-April at current consumption."
+- ESI closed Fri at 328 (6th consecutive decline, lowest since before crisis).
+- Kade to restore braised lamb shoulder by Wednesday (14 lbs velveroot received). Fontenoy expects full menu within 10 days.
+- Emergency pricing ordinance petition still with Commerce Committee; not scheduled before mid-March.
+- Two more Sarenne vessels expected within fortnight. Pipeline self-sustaining if Cape route and weather hold.
 
 ## Fernwick Ferry
 - Emergency ferry approved 25 Feb. Contract: 940,000 florins to Ashwater River Services (Gwen Alderly). Route: Thornhill Reach to Bramblegate Steps. 15-min intervals, 6 AM–10 PM, ~200 passengers/crossing. Fare: 30 centimes (subsidised). Monthly pass: 12 florins. Vessels: *Thornhill Star* (220 pax, Captain Morris Aldgate) and *Bramblegate Belle* (backup).

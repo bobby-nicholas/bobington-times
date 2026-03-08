@@ -8,7 +8,7 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Thornhill** — Residential district, politically conservative council representation
 - **East Palisade** — Residential district, politically conservative council representation
 - **Caldecott Square** — Major public square, planned tramway interchange hub
-- **Bramblegate Market** — Historic market, also home to the Bramblegate Exchange (commodities trading)
+- **Bramblegate Market** — Historic market, also home to the Bramblegate Exchange (commodities trading). Eastern wing temporary roofing torn by March gales (Tue 4 Mar); 3 stalls flooded (inc. Vesely & Sons); eastern wing trading suspended. Repair assessment: 14,200 florins (8,400 galvanised-iron roof section + timber + drainage + compensation). Heavy canvas patch installed Thu 6 Mar. Eastern wing to reopen Mon 9 Mar under temporary canvas; permanent repair 3-4 weeks. Catton requested emergency Markets Board allocation; next board meeting 18 Mar.
 - **Copperton Lane** — Residential street
 - **Ashbury Lane** — Location of the Thessarine consulate; also a neighbourhood with gas lamps
 - **Threadneedle Street** — Home to Rensler's coffee house

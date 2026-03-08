@@ -80,7 +80,12 @@
 - All 11 council members collected copies by noon.
 - Phase 1 groundbreaking pushed from autumn 2026 to late 2026/early 2027 pending survey.
 
+## Ashcroft Tax Deadline (7 Mar)
+- 2,434,600 florin demand expired at midnight Fri 6 Mar. **No payment received.**
+- Crayle filed formal dispute on 3 property classifications (2 Chandler's Row, 1 lower Harbourfront Parade) — argues "under renovation" not "vacant." Would reduce levy by 380-440K if accepted. Does not address remaining ~2M.
+- Revenue Office reviewing dispute. Options: 60-day extension, late penalties (1.5%/mo), or enforcement proceedings. Decision expected early next week.
+- Audit progress: 60/72 properties assessed; 12 irregularities. Remaining 12 expected assessed by end of following week; preliminary report to council mid-March.
+
 ## Upcoming
-- **5 Mar (Thu)** — Commission final report (costings, financing, survey timeline, transition fund eligibility)
-- **~7 Mar** — Ashcroft tax demand payment deadline (14 days from 21 Feb)
-- **Following week** — Council debate on final report expected
+- **9 Mar (Mon)** — Council debate on commission report (10:00 AM). Blackthorne speaks first. Seldon 10-min slot to push apprentice amendment (12-month threshold, est. 2-3M additional). Gallery expanded to 180 seats. Vote expected. Bridge repair tender opens same day.
+- **9 Mar (Mon)** — Kaelmar third session (9:30 AM, Chancery Row)

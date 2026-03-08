@@ -27,3 +27,10 @@ The world is at roughly an early-to-mid 20th century technological level:
 - Telegraph well-established
 - Gas and electric lighting in transition
 - No television, no computing, no aviation beyond experimental
+
+## Greymoor Monitoring Station (updated 7 Mar)
+- Approved: 195,000 florins construction + 48,000/yr operating. First permanent scientific presence on ridge since 1950s met outpost.
+- **Equipment tenders issued 7 Mar:** 3 broadband seismometers (continuous recording to 15m depth), 2 atmospheric gas sampling units (SO2, H2S, CO2 at ppm sensitivity), meteorological mast (anemometer, barometer, temp at 3 heights), photometric array for continuous glow measurement, battery banks (48hr autonomous), insulated wind-rated shelter.
+- Site: ~800m NW of old met outpost, above central emission zone. Accessible by pack track from Dunvale road.
+- Tenders close 21 Mar. Construction Apr. Station operational mid-May for deep geological survey (250m depth, 1.65M florins).
+- **Collis brightening (7 Mar):** 32nd consecutive night of observation. Reports "marginal but consistent" increase in brightness at central emission point. Photometric readings over past week show trend "difficult to attribute to atmospheric variation." Not dramatic — "not a flare, not a surge." Spectral signature unchanged (ionised nitrogen + SO2). Significance unclear pending instrumental monitoring.
