@@ -26,13 +26,26 @@ When triggered by cron to publish a new edition, follow this process:
 
 ### Phase 1: Editorial Planning
 - Read `MEMORY.md` for active storylines and recent edition summaries
-- Read the relevant `lore/` files for the topics you plan to cover (e.g., if writing about the Kaelmar crisis, read `lore/international.md` and `lore/people.md`)
-- Decide what happens next in Bobington. Consider:
-  - Advancing 2-3 ongoing storylines (follow-ups to previous articles)
-  - Introducing 1-2 new storylines or events
-  - Ensuring coverage across sections (news, international, sports, arts, opinion)
-- Plan 8-12 articles for this edition with a brief outline of each
-- Ensure coverage across ALL sections: news, international, sports, arts, opinion, science, business
+- Read the relevant `lore/` files for the topics you plan to cover
+- Plan 8-12 articles with a brief outline of each, distributed across ALL sections: news, international, sports, arts, opinion, science, business
+
+**World Expansion (mandatory every edition):**
+The world must grow. Every edition should introduce:
+- **3-5 new named characters** with distinct roles and future potential — not just names, but people with ambitions, conflicts, or secrets that could matter in three editions' time
+- **2-3 genuinely new storylines or events** unrelated to anything currently active — a new scandal, arrival, discovery, dispute, cultural moment, or strange occurrence
+- **New places, institutions, or organisations** as needed — Bobington is a full city with unexplored neighbourhoods, firms, clubs, churches, and corners
+
+New threads should feel like seeds. Ask: *could this person or event matter three editions from now?*
+
+**Story Arc Lifecycle:**
+Stories must end. Apply this framework to the active storylines list every edition:
+
+- **Active** — advancing this edition with new developments (pick 2-3)
+- **Simmering** — hold for now, but don't forget; re-emerge when the moment is right
+- **Approaching resolution** — if a story has run 4+ editions and its endpoint is visible, start moving it toward closure
+- **Resolved** — close with a proper article (a verdict, a final match, a departure, a death, a vote). Then move the entry from MEMORY.md to `lore/archive.md`.
+
+The active storylines list must not grow indefinitely. For every 2-3 new threads introduced, aim to resolve 1-2 existing ones. If the list exceeds ~15 entries, that's a sign too many threads are being left open.
 
 ### Phase 2: Writing
 - Write each article as a markdown file in `src/content/articles/`
@@ -82,7 +95,8 @@ This is critical for world consistency. After publishing:
 - If a lore file is getting very long, consider whether entries can be condensed (but never delete established facts)
 
 **Update `MEMORY.md`:**
-- Update the "Active Storylines" section: add new threads, note progress on existing ones, retire resolved storylines
+- Update the "Active Storylines" section: add new threads, note progress on existing ones
+- Move resolved storylines out of MEMORY.md and into `lore/archive.md` (keep the key facts — characters, outcome, date)
 - Add the new edition to "Recent Editions" with a bullet-point summary
 - Keep only the last 5-7 editions in the recent list (older ones are preserved in `lore/history.md` and `memory/` daily logs)
 
@@ -105,6 +119,7 @@ lore/                   — Deep canonical reference
   international.md      — Foreign affairs, diplomacy
   economy.md            — Currency, markets, trade
   history.md            — Timeline of all events
+  archive.md            — Resolved storylines (retired from MEMORY.md)
 memory/                 — Daily editorial logs
 src/content/articles/   — All published articles (markdown)
 public/images/          — Generated article images

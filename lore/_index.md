@@ -16,3 +16,4 @@ This directory contains the canonical deep reference for the world of Bobington.
 | `history.md` | Timeline of major past events (pre-publication backstory + published events) |
 | `science.md` | Scientific institutions, discoveries, natural phenomena, technology |
 | `business.md` | Major firms, trade, markets, commercial personalities |
+| `archive.md` | Resolved storylines: concluded arcs with their key facts preserved |
