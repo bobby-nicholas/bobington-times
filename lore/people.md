@@ -123,6 +123,24 @@
 - **Mrs Hadley** — Resident of 6A Pilot's Alley (upper floors). Met Hollander on Monday when the new postwoman used the back staircase.
 - **Edvard Kessler** — Caravel City striker, 17 league goals, most prolific in the Premier Division.
 
+## New Characters (10 Mar 2026)
+- **Captain Dermot Shale** — Fishing vessel captain, age 58. 30 years fishing Bobington waters. Captain of the *Lady Maren* (14-metre wooden-hulled trawler, registered 1998). Vessel 18 hours overdue from outer banks trip as of 10 Mar. Last radio contact Sun 6:40 PM. Built the *Lady Maren* himself over two winters at Harbourfront boatyard, named after his late mother. Previous vessel: *Morning Star* (retired 2011).
+- **Bridget Shale** — Wife of Captain Dermot Shale. Maintaining vigil at Port Authority building since Monday evening.
+- **Tobias Renn (deckhand)** — Son-in-law of Captain Shale, deckhand on the *Lady Maren* for 6 years. (Note: distinct from Tobias Renn the Millhaven farmer in Hargrove portrait.)
+- **Wilfred Poole** — Secretary of the Fishermen's Benevolent Association. Has written three letters to the Harbour Authority advocating for mandatory position-reporting equipment on small vessels.
+- **Captain Anne Dalrymple** — Captain of the coastguard cutter *Resolute*. Coordinating search for the *Lady Maren*.
+- **Milo Garrett** — Demolition foreman, 22 years in the trade. Discovered cache of 1860s letters behind a false wall panel in the old Meredith & Blackwell warehouse on Harker Street (10 Mar 2026).
+- **Dr. Emmeline Furness** — Lecturer in urban history at Bobington Polytechnic. Called to assess the Meredith letters discovery. Specialises in 19th-century commercial Bobington.
+- **Josiah Meredith** — Historical figure. Textile merchant who built the Meredith & Blackwell warehouse on Harker Street in 1856 and operated from it until his death in 1871. Personal correspondence discovered 10 Mar 2026.
+- **Julian Vickers** — Manager of Thornbury Academicals FC. Third in Premier Division.
+- **Callum Innes** — Thornbury Academicals FC striker, 14 league goals this season.
+
+## New Characters (9 Mar 2026)
+- **Councilman Drayton** — City Council member. Voted against Seldon's apprentice amendment (fiscal scope).
+- **Councilwoman Fenwick** — City Council member. Voted against Seldon's apprentice amendment (fiscal scope).
+- **Brannock Cable Works** — Domestic cable manufacturer, Edgeminster. Attended Fernwick Bridge repair tender briefing (9 Mar).
+- **Vandersteel Ironworks** — Cable/engineering firm, Ashford Republic. Attended Fernwick Bridge repair tender briefing (9 Mar).
+
 ## New Characters (8 Mar 2026)
 - **Yannick Barbier** — Caravel City manager. Set up high press at Bridgewater. Conceded: "On another day, we win that. Today, the stadium won it for them."
 - **Solberg** — Caravel City goalkeeper. Did not move on Osei's equaliser.

@@ -51,6 +51,8 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Unnamed Buried Waterway ("The Lower Conduit")** — Substantial underground waterway beneath the Docklands, discovered Feb 2026 by surveyor Pella Strand. Brick-lined, arched, ~2m wide, 1.5m tall, carrying flowing water. Runs east-west from near Harrowgate Pier to the Ashwater. **780m traced as of 6 Mar** (up from 650m on 26 Feb). **Dated to 1782** via carved mason's marks and numerals on brickwork. Predates city's formal drainage system (1820s-30s) by nearly 50 years. **Terminus discovered 6 Mar:** stone-arched outfall (1.6m wide, 1.2m tall) beneath the old commercial wharf at Bramblegate Steps — the same structure now serving as the southern ferry terminal. Outfall partially silted but still flowing. Wharf pilings placed to avoid the conduit channel — builders knew it was there. Kinnear ordered foundation assessment of the wharf. Historical Preservation Society has requested heritage listing. Full survey report expected end of March.
 
 - **Port Authority Building** — Harbour authority offices overlooking the harbour. Harbour Master Cornelius Ashby's office on third floor.
+- **Harker Street** — Also location of the former Meredith & Blackwell textile warehouse (built 1856), scheduled for demolition. Cache of 1860s letters discovered 10 Mar 2026.
+- **The Outer Banks** — Fishing grounds approximately 30 nautical miles NE of Bobington harbour mouth.
 
 ## Broader World
 - **Greymoor Highlands** — Rural/highland region, source of granite and landscape painting inspiration

@@ -107,6 +107,9 @@ Two rounds remaining. Round 25: Ashwick Stoneflies vs Caravel Harriers (Ashwick 
 ## Key Results (continued)
 - **Premier Division, 8 Mar** — Bobington Rovers 1 (Osei 76'), Caravel City 1 (Kessler 28'). Bridgewater Stadium, att: 48,212. Ref: K. Stannard. Kessler opened scoring; Osei spectacular half-volley equaliser from 22 yards. Harwick dominant at centre-back (9 aerial duels won, goal-line clearance 84'). Harte introduced at half-time. Blackshaw watched from directors' box. Rovers to 33 pts (14th, 7 clear of relegation).
 
+## Premier Division — Thornbury Academicals
+- **Thornbury Academicals** — Third in Premier Division. Lost once at home all season (2-1 to Caravel City, November). Manager: Julian Vickers. Striker: Callum Innes (14 league goals). Home attendance averages 28,000+. Seeking Continental Shield qualification (3rd place).
+
 ## Upcoming
 - **12 Mar (Wed):** Rovers at Thornbury Academicals (away). Third-placed.
 - **15 Mar (Sat):** Rovers vs Ashwick Borough (home). Directly below Rovers in table.

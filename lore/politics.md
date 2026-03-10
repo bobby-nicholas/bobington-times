@@ -80,12 +80,26 @@
 - All 11 council members collected copies by noon.
 - Phase 1 groundbreaking pushed from autumn 2026 to late 2026/early 2027 pending survey.
 
-## Ashcroft Tax Deadline (7 Mar)
-- 2,434,600 florin demand expired at midnight Fri 6 Mar. **No payment received.**
-- Crayle filed formal dispute on 3 property classifications (2 Chandler's Row, 1 lower Harbourfront Parade) — argues "under renovation" not "vacant." Would reduce levy by 380-440K if accepted. Does not address remaining ~2M.
-- Revenue Office reviewing dispute. Options: 60-day extension, late penalties (1.5%/mo), or enforcement proceedings. Decision expected early next week.
-- Audit progress: 60/72 properties assessed; 12 irregularities. Remaining 12 expected assessed by end of following week; preliminary report to council mid-March.
+## Ashcroft Tax Dispute (updated 9 Mar)
+- Original demand: 2,434,600 florins in vacant building levy (Jan 2024–Feb 2026). Deadline expired midnight Fri 6 Mar with no payment.
+- **Revenue Office determination (9 Mar):** Rejected 2 of 3 disputes (Chandler's Row — no building permits, no utility consumption consistent with construction). Partially upheld lower Harbourfront Parade (building permit filed Nov 2025 — reclassified "pending renovation," reducing levy by ~120K).
+- Adjusted levy: ~2,315,000 florins. 1.5%/mo penalty applied: first month adds ~34,700 florins. **Total obligation: ~2.35M.**
+- Enforcement proceedings available after 90 days non-payment (early June).
+- Crayle: "premature and procedurally irregular." Plans appeal through Municipal Tribunal, seeking interim order suspending penalties.
+- Audit progress: 60/72 properties assessed; 12 irregularities. Remaining 12 expected by end of next week; preliminary report to council mid-March.
+
+## Council Vote — 9 March 2026
+- Blackthorne delivered 26-minute address at 10:07 AM — first public statement in 22 days. No notes. Four arguments: engineering case, geological imperative, workers, and accelerated timeline (Phase 1 groundbreaking late September rather than early 2027, contingent on survey).
+- Key quote: "We build, or we betray the promise of this city to its workers and its future."
+- Seldon's apprentice amendment: expand 14M transition fund eligibility to workers with 12+ months on tramway contracts (est. 800-1,200 additional workers, 2-3M florins). Passed 8-3 (Voss, Drayton, Fenwick voted against on fiscal scope).
+- Main motion (phased approach + 14M transition fund + geological survey + accelerated timeline): **passed 11-0**. Unanimous.
+- Voss voted aye: "Delay is not caution. Delay is cruelty by another name, and it falls heaviest on those who can bear it least."
+- Pryce cried during roll call. Gallery erupted. Blackthorne shook Voss's hand.
+- Municipal bond yields fell from 4.2% to 3.9% within the hour.
+- Bridge repair tender opened at noon; 3 firms attended (Hallam & Stroud, Brannock Cable Works of Edgeminster, Vandersteel Ironworks of Ashford Republic). Formal bids due in 4 weeks.
 
 ## Upcoming
-- **9 Mar (Mon)** — Council debate on commission report (10:00 AM). Blackthorne speaks first. Seldon 10-min slot to push apprentice amendment (12-month threshold, est. 2-3M additional). Gallery expanded to 180 seats. Vote expected. Bridge repair tender opens same day.
-- **9 Mar (Mon)** — Kaelmar third session (9:30 AM, Chancery Row)
+- **12 Mar (Thu)** — Kaelmar fourth session (Chancery Row)
+- **Mid-March** — Preliminary audit report to council
+- **18 Mar** — Markets Board meeting (Bramblegate roof allocation)
+- **Late Sep 2026** — Phase 1 groundbreaking (contingent on survey findings)

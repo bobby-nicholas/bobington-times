@@ -114,6 +114,11 @@
 - **Ashwater River Services** — Private ferry and charter operator on the lower Ashwater. Managing director: Gwen Alderly. Awarded 940,000-florin emergency contract (25 Feb) to operate passenger ferry between Thornhill Reach and Bramblegate Steps during Fernwick Bridge closure. Vessels: *Thornhill Star* (220 pax, Captain Morris Aldgate) and *Bramblegate Belle* (backup). **Service launched 6 Mar at 6 AM.** Day 1: 48 crossings, ~8,200 passengers. Belle not needed.
 - **Tidewater Mutual** — Shipping insurance firm. Senior underwriter: Caspar Helmsley. Ceased writing Kaelmar-route policies since 12 Feb.
 
+## Maritime & Fishing
+- **Fishermen's Benevolent Association** — Represents fishing vessel crews operating from Bobington harbour. Secretary: Wilfred Poole. Has advocated for mandatory position-reporting equipment on vessels under 20 metres.
+- **Coastguard** — Operates cutter *Resolute* (Captain Anne Dalrymple) and harbour patrol launch *Ashwater Guardian*.
+- **Greystone Development Ltd** — Property developer that acquired the former Meredith & Blackwell warehouse on Harker Street. Scheduled for demolition; delayed by discovery of 1860s letters.
+
 ## Sporting Clubs (new)
 - **Ashwater Sculling Club** — Boathouse on the Lower Ashwater (corrugated-iron shed between footbridge and Bramblegate Steps). Est. 1923. 38 members. Annual subscription: 15 florins. Commodore: Gareth Toll. Notable member: Edie Wren (National Veterans' Championship qualifier).
 
