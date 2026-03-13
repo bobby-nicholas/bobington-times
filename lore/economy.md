@@ -64,6 +64,16 @@ See `institutions.md` for full business listings.
 - Two more Sarenne vessels expected: *Havenport* (~200 lbs mixed spice) and *Stellara* (bulk, large velveroot consignment). If both arrive on schedule, reserves exceed 1,200 lbs by end of March — sufficient through mid-May.
 - Nazari: "We are managing, not celebrating."
 
+## Spice Crisis (updated 13 Mar)
+- *Havenport* docked Fri 13 Mar with ~220 lbs mixed spice (Captain Josip Marek, 24-day Sarenne passage from Thessara). Inc. 38 lbs velveroot, 42 lbs black cardamom, 26 lbs saffron bark, 18 lbs golden peppervine.
+- Combined city reserves now ~**1,020 lbs**. Velveroot ~96 lbs.
+- ESI fell to **304** (10th consecutive decline, pre-crisis ~295). Copper at **812** (12th consecutive decline).
+- *Stellara* (bulk cargo, large velveroot consignment) expected by weekend. If arrives, reserves >1,200 lbs — sufficient through mid-May.
+- Sarenne rerouting total cost: ~2.1M florins, 14 vessels.
+- Insurance market still frozen — Helmsley (Tidewater Mutual) still not writing Kaelmar policies. "Principles do not underwrite cargo."
+- Emergency pricing ordinance still with Commerce Committee; signalled review "in light of improving supply conditions."
+- Crisis effectively ending. ESI approaching pre-crisis levels.
+
 ## Spice Crisis (updated 11 Mar)
 - Kade restores braised lamb shoulder at The Willow Table on Wed 11 Mar — first time since 22 Feb. Received 14 lbs velveroot in second allocation.
 - Fontenoy expects full menu restoration at Verlaine's within 10 days.

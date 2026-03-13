@@ -270,3 +270,8 @@
 - **Edgar Lowe** — Municipal Chamber custodian, 11 years in post. Winds the great clock every Monday morning. "Mr Quirke told me his grandfather made the escapement by hand."
 - **Nora Dalton** — Deputy Clerk of the Municipal Chamber. First to notice the clock had stopped. "I didn't hear it stop. I heard that it had stopped."
 - **M. Carrington** — Premier Division referee. Officiated Thornbury 2-1 Rovers (11 Mar).
+
+## New Characters (13 Mar 2026)
+- **Captain Josip Marek** — Master of the cargo vessel *Havenport*. Age 53, from Port Caravel. 34 years at sea, 7 commanding the *Havenport*. Completed second Sarenne passage on 13 Mar (24 days). "Twenty-four is a conversation that goes on too long."
+- **Michael Holloway** — Son of Arthur Holloway (killed in Dunvale mining disaster, 1963) and Bess Holloway. Age 65. Retired miner (31 years at Edgeminster colliery, retired 2008). Lives in Edgeminster with his mother. Drives Bess to Dunvale every March. "I was too young to remember him. I remember her remembering him."
+- **Reg Garside** — Retired harbour pilot, age 74. Sits on the same bench on Harbourfront Parade every morning since retirement in 2009. Spotted the harbour seal colony on the mudflats below Bramblegate Steps on Tue 11 Mar. Self-appointed unofficial guardian of the colony. "Best thing I've seen on this river in fifteen years."
