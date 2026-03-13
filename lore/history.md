@@ -63,16 +63,18 @@
 
 - **2 Mar** — Spice Crisis Committee first meeting at Guild Hall; 250% cap enforcement begins; 14 Guild members inspected by midday (all compliant); 4 non-Guild merchants selling above cap; committee petitions Council for emergency pricing ordinance. Stockpile revised to 7-9 weeks. Velveroot at 38 lbs citywide. Constabulary identifies Arthur Selby (bookkeeper, Thornhill, former Whitaker & Sons) as sole director of ghost firm Southgate Safety Consultants; voluntary interview requested. March gales arrive 2 days early; 3 vessels shelter; Ashby extends advisory through Wednesday; ferry crew drills paused. ESI at 345; copper at 869. Greymoor glow marks 28th consecutive clear-night observation; Collis notes possible brightening. Hollander completes 3rd solo round (2h18m). Bellvue rehearsals: Ashworth finds Vale's Council scene anger; benefit night tickets go on sale (half sold by lunchtime). Kharstad Gazette silent for 7th consecutive day.
 
+- **10 Mar** — *Lady Maren* found drifting 19 NM NE of harbour by coastguard cutter *Resolute* at 4:20 AM Tue. All 4 crew alive — engine crankshaft fractured, radio aerial broken. Towed to harbour, arrived 11:40 AM. Fishermen's Benevolent Association calls emergency meeting Thu for mandatory position-reporting beacons. Meredith letters: Furness completes preliminary assessment of first 12 documents; identifies 1859 dockworkers' fever ward — first eyewitness account. Docklands audit: 70/72 assessed, 16 irregularities. Crayle files Municipal Tribunal appeal. Kade restores braised lamb shoulder at Willow Table. All 14 Bramblegate stalls trading. Copper at 832, ESI at 318. Ringball: Ashwick Oval sold out for Saturday title decider. Telford Granary on Harbourfront Parade purchased by 5 artists (Maud Templeton, Claude Renaux, others) for 48,000 florins; conversion to workshops/gallery space planned for May.
+
 ## Upcoming
-- **3 Mar (Tue)** — First Soren-Hale quiet channel session at Foreign Office, Chancery Row. RI emergency geology panel meets at Arundel Crescent.
-- **5 Mar (Wed)** — Guild stockpile inventory due.
-- **5 Mar (Thu)** — Copper Review Commission final report deadline.
-- **6 Mar** — Ashwater emergency ferry launches at 6 AM. *Thornhill Star* carries 193 passengers on maiden crossing. 8,200 passengers by end of day. *Fernleigh Cross* docks with 480 lbs eastern spice (inc. 42 lbs velveroot). Kaelmar second session concludes after 5 hours; first joint statement; third session set for Monday 9 Mar. Copper at 851, ESI at 328. Pella Strand traces buried conduit to outfall beneath Bramblegate Steps wharf. Bridge repair tender opens Monday.
-- **7 Mar (Sat)** — Ashcroft tax demand payment deadline.
-- **8 Mar (Sat)** — Rovers vs Caravel City (home). League leaders.
-- **15 Mar** — Bellvue Theatre benefit night.
+- **12 Mar (Thu)** — Kaelmar fourth session at Foreign Office, Chancery Row. Fishermen's Benevolent Association emergency meeting at Harbourfront Mission Hall. Glass arrives in Bobington for Bellvue benefit night.
+- **12 Mar (Wed evening)** — Rovers at Thornbury Academicals.
+- **15 Mar (Sat)** — Ringball Round 25: Stoneflies vs Caravel at Ashwick Oval (title decider). Lancers vs Coldharbour. Bellvue Theatre benefit night. Rovers vs Ashwick Borough (home).
+- **18 Mar** — Markets Board meeting (Bramblegate roof allocation).
+- **19 Mar (Thu)** — Expected date for Docklands audit preliminary report to council.
+- **21 Mar** — Greymoor station equipment tenders close. Rovers vs Port Caravel Wanderers (home, possible Blackshaw return).
 - **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre.
 - **18 Apr** — National Veterans' Sculling Championship, Caldwell Rowing Basin; Faraday model exhibition opens.
 - **1 May** — Bellvue Theatre fly tower repair deadline.
+- **May** — Telford Granary artists' workshops opening. National Regatta (BLSC).
 - **Late 2026/Early 2027** — Tramway Phase 1 groundbreaking (pending geological survey).
 - **Through 30 June** — Hargrove retrospective on view.

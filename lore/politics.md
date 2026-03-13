@@ -86,7 +86,7 @@
 - Adjusted levy: ~2,315,000 florins. 1.5%/mo penalty applied: first month adds ~34,700 florins. **Total obligation: ~2.35M.**
 - Enforcement proceedings available after 90 days non-payment (early June).
 - Crayle: "premature and procedurally irregular." Plans appeal through Municipal Tribunal, seeking interim order suspending penalties.
-- Audit progress: 60/72 properties assessed; 12 irregularities. Remaining 12 expected by end of next week; preliminary report to council mid-March.
+- Audit progress: **70/72 properties assessed; 16 irregularities** (5 lapsed certs, 4 no documentation, 3 falsified, 2 expired insurance, 2 unauthorised habitation). Two additional Old Harbour Road warehouses found with no fire certificates at all. Final 2 (Harbourfront Parade) by Friday. Preliminary report expected before council ~19 Mar.
 
 ## Council Vote — 9 March 2026
 - Blackthorne delivered 26-minute address at 10:07 AM — first public statement in 22 days. No notes. Four arguments: engineering case, geological imperative, workers, and accelerated timeline (Phase 1 groundbreaking late September rather than early 2027, contingent on survey).

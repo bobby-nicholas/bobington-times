@@ -110,11 +110,14 @@ Two rounds remaining. Round 25: Ashwick Stoneflies vs Caravel Harriers (Ashwick 
 ## Premier Division — Thornbury Academicals
 - **Thornbury Academicals** — Third in Premier Division. Lost once at home all season (2-1 to Caravel City, November). Manager: Julian Vickers. Striker: Callum Innes (14 league goals). Home attendance averages 28,000+. Seeking Continental Shield qualification (3rd place).
 
+## Key Results (continued, 12 Mar)
+- **Premier Division, 11 Mar (Wed)** — Thornbury Academicals 2 (Innes 18', 67'), Bobington Rovers 1 (Osei 73'). Park Lane, att: 28,400. Ref: M. Carrington. Innes sharp first-half finish; Innes header from corner (16th goal). Osei curled brilliant right-footer from 30 yards. Harwick 11 aerial duels won. Rovers still 33 pts, 14th, 7 clear.
+
 ## Upcoming
-- **12 Mar (Wed):** Rovers at Thornbury Academicals (away). Third-placed.
-- **15 Mar (Sat):** Rovers vs Ashwick Borough (home). Directly below Rovers in table.
+- **15 Mar (Sat):** Rovers vs Ashwick Borough (home, 3 PM). Six-pointer — Borough directly below in table.
 - **21 Mar (Sat):** Rovers vs Port Caravel Wanderers (home). Possible Blackshaw return.
-- **Next ringball (Round 25):** Ashwick Stoneflies vs Caravel Harriers (Ashwick Oval). Thornbury Lancers vs Coldharbour (home).
+- **Ringball Round 25 (Sat 15 Mar):** Ashwick Stoneflies vs Caravel Harriers (Ashwick Oval, 14,000 sellout). Title decider. Lancers host Coldharbour. Ashwick Oval sold out in 40 minutes. ~800 Caravel fans expected. Temporary barrier installed at southern end.
+- **Next football:** 15 Mar (Sat) Rovers vs Ashwick Borough (home).
 
 ## Sculling / Rowing
 

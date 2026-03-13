@@ -64,6 +64,15 @@ See `institutions.md` for full business listings.
 - Two more Sarenne vessels expected: *Havenport* (~200 lbs mixed spice) and *Stellara* (bulk, large velveroot consignment). If both arrive on schedule, reserves exceed 1,200 lbs by end of March — sufficient through mid-May.
 - Nazari: "We are managing, not celebrating."
 
+## Spice Crisis (updated 11 Mar)
+- Kade restores braised lamb shoulder at The Willow Table on Wed 11 Mar — first time since 22 Feb. Received 14 lbs velveroot in second allocation.
+- Fontenoy expects full menu restoration at Verlaine's within 10 days.
+- ESI at 318 (8th consecutive decline, lowest since 9 Feb).
+- *Havenport* reported passing Cape of Sarenne lighthouse Monday. *Stellara* expected by weekend.
+- If both arrive, combined city reserves exceed 1,200 lbs — sufficient through mid-May.
+- Emergency pricing ordinance still with Commerce Committee, unscheduled.
+- Hale (Ashen Grill) keeping Greymoor herb roast — "outsold the spiced duck two to one."
+
 ## Fernwick Ferry & Bridge Repair
 - Emergency ferry approved 25 Feb. Contract: 940,000 florins to Ashwater River Services (Gwen Alderly). Route: Thornhill Reach to Bramblegate Steps. 15-min intervals, 6 AM–10 PM, ~200 passengers/crossing. Fare: 30 centimes (subsidised). Monthly pass: 12 florins. Vessels: *Thornhill Star* (220 pax, Captain Morris Aldgate) and *Bramblegate Belle* (backup).
 - **Launched 6 Mar at 6:00 AM.** Maiden crossing: 193 passengers, 14 minutes. 340 monthly passes sold by Thursday. Day 1: 48 crossings, ~8,200 passengers. Peak-hour queues 20-30 min at Thornhill Reach. *Bramblegate Belle* not needed.

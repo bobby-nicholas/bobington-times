@@ -253,3 +253,20 @@
 - **Frances Rowe** — BLSC rower, age 40.
 - **May Cartwright** — BLSC rower, age 33.
 - **Nell Parish** — BLSC rower, age 30.
+
+## New Characters (11 Mar 2026)
+- **Maud Templeton** — Ceramicist, age 44, Bramblegate. Organiser of the Telford Granary artists' consortium. Has been working from her kitchen table for three years. Twenty years of ceramics experience. Produces harbour-view tiles.
+- **Claude Renaux** — Photographer, age 37. Operates darkroom in landlord's cellar on Pilot's Alley. Specialises in harbour and maritime subjects. Exhibited at Bobington Academy of Fine Arts and Docklands Heritage show. Member of Telford Granary consortium.
+- **Felix Telford** — Retired chandler, age 78. Last of the Telford family to run Telford & Sons. Sold the Telford Granary on lower Harbourfront Parade to artists' consortium for 48,000 florins (below market rate). "I'd rather have artists than pigeons."
+- **Neville Alderman** — Shellfish merchant, Bramblegate Market eastern wing. 31 years trading. One of last three stall holders to return after gale damage.
+- **Mrs Florence Gowan** — Herb and dried-flower stall holder, Bramblegate Market eastern wing. One of last three to return after gale damage.
+- **Mrs Fenton** — Regular customer of Mrs Gowan at Bramblegate Market.
+
+## New Characters (12 Mar 2026)
+- **Owen Pritchard** — Retired trawlerman, age 71. Fished from Bobington harbour for 38 years before arthritis ended his career in 2009. Lost nephew Daniel Pritchard at sea in November 1994 (*Bright Morning*, capsized off outer banks, four-man crew, three bodies recovered, Daniel never found). Spoke at Fishermen's Benevolent Association emergency meeting 12 Mar.
+- **Daniel Pritchard** — Owen Pritchard's nephew, lost at sea Nov 1994 aboard *Bright Morning*. Body never recovered. Would have been 53 in 2026. Historical.
+- **Desmond Quirke** — Retired master clockmaker, age 79. Lives in Millhaven. Grandson of Aldous Quirke, co-founder of Quirke & Bramley Clockworks (Grayling Street, operated 1870s-1962). Last overhauled the Municipal Chamber clock in 2003. The only living person who understands its mechanism. Agreed to visit Fri 13 Mar. "I haven't seen the old girl in twelve years. She's probably cross with me."
+- **Aldous Quirke** — Co-founder of Quirke & Bramley Clockworks. Installed the Municipal Chamber clock in 1873. Desmond Quirke's grandfather. Historical.
+- **Edgar Lowe** — Municipal Chamber custodian, 11 years in post. Winds the great clock every Monday morning. "Mr Quirke told me his grandfather made the escapement by hand."
+- **Nora Dalton** — Deputy Clerk of the Municipal Chamber. First to notice the clock had stopped. "I didn't hear it stop. I heard that it had stopped."
+- **M. Carrington** — Premier Division referee. Officiated Thornbury 2-1 Rovers (11 Mar).

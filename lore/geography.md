@@ -53,6 +53,10 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Port Authority Building** — Harbour authority offices overlooking the harbour. Harbour Master Cornelius Ashby's office on third floor.
 - **Harker Street** — Also location of the former Meredith & Blackwell textile warehouse (built 1856), scheduled for demolition. Cache of 1860s letters discovered 10 Mar 2026.
 - **The Outer Banks** — Fishing grounds approximately 30 nautical miles NE of Bobington harbour mouth.
+- **Telford Granary** — Long, low building on lower Harbourfront Parade with pitched slate roof and fourteen arched windows. Built 1889 by Aldous Telford for grain storage. Operated by Telford & Sons until 2019. Vacant 2019-2026. Purchased by consortium of 5 artists (led by Maud Templeton) for 48,000 florins (Mar 2026). Conversion to shared workshops and exhibition space planned for May 2026.
+- **Harbourfront Mission Hall** — Meeting hall on Harbourfront Parade. Used by Fishermen's Benevolent Association for meetings.
+- **Municipal Chamber Clock** — Twin-faced clock above the Municipal Chamber. Installed 1873 by Quirke & Bramley Clockworks. Weight-driven deadbeat escapement with compensating pendulum. Portland stone faces, seven feet diameter each, gilded numerals, iron hands. One face east (toward Threadneedle Street), one west (toward the river). Wound weekly by custodian. Survived fire of 1911, two wars, great storm of 1947. **Stopped at 2:47 PM Wed 11 Mar 2026** after 153 years continuous operation. Last overhauled 2003 by Desmond Quirke.
+- **Park Lane** — Home ground of Thornbury Academicals FC. Attendance averages 28,000+.
 
 ## Broader World
 - **Greymoor Highlands** — Rural/highland region, source of granite and landscape painting inspiration

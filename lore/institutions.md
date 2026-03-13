@@ -93,6 +93,10 @@
 - **Bobington Ladies' Sculling Club (BLSC)** — Founded 1884 by mill workers' wives. Boathouse at Millgate Pier (shared with Ashwater Rowing Association). Head coach: Vera Duncombe. Racing shell: *The Lark* (built 1997). Annual budget: ~1,200 florins. Qualified for National Regatta for first time in 142-year history (22 Feb 2026, time: 6:42 over 2,000m at Coldharbour Reach).
 - **Ashwater Rowing Association** — Rowing club with priority access to Millgate Pier boathouse.
 
+## Arts & Workshops
+- **Telford Granary Artists' Workshops** — Shared studio and exhibition space at the old Telford Granary, lower Harbourfront Parade. Purchased Mar 2026 by consortium of 5 artists (Maud Templeton, Claude Renaux, + printmaker, metal sculptor, textile artist) for 48,000 florins. Opening planned May 2026. Five individual studios, shared exhibition room, communal workshop.
+- **Millgate Workshops** — Former shared artist studio venture. Closed 2014 after 4 years (rising rents, internal disagreements).
+
 ## Amateur Science
 - **Bramblegate Astronomy Circle** — Informal amateur astronomy group. Now consists solely of Edith Calloway (and a neighbour's cat). At peak, numbered 9 members.
 - **International Astronomical Registry** — Located in Fenmouth. Requires independent verification by 2+ observatories before assigning comet designations.
@@ -115,7 +119,9 @@
 - **Tidewater Mutual** — Shipping insurance firm. Senior underwriter: Caspar Helmsley. Ceased writing Kaelmar-route policies since 12 Feb.
 
 ## Maritime & Fishing
-- **Fishermen's Benevolent Association** — Represents fishing vessel crews operating from Bobington harbour. Secretary: Wilfred Poole. Has advocated for mandatory position-reporting equipment on vessels under 20 metres.
+- **Fishermen's Benevolent Association** — Represents fishing vessel crews operating from Bobington harbour. Secretary: Wilfred Poole. Voted unanimously (47 vessel masters) on 12 Mar 2026 to demand mandatory position-reporting beacons on all vessels under 20m (~90 boats). Resolution to be presented to Harbour Authority Board and Council Maritime Affairs Committee. Bulk purchase quotes received from Harland Maritime Instruments (Port Caravel) and Ashwater Signal Works (Bobington).
+- **Harland Maritime Instruments** — Equipment manufacturer, Port Caravel. Position-reporting beacon supplier. Quoted for Bobington fishing fleet bulk purchase.
+- **Ashwater Signal Works** — Maritime signal and equipment manufacturer, Bobington. Position-reporting beacon supplier.
 - **Coastguard** — Operates cutter *Resolute* (Captain Anne Dalrymple) and harbour patrol launch *Ashwater Guardian*.
 - **Greystone Development Ltd** — Property developer that acquired the former Meredith & Blackwell warehouse on Harker Street. Scheduled for demolition; delayed by discovery of 1860s letters.
 
