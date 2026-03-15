@@ -95,7 +95,18 @@ A major sport in Bobington and the wider nation. Played on an oval pitch. Key fe
 | 2 | Thornbury Lancers | 24 | 49 |
 | 3 | Ashwick Stoneflies | 24 | 48 |
 
-Two rounds remaining. Round 25: Ashwick Stoneflies vs Caravel Harriers (Ashwick Oval) — potential title decider. Lancers host Coldharbour.
+### Ringball Round 25 Results (15 Mar)
+- Ashwick Stoneflies 27, Caravel Harriers 25 (Barlow 2 rings, Marsden 1, Venn 1; Dain 2, Holt 1). Ashwick Oval, att: 14,000 (capacity). Thatch 9 clearances. Barlow scored decisive ring with 4 min remaining in final quarter. Marsden on knees at final whistle.
+- Thornbury Lancers 32, Coldharbour 19 (Aldric 3 rings).
+
+### Ringball Table after Round 25
+| Pos | Team | P | Pts |
+|-----|------|---|-----|
+| 1 | Thornbury Lancers | 25 | 51 |
+| 2 | Caravel Harriers | 25 | 51 |
+| 3 | Ashwick Stoneflies | 25 | 50 |
+
+One round remaining. Round 26 (final, 22 Mar): Caravel Harriers host Fernwich Falcons, Thornbury Lancers at Dunmore Eagles, Ashwick Stoneflies host Millhaven. Three-way title race.
 
 ### Ringball Results (22 Feb)
 - Ashwick Stoneflies 34, Caravel Harriers 29 (Barlow 2 rings, Marsden 1, Venn 1; Dain scored for Caravel)
@@ -112,6 +123,9 @@ Two rounds remaining. Round 25: Ashwick Stoneflies vs Caravel Harriers (Ashwick 
 
 ## Key Results (continued, 12 Mar)
 - **Premier Division, 11 Mar (Wed)** — Thornbury Academicals 2 (Innes 18', 67'), Bobington Rovers 1 (Osei 73'). Park Lane, att: 28,400. Ref: M. Carrington. Innes sharp first-half finish; Innes header from corner (16th goal). Osei curled brilliant right-footer from 30 yards. Harwick 11 aerial duels won. Rovers still 33 pts, 14th, 7 clear.
+
+## Key Results (continued, 15 Mar)
+- **Premier Division, 15 Mar (Sat)** — Bobington Rovers 2 (Osei 22', Harte 68'), Ashwick Borough 0. Bridgewater Stadium, att: 38,500. Ref: A. Marsh. Osei clinical low finish; Harte first league goal tapping in Dunmore cross. Harwick 8 aerial duels. Rovers to 36 pts, 14th, 10 clear of relegation.
 
 ## Upcoming
 - **15 Mar (Sat):** Rovers vs Ashwick Borough (home, 3 PM). Six-pointer — Borough directly below in table.
