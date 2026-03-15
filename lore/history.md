@@ -67,13 +67,14 @@
 
 - **13 Mar** — Desmond Quirke (79) visits Municipal Chamber clock, diagnoses worn front pivot bearing after 153 years (~4.7 billion rotations); repair planned Mon-Tue 15-16 Mar. *Havenport* docks after 24-day Sarenne passage (Captain Josip Marek, 220 lbs spice); ESI falls to 304 (10th decline); copper at 812 (12th decline); city spice reserves pass 1,000 lbs. Docklands audit complete: 72/72 assessed, 18 irregularities; preliminary report to council ~19 Mar. Harbour seals (7-9) confirmed on Lower Ashwater mudflats below Bramblegate Steps — first colony since 1891; Fenn-Coulthard requests wildlife protection zone.
 
+- **15 Mar** — Bellvue Theatre benefit night: 378/380 seats, Glass donates 20K florins, total raised ~47.4K on the night; fundraising at ~171K/180K (gap ~9K). Rovers 2-0 Ashwick Borough (Osei 22', Harte 68'; Bridgewater, att: 38,500; Rovers to 36 pts, 10 clear). Ringball: Stoneflies 27-25 Caravel (Barlow decisive ring, 4 min remaining; Marsden on knees; Ashwick Oval, 14,000); Lancers 32-19 Coldharbour (Aldric 3 rings). Three-way title race: Lancers 51, Caravel 51, Stoneflies 50. *Stellara* docks with 380 lbs spice (120 lbs velveroot); reserves >1,400 lbs; ESI falls to 298 (pre-crisis levels); spice crisis effectively resolved. Dunvale 63rd anniversary: Bess Holloway lays flowers at No. 3 shaft. Fishermen's beacon resolution formally submitted to Harbour Authority Board and Council Maritime Affairs Committee. Lower Conduit junction discovered by Strand — western branch under Bramblegate Market district.
+
 ## Upcoming
-- **12 Mar (Thu)** — Kaelmar fourth session at Foreign Office, Chancery Row. Fishermen's Benevolent Association emergency meeting at Harbourfront Mission Hall. Glass arrives in Bobington for Bellvue benefit night.
-- **12 Mar (Wed evening)** — Rovers at Thornbury Academicals.
-- **15 Mar (Sat)** — Ringball Round 25: Stoneflies vs Caravel at Ashwick Oval (title decider). Lancers vs Coldharbour. Bellvue Theatre benefit night. Rovers vs Ashwick Borough (home).
-- **18 Mar** — Markets Board meeting (Bramblegate roof allocation).
-- **19 Mar (Thu)** — Expected date for Docklands audit preliminary report to council.
+- **16-17 Mar** — Quirke returns to repair Municipal Chamber clock (2 days).
+- **18 Mar (Tue)** — Harbour Authority Board meeting (beacons). Markets Board meeting (Bramblegate roof allocation).
+- **19 Mar (Thu)** — Kaelmar fifth session (technical annexes). Council Maritime Affairs Committee (beacons). Docklands audit preliminary report to council.
 - **21 Mar** — Greymoor station equipment tenders close. Rovers vs Port Caravel Wanderers (home, possible Blackshaw return).
+- **22 Mar** — Ringball Round 26 (final): Caravel host Fernwich Falcons, Lancers at Dunmore Eagles, Stoneflies host Millhaven.
 - **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre.
 - **18 Apr** — National Veterans' Sculling Championship, Caldwell Rowing Basin; Faraday model exhibition opens.
 - **1 May** — Bellvue Theatre fly tower repair deadline.

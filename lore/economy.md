@@ -64,6 +64,18 @@ See `institutions.md` for full business listings.
 - Two more Sarenne vessels expected: *Havenport* (~200 lbs mixed spice) and *Stellara* (bulk, large velveroot consignment). If both arrive on schedule, reserves exceed 1,200 lbs by end of March — sufficient through mid-May.
 - Nazari: "We are managing, not celebrating."
 
+## Spice Crisis (updated 15 Mar — RESOLVED)
+- *Stellara* docked Sat 15 Mar with ~380 lbs mixed spice (Captain Teodor Lindholm, 26-day Sarenne passage from Thessara). Inc. 120 lbs velveroot, 60 lbs black cardamom, 45 lbs saffron bark, 35 lbs golden peppervine, 50 lbs smoked coriander, 70 lbs other.
+- Combined city reserves now **~1,400 lbs**. Velveroot ~216 lbs. Sufficient through mid-May without further deliveries.
+- ESI fell to **298** (first below 300 since before crisis; pre-crisis ~295; peak 356 on 26 Feb).
+- Copper at **808** (13th consecutive decline, lowest since late January).
+- Sarenne rerouting total: ~2.3M florins, 16 vessels diverted. Insurance claims: ~580K florins submitted, fewer than half settled.
+- Insurance market showing first signs of movement: Helmsley (Tidewater Mutual) "reviewing position."
+- Commerce Committee signalled review of emergency pricing ordinance. Guild 250% cap still in force but moot.
+- Six non-Guild merchants returned to normal pricing.
+- Restaurants: Kade kept Greymoor herb preparations alongside restored spice menu. Hale's herb roast outsells pre-crisis duck 2:1. Kessling (Thirty-Mile Table) fully booked through April.
+- **Crisis effectively resolved.** ESI at pre-crisis levels. Reserves ample. Insurance thaw beginning.
+
 ## Spice Crisis (updated 13 Mar)
 - *Havenport* docked Fri 13 Mar with ~220 lbs mixed spice (Captain Josip Marek, 24-day Sarenne passage from Thessara). Inc. 38 lbs velveroot, 42 lbs black cardamom, 26 lbs saffron bark, 18 lbs golden peppervine.
 - Combined city reserves now ~**1,020 lbs**. Velveroot ~96 lbs.

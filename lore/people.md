@@ -271,6 +271,12 @@
 - **Nora Dalton** — Deputy Clerk of the Municipal Chamber. First to notice the clock had stopped. "I didn't hear it stop. I heard that it had stopped."
 - **M. Carrington** — Premier Division referee. Officiated Thornbury 2-1 Rovers (11 Mar).
 
+## New Characters (15 Mar 2026)
+- **Captain Teodor Lindholm** — Master of the bulk cargo vessel *Stellara*. Age 62, from Thessara. 40 years at sea, 9 commanding the *Stellara*. Completed 26-day Sarenne passage on 15 Mar.
+- **Norah Fell** — Augustin Fell's daughter, age 19. Staffed the Bellvue Theatre box office alone during the benefit night, processing 31 separate donations.
+- **Liam Driscoll** — Manager of Ashwick Borough FC.
+- **Dr Willa Greaves** — Marine safety specialist, sits on the Harbour Authority Board. Expects beacon discussion to be "brisk and unanimous in principle."
+
 ## New Characters (13 Mar 2026)
 - **Captain Josip Marek** — Master of the cargo vessel *Havenport*. Age 53, from Port Caravel. 34 years at sea, 7 commanding the *Havenport*. Completed second Sarenne passage on 13 Mar (24 days). "Twenty-four is a conversation that goes on too long."
 - **Michael Holloway** — Son of Arthur Holloway (killed in Dunvale mining disaster, 1963) and Bess Holloway. Age 65. Retired miner (31 years at Edgeminster colliery, retired 2008). Lives in Edgeminster with his mother. Drives Bess to Dunvale every March. "I was too young to remember him. I remember her remembering him."
