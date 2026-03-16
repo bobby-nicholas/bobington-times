@@ -66,6 +66,10 @@
 - **Westhaven Conservation Trust** — Environmental group protecting Westhaven Hills cave systems and blind cave beetle *Trechopsis westhavensis*.
 - **Inspectorate of Mines** — Independent body established by Mining Safety Reform Act of 1965 (post-Dunvale disaster).
 
+## Financial Institutions
+- **Continental Rating Agency** — Assesses creditworthiness of municipal and sovereign debt. Headquartered in Caldwell. Dispatched two assessors to Bobington 15-20 Mar 2026 ahead of tramway bond prospectus (due 31 Mar). Senior assessor: Cedric Haughton (58, 23 years experience; led Edgeminster water utility downgrade 2023). Junior assessor: Adelaide Lark (24, first field assignment). Reviewing: existing debt profile, revenue forecasts, contingency reserves (142M florins), copper cost sensitivity, geological survey mandate.
+- **Harbourside Assurance** — Smaller shipping insurer, mentioned as reviewing Kaelmar-route coverage alongside Tidewater Mutual and Fairweather & Chalk (Mar 2026).
+
 ## National Government
 - **National Parliament** — Seated in Caldwell. Transport Minister: Adrienne Leclerc.
 

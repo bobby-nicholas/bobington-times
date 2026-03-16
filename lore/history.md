@@ -69,8 +69,10 @@
 
 - **15 Mar** — Bellvue Theatre benefit night: 378/380 seats, Glass donates 20K florins, total raised ~47.4K on the night; fundraising at ~171K/180K (gap ~9K). Rovers 2-0 Ashwick Borough (Osei 22', Harte 68'; Bridgewater, att: 38,500; Rovers to 36 pts, 10 clear). Ringball: Stoneflies 27-25 Caravel (Barlow decisive ring, 4 min remaining; Marsden on knees; Ashwick Oval, 14,000); Lancers 32-19 Coldharbour (Aldric 3 rings). Three-way title race: Lancers 51, Caravel 51, Stoneflies 50. *Stellara* docks with 380 lbs spice (120 lbs velveroot); reserves >1,400 lbs; ESI falls to 298 (pre-crisis levels); spice crisis effectively resolved. Dunvale 63rd anniversary: Bess Holloway lays flowers at No. 3 shaft. Fishermen's beacon resolution formally submitted to Harbour Authority Board and Council Maritime Affairs Committee. Lower Conduit junction discovered by Strand — western branch under Bramblegate Market district.
 
+- **16 Mar** — Quirke begins Day 1 of Municipal Chamber clock repair (reaming old bearing seat, preparing phosphor-bronze bushing). Continental Rating Agency assessors Haughton and Lark arrive for 5-day review of tramway bond creditworthiness. Copper falls to 802 (14th consecutive decline). ESI at 296. Fenn-Coulthard begins formal survey of harbour seal colony (9 individuals counted). Telford Granary clearing begins (5 artists named). Bellvue gap narrows to ~6,600 florins. Marchmont Street Primary children donate 14 florins 60 centimes in biscuit tin.
+
 ## Upcoming
-- **16-17 Mar** — Quirke returns to repair Municipal Chamber clock (2 days).
+- **17 Mar** — Quirke completes clock repair (Day 2 — bushing, reassembly, restart).
 - **18 Mar (Tue)** — Harbour Authority Board meeting (beacons). Markets Board meeting (Bramblegate roof allocation).
 - **19 Mar (Thu)** — Kaelmar fifth session (technical annexes). Council Maritime Affairs Committee (beacons). Docklands audit preliminary report to council.
 - **21 Mar** — Greymoor station equipment tenders close. Rovers vs Port Caravel Wanderers (home, possible Blackshaw return).

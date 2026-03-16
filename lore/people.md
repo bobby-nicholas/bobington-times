@@ -271,6 +271,14 @@
 - **Nora Dalton** — Deputy Clerk of the Municipal Chamber. First to notice the clock had stopped. "I didn't hear it stop. I heard that it had stopped."
 - **M. Carrington** — Premier Division referee. Officiated Thornbury 2-1 Rovers (11 Mar).
 
+## New Characters (16 Mar 2026)
+- **Cedric Haughton** — Senior municipal assessor, Continental Rating Agency, age 58. Twenty-three years of experience assessing municipal debt. Led Edgeminster water utility bond downgrade (2023). Arrived Sun 15 Mar for 5-day review of Bobington's creditworthiness ahead of tramway bond prospectus.
+- **Adelaide Lark** — Junior assessor, Continental Rating Agency, age 24. First field assignment. Arrived with Haughton on the 7:42 PM Sunday express from Caldwell.
+- **Gideon Harkness** — Printmaker, age 51. Linocuts and engravings of urban industrial scenes. Member of Telford Granary artists' consortium.
+- **Nesta Brookes** — Metal sculptor, age 38. Works in reclaimed dockyard iron and copper. Member of Telford Granary artists' consortium. Previously working from a rented shed near Harrowgate Pier.
+- **Elin Sayer** — Textile artist, age 33. Handwoven tapestries, exhibited at Bobington Academy of Fine Arts. Youngest member of Telford Granary consortium. Looking for studio space for four years.
+- **Mrs Prudence Alleyn** — Teacher at Marchmont Street Primary School. Organised collection among 23 pupils for Bellvue Theatre repair fund (14 florins 60 centimes in a decorated biscuit tin).
+
 ## New Characters (15 Mar 2026)
 - **Captain Teodor Lindholm** — Master of the bulk cargo vessel *Stellara*. Age 62, from Thessara. 40 years at sea, 9 commanding the *Stellara*. Completed 26-day Sarenne passage on 15 Mar.
 - **Norah Fell** — Augustin Fell's daughter, age 19. Staffed the Bellvue Theatre box office alone during the benefit night, processing 31 separate donations.
