@@ -93,6 +93,9 @@
 - **Bobington Harbour Authority** — Issues annual March gales advisory (since 1911, when March squall sank two coal barges). Harbour Master: Cornelius Ashby (13 years in post). Office on third floor of Port Authority building overlooking harbour.
 - **Marchmont Street Traders' Association** — Association of local businesses on Marchmont Street (butcher, stationer, tobacconist, two tea rooms, ironmonger). Collected 4,200 florins for Bellvue Theatre repair fund via door-to-door appeal (1 Mar 2026).
 
+## Engineering & Theatrical
+- **Thurston Brothers** — Theatrical engineering firm, Caldwell. Provisionally awarded Bellvue Theatre fly tower repair contract at 178,500 florins (17 Mar 2026). Work to begin 2 May, pending completion of fundraising.
+
 ## Sporting Clubs
 - **Bobington Ladies' Sculling Club (BLSC)** — Founded 1884 by mill workers' wives. Boathouse at Millgate Pier (shared with Ashwater Rowing Association). Head coach: Vera Duncombe. Racing shell: *The Lark* (built 1997). Annual budget: ~1,200 florins. Qualified for National Regatta for first time in 142-year history (22 Feb 2026, time: 6:42 over 2,000m at Coldharbour Reach).
 - **Ashwater Rowing Association** — Rowing club with priority access to Millgate Pier boathouse.
@@ -123,7 +126,7 @@
 - **Tidewater Mutual** — Shipping insurance firm. Senior underwriter: Caspar Helmsley. Ceased writing Kaelmar-route policies since 12 Feb.
 
 ## Maritime & Fishing
-- **Fishermen's Benevolent Association** — Represents fishing vessel crews operating from Bobington harbour. Secretary: Wilfred Poole. Voted unanimously (47 vessel masters) on 12 Mar 2026 to demand mandatory position-reporting beacons on all vessels under 20m (~90 boats). Resolution to be presented to Harbour Authority Board and Council Maritime Affairs Committee. Bulk purchase quotes received from Harland Maritime Instruments (Port Caravel) and Ashwater Signal Works (Bobington).
+- **Fishermen's Benevolent Association** — Represents fishing vessel crews operating from Bobington harbour. Secretary: Wilfred Poole. Voted unanimously (47 vessel masters) on 12 Mar 2026 to demand mandatory position-reporting beacons on all vessels under 20m (~90 boats). **Harbour Authority Board voted unanimously 18 Mar to mandate beacons.** Funding unresolved — three proposals: (1) shared cost (fishermen 100 fl, Authority absorbs rest), (2) Authority funds via registration fee increase (~35 fl/yr), (3) full council funding from maritime safety allocation (Dalgleish proposal). Goes to Council Maritime Affairs Committee 19 Mar. Bulk purchase quotes: Harland Maritime Instruments 195 fl/unit, Ashwater Signal Works 220 fl/unit (local service, 5-yr warranty). Boatwright Reg Compton offered installations at cost.
 - **Harland Maritime Instruments** — Equipment manufacturer, Port Caravel. Position-reporting beacon supplier. Quoted for Bobington fishing fleet bulk purchase.
 - **Ashwater Signal Works** — Maritime signal and equipment manufacturer, Bobington. Position-reporting beacon supplier.
 - **Coastguard** — Operates cutter *Resolute* (Captain Anne Dalrymple) and harbour patrol launch *Ashwater Guardian*.
