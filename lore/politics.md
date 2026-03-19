@@ -98,8 +98,14 @@
 - Municipal bond yields fell from 4.2% to 3.9% within the hour.
 - Bridge repair tender opened at noon; 3 firms attended (Hallam & Stroud, Brannock Cable Works of Edgeminster, Vandersteel Ironworks of Ashford Republic). Formal bids due in 4 weeks.
 
+## Docklands Safety Audit (updated 19 Mar)
+- Preliminary report (47 pages, grey card) presented to full council 19 Mar by Fire Marshal Hale.
+- 72 properties assessed: 18 irregularities (5 lapsed certs, 4 no docs, 3 falsified, 2 expired insurance, 2 unauthorised habitation, 2 structural concerns).
+- Central recommendation: mandatory annual fire safety and structural inspection regime for all commercial premises, funded by property registration fee.
+- Shoring of Harbourfront Parade warehouse on schedule (Day 2 of 3, 19 Mar).
+- Crayle appeal hearing set for 14 April (Municipal Tribunal).
+- Pryce to introduce inspection motion at next full council session. Voss considers it "reasonable in principle, pending cost analysis."
+
 ## Upcoming
-- **12 Mar (Thu)** — Kaelmar fourth session (Chancery Row)
-- **Mid-March** — Preliminary audit report to council
-- **18 Mar** — Markets Board meeting (Bramblegate roof allocation)
+- **24 Mar (Tue)** — Kaelmar Transit Corridor Framework signing ceremony (Chancery Row)
 - **Late Sep 2026** — Phase 1 groundbreaking (contingent on survey findings)

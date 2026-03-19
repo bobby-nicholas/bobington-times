@@ -75,13 +75,16 @@
 
 - **18 Mar** — Harbour Authority Board votes unanimously to mandate position-reporting beacons; funding unresolved (3 proposals). Markets Board approves 14,200-florin Bramblegate roof allocation. Insurance Exchange closed session (first in 4 years) — 14 firms discuss Kaelmar-route terms. Rating Agency Day 3: Haughton and Lark examine copper sensitivity at Treasury. Shoring begins on Harbourfront Parade warehouse (Draper directing, 14 steel props). Bellvue gap narrows to ~3,800 fl (BLSC 400 fl, retired stagehands 620 fl). Strand discovers cistern chamber beneath former Ashwater Brewery via Old Cooperage cellar — 1782 limestone, 3-channel distribution system, spring still active; total conduit traced ~890m. Blackshaw completes full contact training (first since cup final). Fog horn petition (43 signatures, Enid Marsh) delivered to Transit Authority. Millicent Graves opens free lending library on Cooperage Lane from handcart (~400 books, late husband's collection).
 
+- **19 Mar** — **Kaelmar fifth session completes all four technical annexes.** Signing ceremony set for Tue 24 Mar at Foreign Office, Chancery Row. Copper falls to 778 (17th consecutive decline). ESI at 287. Council Maritime Affairs Committee votes 5-2 to fund position-reporting beacons from maritime safety reserve (19,800 fl; Ashwater Signal Works; Compton coordinating fittings). Docklands audit preliminary report (47 pages) presented to council: 18 irregularities in 72 properties; mandatory annual inspection recommended; Crayle appeal hearing set 14 Apr. Rating Agency assessors Day 4. **Bellvue Theatre reaches 180,200 florins** — target met at 3:17 PM (Quirke 500 fl, DWA 1,000 fl, Polytechnic 1,200 fl, ferry crew 800 fl, 37 individual donations); Thurston Brothers confirmed for 2 May; play opens 10 Apr. Human skeletal remains (pre-19th century) discovered at Dunvale memorial construction site; Dr Maren Huxley (Polytechnic archaeology) assessing. Greymoor glow now 20% brighter than first observation (38th consecutive night).
+
 ## Upcoming
-- **19 Mar (Thu)** — Kaelmar fifth session (technical annexes). Council Maritime Affairs Committee (beacons — who pays?). Docklands audit preliminary report to council.
-- **21 Mar** — Greymoor station equipment tenders close. Rovers vs Port Caravel Wanderers (home, possible Blackshaw return).
-- **22 Mar** — Ringball Round 26 (final): Caravel host Fernwich Falcons, Lancers at Dunmore Eagles, Stoneflies host Millhaven.
+- **21 Mar (Sat)** — Greymoor station equipment tenders close. Rovers vs Port Caravel Wanderers (home, Blackshaw in squad).
+- **22 Mar (Sat)** — Ringball Round 26 (final): Caravel host Fernwich Falcons, Lancers at Dunmore Eagles, Stoneflies host Millhaven.
+- **24 Mar (Tue)** — Kaelmar Transit Corridor Framework signing ceremony at Foreign Office, Chancery Row.
 - **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre.
+- **14 Apr** — Crayle/Ashcroft Municipal Tribunal appeal hearing.
 - **18 Apr** — National Veterans' Sculling Championship, Caldwell Rowing Basin; Faraday model exhibition opens.
-- **1 May** — Bellvue Theatre fly tower repair deadline.
+- **2 May** — Bellvue Theatre fly tower repair work begins (Thurston Brothers).
 - **May** — Telford Granary artists' workshops opening. National Regatta (BLSC).
 - **Late 2026/Early 2027** — Tramway Phase 1 groundbreaking (pending geological survey).
 - **Through 30 June** — Hargrove retrospective on view.

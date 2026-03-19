@@ -72,7 +72,8 @@ A large, cosmopolitan city. Districts and landmarks:
 - **The Kaelmar Strait** — Strategically vital waterway between the Delvarian Empire and the Thessarine Confederation
 - **Ashen Bluffs** — Location of the 1987 treaty dividing the Kaelmar Strait
 
-- **Dunvale** — Former mining settlement in the Greymoor Highlands. Site of the 1963 mining disaster (41 killed). Mine closed 1964. National memorial approved Feb 2026.
+- **Dunvale** — Former mining settlement in the Greymoor Highlands. Site of the 1963 mining disaster (41 killed). Mine closed 1964. National memorial approved Feb 2026. Construction underway spring-autumn 2026. **Human skeletal remains (pre-19th century) discovered 19 Mar** during drainage trench excavation ~12m east of sealed mine entrance. Shallow grave, east-west orientation, near-complete adult skeleton. Pre-dates mine workings (1847). Dr Maren Huxley (Polytechnic archaeology) assessing. Drainage trench rerouted.
+- **Highfield Farm** — Sheep farm on the Greymoor uplands, approximately 3 miles south of the central emission zone of the Greymoor glow. Farmed by the Penn family for three generations. Current owner: Gareth Penn (62).
 - **Edgeminster** — Market town, population ~28,000, along the proposed Caldwell-Bobington high-speed rail route. Home of the Caulfield Ensemble.
 - **Westhaven Hills** — Hilly region between Caldwell and Bobington, contains cave systems and the rare blind cave beetle *Trechopsis westhavensis*. Proposed 12 km rail tunnel beneath.
 - **Ashwater Valley** — See Bobington entry above.

@@ -296,6 +296,12 @@
 - **Reginald Cooke** — Butcher, Cooke & Sons, Marchmont Street (three doors from the Bellvue Theatre). Age 61. Third generation. Donated 500 florins and a cured ham to the Bellvue repair fund. "The cheque is for the roof. The ham is for the cast. They look thin."
 - **Marcus Felbridge** — Deputy Harbour Master. Preparing agenda for Authority Board meeting on beacon mandate.
 
+## New Characters (19 Mar 2026)
+- **Alderman Jessamine Cole** — Chair of the Council Maritime Affairs Committee. Practical, efficient. Oversaw the 5-2 vote to fund position-reporting beacons from the maritime safety reserve.
+- **Gareth Penn** — Sheep farmer, age 62. Highfield Farm, Greymoor uplands, 3 miles south of central emission zone. Third generation to farm the Greymoor uplands. Grandfather mined copper there in the 1920s-30s. Can see the Greymoor glow from his kitchen window. "The sheep don't care. I've learned to take my lead from the sheep."
+- **Dr Maren Huxley** — Lecturer in archaeology at Bobington Polytechnic, age 39. Called to examine human skeletal remains discovered at the Dunvale memorial construction site. Specialises in pre-industrial rural settlements.
+- **Callum Sayer** — Construction site foreman, age 45. Leading the Dunvale memorial construction. Halted excavation when remains were discovered. "We came here to remember the dead. We found more of them. We'll do right by all of them."
+
 ## New Characters (18 Mar 2026)
 - **Percy Dalgleish** — Vessel master, age 44, owns trawler *Northern Light*. Fishermen's Benevolent Association member. Argued at Harbour Authority Board meeting that fishermen should not bear full cost of beacons. "We feed this city. The least the city can do is help us come home."
 - **Reg Compton** — Boatwright, age 63, Harbourfront boatyard. Has been fitting position-reporting equipment to larger commercial vessels for over a decade. Offered to do beacon installations at cost. "It's a morning's work per boat if you know what you're about."
