@@ -302,6 +302,15 @@
 - **Dr Maren Huxley** — Lecturer in archaeology at Bobington Polytechnic, age 39. Called to examine human skeletal remains discovered at the Dunvale memorial construction site. Specialises in pre-industrial rural settlements.
 - **Callum Sayer** — Construction site foreman, age 45. Leading the Dunvale memorial construction. Halted excavation when remains were discovered. "We came here to remember the dead. We found more of them. We'll do right by all of them."
 
+## New Characters (20 Mar 2026)
+- **Henrik Dahl** — Ashford Republic senior trade attaché in Bobington, age 41. Three years in post. Dispatched by Foreign Minister Vandermeer to attend Kaelmar signing ceremony as observer and to take Ashford Republic observer seat on Joint Maritime Inspection Commission.
+- **Leona Burgess** — Fernwich Falcons ringball lock. Scored the decisive ring (27-25 vs Caravel, Round 26) with ninety seconds remaining. Has played in relative obscurity all season.
+- **Mateo Gris** — Port Caravel Wanderers captain. Scored equaliser (header from corner, 51') in 2-1 loss to Rovers (21 Mar). Gracious in defeat.
+- **Reverend Edith Blackwood** — Vicar of St Cuthbert's Church, Dunvale village, age 62. Nine years serving the parish (congregation of 31). Has parish burial ledgers going back to 1683. Searching for identity of remains found at memorial site. Methodical and unhurried. Possible matches: 1703 entry for unnamed traveller, 1698 entry for Thos. Garland (shepherd).
+- **Agnes Hartwell** — Owner of the Ashwater Paper Works (Millgate), age 71. Granddaughter of founder Josiah Hartwell (est. 1914). Announced mill closure at end of December 2026 after 112 years. "My grandfather would be disappointed. But he would understand."
+- **Roland Jessup** — Foreman at the Ashwater Paper Works, age 57. Thirty-three years at the mill (started at 19 on the pulp floor). "You can't move this to a cheaper building. The river is the mill. The mill is the river."
+- **Doris Pennock** — Resident of 7 Cooperage Lane, age 84. Has lived there since 1961. Last living person who remembers the Cooperage Lane breweries. Mother-in-law was a bottle-washer at the Bramblegate Ale Works.
+
 ## New Characters (18 Mar 2026)
 - **Percy Dalgleish** — Vessel master, age 44, owns trawler *Northern Light*. Fishermen's Benevolent Association member. Argued at Harbour Authority Board meeting that fishermen should not bear full cost of beacons. "We feed this city. The least the city can do is help us come home."
 - **Reg Compton** — Boatwright, age 63, Harbourfront boatyard. Has been fitting position-reporting equipment to larger commercial vessels for over a decade. Offered to do beacon installations at cost. "It's a morning's work per boat if you know what you're about."
@@ -309,3 +318,10 @@
 - **Enid Marsh** — Retired seamstress, age 68. Lives in second-floor flat above Bramblegate Steps. Organised petition (43 signatures) against early-morning ferry fog horn. "I do not object to the ferry. I object to being startled awake at half-past five by a noise that could raise the dead."
 - **Millicent Graves** — Retired schoolteacher, age 64. Taught literature at Bramblegate Secondary for 28 years. Widow of Professor Lionel Graves (natural history, Polytechnic, d. Oct 2025). Opened the Cooperage Lane Lending Library — a converted handcart with ~400 books, free lending, Wed/Fri/Sat 9 AM-1 PM. "If someone doesn't bring a book back, it means they needed it more than I do."
 - **Professor Lionel Graves** — Late husband of Millicent. Taught natural history at Bobington Polytechnic for 31 years (retired 2020, d. Oct 2025). Personal library of ~2,000 books occupied two bedrooms and the landing.
+
+## New Characters (24 Mar 2026)
+- **Cedric Fowler** — Owner of Fowler's Books, 12 Threadneedle Street, age 67. Son of Oswald Fowler (d. 1986), who opened the shop in 1954. Specialises in maps, travel writing, natural history. ~14,000 volumes. Has run the shop for 40 years. Closing end of April after landlord (Cresswell Properties) doubled the lease. "A book finds a reader eventually. A map needs someone who wants to go somewhere."
+- **Oswald Fowler** — Father of Cedric. Opened Fowler's Books in 1954. Died 1986 at his desk with a Greymoor geological survey open in front of him. Historical.
+- **Gerald Northcroft** — Managing director of Northcroft Instruments, Edgeminster. Scientific instruments manufacturer. Awarded the Greymoor monitoring station equipment contract (195,000 florins) on 24 Mar 2026.
+- **Tom Compton** — Apprentice boatwright, age 23. Nephew of Reg Compton. Assisting with beacon installations at Harbourfront boatyard. Three years in the trade.
+- **Raymond Keel** — Fishmonger, Bramblegate Market eastern wing. Twenty-six years trading. Temporarily relocated within wing during roof repair.

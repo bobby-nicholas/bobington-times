@@ -17,3 +17,21 @@ The Bellvue Theatre (Marchmont Street, est. 1897) needed 180,000 florins for fly
 ### Lady Maren Found — Resolved March 2026
 Fishing vessel *Lady Maren* (Captain Dermot Shale, 58) went missing 9 Mar, found drifting 19 NM NE of harbour by coastguard cutter *Resolute* (Captain Anne Dalrymple) at 4:20 AM 11 Mar. All 4 crew alive. Crankshaft fractured, radio aerial broken in squall. Shale rigged sea anchor from fishing nets. Deckhand Tobias Renn sprained ankle. Towed to harbour 11:40 AM. Incident catalysed maritime safety push — Fishermen's Benevolent Association voted unanimously (47 vessel masters, 12 Mar) for mandatory position-reporting beacons on all vessels under 20m (~90 boats). Story continues as "Maritime Safety — Position-Reporting Beacons" thread.
 Key lore files: lore/people.md, lore/institutions.md
+
+## Kaelmar Strait — Transit Corridor Framework (RESOLVED 24 Mar 2026)
+- **Crisis:** Delvarian naval buildup in Kaelmar Strait (Feb 2026). Commercial shipping disrupted. Copper prices spiked. Spice crisis. Insurance market frozen.
+- **Resolution:** Transit Corridor Framework signed Tue 24 Mar at Foreign Office, Chancery Row. Sir Duncan Hale (Bobington) and Count Viktor Soren (Delvaria) signed at 11:14 AM. Undersecretary Helena Marchetti presided. Henrik Dahl (Ashford Republic) signed observer's protocol.
+- **Framework:** 4 pillars — designated transit corridor, Joint Maritime Inspection Commission (3 Delvarian, 3 Thessarine, 1 Ashford observer), insurance framework (premiums capped 140% pre-crisis), 3-month trial with 6-week and 90-day reviews. Secretariat in Fenmouth.
+- **Key moment:** Soren signed with his father Admiral Pehr Soren's silver pen (Treaty of Ashen Bluffs, 1987).
+- **Market reaction:** Copper at 741 (19th consecutive decline). ESI at 268. 12/14 insurance firms resumed underwriting.
+- **Kharstad Gazette** ran it on front page for the first time.
+- **Thornbury:** "A triumph of patience."
+- **Key characters:** Hale, Soren, Marchetti, Dahl, Lindqvist, Miren, Thornbury, Tremayne.
+- **First commercial transit** expected mid-April.
+
+## Ringball Championship — Stoneflies (RESOLVED 24 Mar 2026, celebration)
+- Ashwick Stoneflies won championship 22 Mar (Round 26 final). First title since 2010.
+- Championship parade through Ashwick Sun 23 Mar. ~6,000 people.
+- **Dov Marsden (36) announced retirement** from ringball at the parade. 14 seasons with Stoneflies.
+- Fen Barlow (22) — breakout season, carried on shoulders.
+- Maren Thatch watched from bench with daughters.
