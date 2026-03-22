@@ -25,25 +25,30 @@ See `lore/_index.md` for the full table of contents. Key files:
 ## Editorial Directive (next edition)
 
 **Next edition notes:**
-- **Rating Agency formal decision** expected within ~10 days of 24 Mar. Could be a major story.
-- **Bond prospectus** due 31 Mar. Treasury drafting.
-- **Conduit survey report** due Friday 28 Mar. Strand completing.
-- **Dunvale bones dating** — results expected within the week (from 24 Mar). Could confirm Thomas Garland.
-- **Beacon fittings** — Compton working through fleet, ~6 weeks. Approaching resolution.
-- **Bramblegate roof** — 3 weeks from 24 Mar. Mid-April completion.
+- **Rating Agency formal decision** expected within ~10 days of 24 Mar (~early April). Major story.
+- **Conduit survey full report** due Fri 28 Mar — Strand completing 60-page report. Could be an article on the finished report.
+- **Bond prospectus** circulated 25 Mar; expressions of interest due 14 Apr. Rating decision is the key variable.
+- **Rovers at Ironhall** Sat 28 Mar — match result needed next edition.
+- **Beacon fittings** — Compton working through fleet, ~6 weeks from 24 Mar. Background.
+- **Bramblegate roof** — 3 weeks from 24 Mar. Mid-April completion. Approaching resolution.
 - **Crayle appeal** 14 Apr.
-- **Lamplighter's Oath** opens 10 Apr.
-- **Fowler's Books** closing end of April — community response, book dispersal.
+- **Lamplighter's Oath** opens 10 Apr — rehearsal/preview article possible.
+- **Fowler's Books** closing end of April — cataloguing underway, Polytechnic taking maps.
 - **Ashwater Paper Works** closure end of Dec 2026 — worker transition, DWA response.
-- **Greymoor monitoring station** — construction April, operational mid-May.
+- **Greymoor road** — Works Committee decision 9 Apr. Dallow vs Penn.
+- **Greymoor monitoring station** — fabrication underway; delivery mid-April (needs road).
 - **Fernwick Bridge bids** due ~6 Apr.
-- **Seal survey** week 3 of 4+ next edition.
-- **Kaelmar first commercial transit** expected ~mid-April.
-- **Stoneflies celebration aftermath** — Marsden retired.
+- **Seal survey** week 3 of 4+ next edition. Possible pup birth confirmation.
+- **Kestrel transit** — Hagen departing Fri 28 Mar. Result needed next edition.
+- **Spring lectures** — Series 8-29 Apr. Nettleford visiting Greymoor ridge.
+- **Faraday's Mechanical Bobington** — Exhibition 18 Apr. Getting close.
+- **Edie Wren** — Veterans' Championship 18 Apr, Caldwell.
 
-**Threads approaching resolution:** Beacon fittings, Bramblegate roof, Conduit survey, Dunvale bones dating, Rating Agency decision.
+**Threads approaching resolution:** Conduit survey report (Fri 28 Mar), Rating Agency decision (~early April), Bramblegate roof (mid-April), Beacon fittings (~6 weeks).
 
-**New threads from this edition:** Fowler's Books closing. Marsden retirement. Northcroft Instruments contract.
+**RESOLVED this edition:** Dunvale bones — Thomas Garland confirmed (1680-1710 dating). Remains to stay in place. Memorial marker to be set.
+
+**New threads from this edition:** Greymoor Road proposal (Coates, Dallow, Penn). Spring Lectures at Polytechnic. Fowler's Books cataloguing/community response. First Kaelmar transit (*Kestrel*, Hagen).
 
 ---
 
@@ -51,7 +56,7 @@ See `lore/_index.md` for the full table of contents. Key files:
 
 These are the threads currently in play. Pick 2-3 to advance each edition, and introduce 1-2 new ones.
 
-1. **Phased Tramway — Execution Begins** — Council voted 11-0 on 9 Mar. Bond prospectus to be circulated by 31 Mar. Copper at **741** (19th decline). Rating Agency formal decision expected ~early April. Next: bond prospectus end of March, survey tender award mid-April. → `lore/politics.md`, `lore/economy.md`
+1. **Phased Tramway — Prospectus Circulated** — Council voted 11-0 on 9 Mar. **Preliminary bond prospectus (380 pages) circulated 25 Mar** to 6 financial institutions. 350M florins, 20-year maturity, 3.85% indicative coupon. Blank page for Rating Agency verdict. Copper at **734** (21st decline). ESI at **261**. Expressions of interest due 14 Apr. Rating Agency formal decision expected ~early April. Next: rating decision, then formal offering in May. → `lore/politics.md`, `lore/economy.md`
 2. **RESOLVED: Kaelmar Strait — Framework Signed** — Transit Corridor Framework signed Tue 24 Mar at Foreign Office, Chancery Row. Hale and Soren signed at 11:14 AM. Marchetti presided. Dahl signed observer's protocol. Joint statement at 12:15 PM. Copper at 741 (19th decline). ESI at 268. 12/14 insurance firms resume underwriting. Harbourside Mutual and Blackwell & Pierce withholding. First commercial transit expected mid-April. Kharstad Gazette ran it on front page (first time). Moved to `lore/archive.md`. → `lore/archive.md`
 3. **Greystone Wharf — Shoring Complete** — 72/72 assessed. 18 irregularities. 47-page report presented to council 19 Mar. **Shoring of Harbourfront Parade warehouse completed Sat 21 Mar** (14 steel props, 3 days, Draper/Hallam & Stroud). Building stabilised. Pryce introducing inspection motion at next full council. Voss cost analysis expected end of next week. **Crayle appeal hearing 14 April.** → `lore/people.md`, `lore/institutions.md`, `lore/politics.md`
 4. **Rovers — Season Winding Down** — Beat Port Caravel 2-1 (21 Mar, Bridgewater). Osei 34', Gris 51' (PC), Blackshaw 78' (header from Dunmore corner, off bench at 65'). Blackshaw returns. Harwick started, moved to LB. 39 pts, 14th, effectively safe. Att: 42,300. Next: TBD. → `lore/sports.md`
@@ -62,7 +67,7 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 9. **RESOLVED: Bellvue Theatre Fundraising** — Target reached 19 Mar at 3:17 PM: 180,200 florins from 171 individual donations. Quirke donated 500 fl ("For old things that work"). DWA 1,000 fl. Thurston Brothers confirmed for 2 May. Play opens 10 Apr. Moved to `lore/archive.md` on 19 Mar. → `lore/archive.md`
 10. **Bramblegate Market Roof — Work Begun** — Scaffolding erected Mon 24 Mar. Hallam & Stroud crew of 8. Three-phase repair: stripping, timber, new galvanised-iron. Stalls open during work. 3 stall holders relocated within wing (Alderman, Gowan, Keel). Completion mid-April. **Approaching resolution.** → `lore/geography.md`
 11. **Calloway Comet** — Fenmouth designation expected 4-6 weeks. Background thread. → `lore/science.md`
-12. **The Buried River / Lower Conduit — Survey Nearly Complete** — **930m traced (16 notebooks).** Western branch terminates at collapsed section beneath former Chandler's Brewery. Spring source audible but unreachable. Full report due Fri 28 Mar. Heritage listing submitted. **Approaching resolution.** → `lore/geography.md`
+12. **The Buried River / Lower Conduit — Report Due Friday** — **947m traced (17 notebooks).** Mason's guild mark discovered (fish within circle, Ashwater Guild of Masons, ~1760s) — pushes oldest section back 20 years before established 1782 date. 60-page report due Fri 28 Mar. Heritage listing submitted. Strand lecturing at Polytechnic 17 Apr. **Approaching resolution.** → `lore/geography.md`
 13. **Hollander on Round 14** — Completed first full week. Background thread. → `lore/people.md`
 14. **Faraday's Mechanical Bobington** — Exhibition 18 Apr. Background thread. → `lore/arts-culture.md`
 15. **Haldane & Webb — 500 Typewriters** — Background thread. → `lore/business.md`
@@ -77,25 +82,43 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 25. **Maritime Safety — Beacons Fitting Underway** — Compton began fittings Mon 24 Mar. First vessel: Dalgleish's *Northern Light* (2 hours). Nephew Tom Compton (23, apprentice) assisting. 15 units delivered; ~90 total over ~6 weeks. **Approaching resolution.** → `lore/institutions.md`
 26. **RESOLVED: Municipal Chamber Clock** — Moved to `lore/archive.md` on 17 Mar. Quirke restarted clock at 10:14 AM Tue 17 Mar after 6 days 19 hours of silence. Wrote 14 pages of maintenance instructions. → `lore/archive.md`
 23. **Meredith Letters — Second Fever Outbreak** — Furness assessed letters #13-18. Discovered references to **second fever outbreak Nov 1860** — "the same affliction as last year's visitation." Suggests fever was endemic, not single epidemic. Also found pen-on-linen architectural drawing of original quay layout showing fever ward location (behind easternmost grain shed, near Lower Conduit route). Heritage listing formally submitted to Municipal Heritage Committee. 22 letters remaining. Full assessment ~3 more weeks. Furness presenting at Polytechnic spring exhibition (April). → `lore/people.md`, `lore/geography.md`
-28. **Continental Rating Agency Review — Assessment Delivered** — Haughton and Lark completed 5-day review 20 Mar. Preliminary assessment (sealed blue envelope) delivered to Whitford at Treasury 4:30 PM Fri. Described as "constructive but conditional." Departed on 6:15 PM express to Caldwell. Lark carried 3 notebooks. Formal rating decision within fortnight. Copper at 762 (18th decline). Bond prospectus due 31 Mar. → `lore/institutions.md`, `lore/economy.md`
+28. **Continental Rating Agency Review — Decision Pending** — Haughton and Lark completed 5-day review 20 Mar. Preliminary assessment: "constructive but conditional." Formal rating decision expected within fortnight (~early April). Bond prospectus now circulated with blank page for rating. The most expensive page in the document. → `lore/institutions.md`, `lore/economy.md`
 
 29. **Fog Horn Petition — Bramblegate Steps** — NEW (18 Mar). 43 residents signed petition (organised by Enid Marsh, 68) against ferry fog horn sounding at 5:45 AM. Fog advisories on 12 of past 17 mornings — longest fog season in recent memory. Transit Authority consulting Harbour Authority on alternative navigational aids (electric bell, shore-based light). Fenn-Coulthard: "The seals are entirely unbothered." Background thread — small civic friction between transport and residential peace. → `lore/geography.md`
 
 30. **Cooperage Lane Lending Library** — NEW (18 Mar). Millicent Graves (64, retired teacher, widow of Prof. Lionel Graves of Polytechnic, d. Oct 2025) opened free lending library from converted handcart on Cooperage Lane. ~400 books from late husband's collection of 2,000. Wed/Fri/Sat 9 AM-1 PM. No fines. Penrose (Old Cooperage) offers storage and tea. Background thread — community/human interest seed. → `lore/geography.md`, `lore/people.md`
 
-31. **Dunvale Memorial — Bones Identified?** — Huxley's preliminary findings (20 Mar): adult male, mid-30s to early 40s, ~5'7", late 17th/early 18th century. No violence. East-west Christian burial with stone lining, no coffin. Pre-dates mine by ~150 years. Reverend Edith Blackwood (vicar, St Cuthbert's Dunvale, 62) searching parish ledgers back to 1683. Two possible matches: 1703 "a traveller, name not known, found upon the ridge road" and 1698 "Thos. Garland, shepherd, bur. at the high ground by his own request." Precise dating (bone/soil analysis) in 10-14 days. Bess Holloway: "This hill has always known the dead." Memorial construction continues. → `lore/geography.md`, `lore/people.md`
+31. **RESOLVED: Dunvale Bones — Thomas Garland Confirmed** — Bone dating (26 Mar): 1680-1710, confirming Thomas Garland (1698 parish ledger). Huxley presented findings. Blackwood read ledger entry at gravesite. Bess Holloway present. Decision: remains to stay in place per Garland's wishes. Small memorial marker to be set by Sayer. Moved to `lore/archive.md`. → `lore/archive.md`
 
 32. **Ashwater Paper Works — Closure Announced** — NEW (20 Mar). Bobington's last paper mill (Millgate, est. 1914 by Josiah Hartwell) to cease operations end of December 2026. 43 workers affected. Owner: Agnes Hartwell (71, granddaughter of founder). Foreman: Roland Jessup (57, 33 years at mill). 800 tonnes/yr — newsprint, bond, specialty. Fourdrinier machines from 1937 and 1953. Imported paper 30% cheaper. The Bobington Times printed on Ashwater paper. Seldon/DWA offered support. New thread — industry, labour, heritage. → `lore/business.md`, `lore/people.md`
 
 33. **Cooperage Lane Revival** — NEW (20 Mar). Feature in Arts section on the old brewery district coming back to life: Graves lending library, Telford Granary conversion, Lower Conduit/cistern discovery, Penrose's flooded cellar. Doris Pennock (84, 7 Cooperage Lane, last person who remembers the breweries; mother-in-law was bottle-washer at Bramblegate Ale Works). Background thread — community revival seed. → `lore/geography.md`, `lore/people.md`
 
-34. **Fowler's Books — Closing End of April** — NEW (24 Mar). Cedric Fowler (67), owner of Fowler's Books, 12 Threadneedle Street. Father Oswald Fowler (d. 1986) opened shop in 1954. Specialises in maps, travel writing, natural history. ~14,000 volumes. Lease doubled by Cresswell Properties. Cedric has run it 40 years. Community response building. Strand, Thornbury among customers. Background thread — arts/community seed. → `lore/arts-culture.md`, `lore/people.md`
+34. **Fowler's Books — Cataloguing Underway** — Cedric Fowler (67), 12 Threadneedle Street, closing end of April. 43 volunteers cataloguing 14,000 volumes (organised by Dorothy Cresswell-Hume, retired librarian). Polytechnic Library (Sylvia Hatch) taking maps and natural history (~3,000 volumes). Historical Preservation Society interested in architecture/local history. Graves wants the fiction. Strand bought 1808 brewery district map (4 fl). Background thread. → `lore/arts-culture.md`, `lore/people.md`
 
-27. **Harbour Seals — Lower Ashwater Colony** — Colony of **9 harbour seals** (7 adults, 2 juveniles) on mudflats below Bramblegate Steps. First recorded colony since 1891. Fenn-Coulthard **began formal population survey Mon 16 Mar** — dawn-and-dusk visits, individual identification by markings, water temperature/salinity samples at Lower Conduit outfall. Survey will run 4+ weeks. Confirms micro-habitat hypothesis (conduit creates cooler, fresher zone). Wildlife protection zone still "under consideration" — Fenn-Coulthard asks for reduced ferry speed at low tide only. Next: preliminary findings in ~3 weeks; Harbour Authority decision on protection zone. → `lore/science.md`, `lore/geography.md`
+27. **Harbour Seals — Lower Ashwater Colony** — Colony now **10 harbour seals** (7 adults, 3 juveniles). Third juvenile (~60cm) first observed Tue 25 Mar — possibly born on mudflats (first seal birth in Bobington waters since 1891). Fenn-Coulthard cautious, wants confirmation. Survey entering week 3. 5 female, 2 male adults identified. Harbour Authority still deliberating on protection zone (2 weeks). Fenn-Coulthard: "I have asked for one thing. Reduced ferry speed. Forty-five seconds." Next: pup birth confirmation; Harbour Authority decision. → `lore/science.md`, `lore/geography.md`
+
+35. **The Greymoor Road** — NEW (26 Mar). County Roads Surveyor Dr Bernard Coates proposes 2.3 km graded road from Dunvale road to monitoring station site. 45,000 florins, 6 weeks construction. Penn (Highfield Farm) supports. Isobel Dallow (Ridgetop Farm, 61, sheep farmer since 1989) opposed — fears sightseers and traffic. Works Committee deferred to 9 Apr meeting. Background thread — land use, science vs farming. → `lore/geography.md`, `lore/people.md`
+
+36. **Spring Lectures at Polytechnic** — NEW (26 Mar). Public lecture series announced by Miriam Aldbury. Founders' Hall, Tue/Thu 7:30 PM, 8-29 Apr. Free. Programme: Furness (Meredith Letters, 8 Apr), Prof Aldous Nettleford of Caldwell (Greymoor geothermal, 15 Apr), Strand (Lower Conduit, 17 Apr), Huxley (Dunvale bones, 22 Apr), closing TBC (29 Apr). Nettleford visiting Greymoor ridge with Collis and Ilkley. Background thread — seeds future stories. → `lore/arts-culture.md`, `lore/science.md`
+
+37. **Kaelmar — First Commercial Transit** — NEW (26 Mar). *Kestrel* (Captain Viggo Hagen, 52, Delvarian, 1,200 tonnes) loading at Port Caravel. Timber, machine parts, grain. Departure Fri 28 Mar for Thessara via Kaelmar. First commercial transit under framework. Insurance by Fairweather & Chalk (Tremayne). 11/14 Exchange firms underwriting. Harbourside Mutual and Blackwell & Pierce still withholding. Result expected next edition. → `lore/international.md`
 
 ---
 
 ## Recent Editions
+
+### Edition: 26 March 2026
+- FEATURED: The Shepherd of Dunvale — **Bone dating confirms Thomas Garland** (1680-1710). Huxley presented results. Blackwood read ledger entry at gravesite. Bess Holloway and Michael present. Decision: remains to stay in place per Garland's wishes. Memorial marker to be set by Sayer. **DUNVALE BONES RESOLVED.**
+- Three Hundred and Eighty Pages — **Preliminary bond prospectus circulated** to 6 financial institutions. 350M fl, 20-year, 3.85% coupon. Blank page for Rating Agency verdict. Copper at 734 (21st decline). ESI at 261. Expressions of interest due 14 Apr.
+- The Fish in the Stone — **Mason's guild mark discovered** in conduit (~1760s, Ashwater Guild of Masons, fish within circle). Oldest section predates 1782 by ~20 years. 947m traced, 17 notebooks. 60-page report due Friday. Strand: "I have not been dry for a month."
+- Ten — **10th seal** in Lower Ashwater colony. Third juvenile (~60cm), possibly born on mudflats — first birth since 1891. Fenn-Coulthard cautious. Survey week 2. Harbour Authority still deliberating on protection zone (2 weeks). Garside: "Ten seals. First time in a hundred and thirty-five years. And we're debating forty-five seconds."
+- The Cup Revisited — **Rovers at Ironhall preview** (Sat 28 Mar, the Foundry). Cup final rematch. Blackshaw fully fit. Ironhall 7th. Cole remembers. Stahl remembers.
+- Fourteen Thousand Volumes — **Fowler's Books community response.** 43 volunteers cataloguing collection. Polytechnic Library taking maps/natural history (~3,000 volumes). Strand bought 1808 brewery map (4 fl). NEW: Dorothy Cresswell-Hume (retired librarian, organiser), Sylvia Hatch (Polytechnic deputy librarian).
+- The First Keel — *Kestrel* (Captain Viggo Hagen, 52, Delvarian) loading at Port Caravel. First commercial Kaelmar transit. Departure Fri. Insurance by Fairweather & Chalk (Tremayne). Thornbury: "If it proceeds without incident, the second and third will follow quickly."
+- The Greymoor Road — NEW: Dr Bernard Coates (County Roads Surveyor) proposes 2.3 km road to monitoring station. 45,000 fl. Penn supports; NEW: Isobel Dallow (Ridgetop Farm, 61) opposes. Works Committee deferred to 9 Apr.
+- The Spring Lectures — Polytechnic spring series announced. NEW: Miriam Aldbury (events coordinator). Programme: Furness, NEW: Prof Aldous Nettleford (Caldwell, geothermal), Strand, Huxley. 8-29 Apr.
+- On the Naming of Things — Pemberton on the shepherd, the mason's fish, the blank page, the first keel. "To name something is to claim it for the living."
 
 ### Edition: 24 March 2026
 - FEATURED: The Corridor — **Kaelmar Transit Corridor Framework signed** at Foreign Office, Chancery Row. Hale and Soren signed at 11:14 AM. Marchetti presided. Dahl signed observer's protocol. Joint statement at 12:15. ~200 onlookers. Soren used father's silver pen. Copper 741 (19th decline). ESI 268. Kharstad Gazette front page (first time). Thornbury: "a triumph of patience." **KAELMAR RESOLVED.**
@@ -168,18 +191,6 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 - The Annexes of Peace — Kaelmar fifth session preview; four technical annexes Thursday; insurance market showing first flexibility (Helmsley "reviewing position")
 - NEW: The Woman Who Mapped the Dark — profile of Pella Strand (29); Lower Conduit junction discovered; western branch runs under Bramblegate Market toward old brewery district; 14th survey notebook
 - Pemberton: "On the Night the Lights Came On" — Edmund Vale, Glass, Holloway, Quirke's clock, Marsden, the Stellara; "this is a city that has decided to keep its old things"
-
-### Edition: 13 March 2026
-- FEATURED: The Clockmaker Returns — Desmond Quirke (79) climbs Municipal Chamber tower; diagnoses worn front pivot bearing after 153 years (~4.7 billion rotations); "She's not broken. She's tired"; returns Monday for 2-day repair
-- *Havenport* docks after 24-day Sarenne passage; Captain Josip Marek (53, Port Caravel); 220 lbs spice inc. 38 lbs velveroot; reserves pass 1,000 lbs; ESI at 304 (10th consecutive decline, pre-crisis ~295); copper at 812 (12th decline)
-- Docklands audit complete: 72/72 assessed, 18 irregularities; one Harbourfront Parade warehouse with structural concerns; preliminary report to council ~19 Mar
-- Dunvale anniversary: 63 years tomorrow; Bess Holloway (81) and son Michael (65) to lay flowers at sealed mine entrance; memorial foundation work begun; Cavallo's bronze figures being cast in Port Caravel
-- Kaelmar: what the fifth session must decide — four technical annexes (vessel classification, insurance schedules, signalling protocols, inspection commission rules); insurance market still frozen; Northern Fleet still in position
-- Ringball: "Sixteen Years Come Down to Saturday"; Stoneflies vs Caravel at Ashwick Oval; 14,000 sellout; Marsden (36) captains; Barlow vs Dain; title permutations detailed
-- Rovers vs Ashwick Borough preview; six-pointer; Harwick continues; Blackshaw jogging but not fit; Corbett expects unchanged side
-- Bellvue: "One Night to Save a Theatre"; 370/380 seats sold; Glass in auditorium writing; gap at 56K; benefit programme: Act III reading + string trio + Fell address; 7:30 PM Saturday
-- NEW: Harbour seals return to Lower Ashwater — 7-9 individuals on mudflats below Bramblegate Steps; first colony since 1891; Reg Garside (retired harbour pilot, 74) spotted them; Fenn-Coulthard confirms, requests wildlife protection zone; possible link to Lower Conduit outfall
-- Pemberton: "On the Thirteenth" — the clockmaker, the ship, the seals, and the chrysanthemums; "Friday the thirteenth. No luck required."
 
 <!-- older editions in lore/history.md -->
 

@@ -29,6 +29,17 @@ Key lore files: lore/people.md, lore/institutions.md
 - **Key characters:** Hale, Soren, Marchetti, Dahl, Lindqvist, Miren, Thornbury, Tremayne.
 - **First commercial transit** expected mid-April.
 
+## Dunvale Bones — Thomas Garland Identified (RESOLVED 26 Mar 2026)
+- Human skeletal remains discovered 19 Mar at Dunvale mining memorial construction site during drainage trench excavation, ~12m east of sealed mine entrance.
+- Dr Maren Huxley (Polytechnic archaeology) assessed remains. Preliminary findings (20 Mar): adult male, mid-30s to early 40s, ~5'7", late 17th/early 18th century. East-west Christian burial, stone lining, no coffin.
+- Reverend Edith Blackwood (St Cuthbert's, Dunvale, 62) searched parish ledgers back to 1683. Found marginal annotation in 1698 entry: "Thos. Garland, a shepherd of the high ground, who desired burial where he could see the vale, at the place he called his own."
+- **Bone dating results (26 Mar):** Radiocarbon dating: 1680-1710. Soil mineral analysis narrows further. Consistent with 1698 burial entry. Thomas Garland confirmed.
+- Decision: remains to stay in place per Garland's wishes. Small memorial marker to be set by foreman Callum Sayer, separate from the mining memorial.
+- Bess Holloway (81): "He kept watch over the vale. Now we'll keep watch over him."
+- Memorial construction continues on schedule. Cavallo's 41 bronze figures expected from Port Caravel in May.
+- Key characters: Dr Maren Huxley, Rev. Edith Blackwood, Bess Holloway, Michael Holloway, Callum Sayer.
+- Key lore files: lore/geography.md, lore/people.md
+
 ## Ringball Championship — Stoneflies (RESOLVED 24 Mar 2026, celebration)
 - Ashwick Stoneflies won championship 22 Mar (Round 26 final). First title since 2010.
 - Championship parade through Ashwick Sun 23 Mar. ~6,000 people.

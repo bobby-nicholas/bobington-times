@@ -127,9 +127,11 @@ One round remaining. Round 26 (final, 22 Mar): Caravel Harriers host Fernwich Fa
 ## Key Results (continued, 15 Mar)
 - **Premier Division, 15 Mar (Sat)** — Bobington Rovers 2 (Osei 22', Harte 68'), Ashwick Borough 0. Bridgewater Stadium, att: 38,500. Ref: A. Marsh. Osei clinical low finish; Harte first league goal tapping in Dunmore cross. Harwick 8 aerial duels. Rovers to 36 pts, 14th, 10 clear of relegation.
 
+## Key Results (continued, 21 Mar)
+- **Premier Division, 21 Mar (Sat)** — Bobington Rovers 2 (Osei 34', Blackshaw 78'), Port Caravel Wanderers 1 (Gris 51'). Bridgewater Stadium, att: 42,300. Blackshaw returned (off bench 65', headed Dunmore corner). Harwick started, moved to LB. Rovers to 39 pts, 14th, effectively safe.
+
 ## Upcoming
-- **15 Mar (Sat):** Rovers vs Ashwick Borough (home, 3 PM). Six-pointer — Borough directly below in table.
-- **21 Mar (Sat):** Rovers vs Port Caravel Wanderers (home). Possible Blackshaw return.
+- **28 Mar (Sat):** Rovers at Ironhall United (away, the Foundry, 3 PM). Merchants' Cup final rematch. Blackshaw fully fit. Ironhall 7th, comfortable. Cole (12 league goals) leads Ironhall threat.
 - **Ringball Round 25 (Sat 15 Mar):** Ashwick Stoneflies vs Caravel Harriers (Ashwick Oval, 14,000 sellout). Title decider. Lancers host Coldharbour. Ashwick Oval sold out in 40 minutes. ~800 Caravel fans expected. Temporary barrier installed at southern end.
 - **Next football:** 15 Mar (Sat) Rovers vs Ashwick Borough (home).
 

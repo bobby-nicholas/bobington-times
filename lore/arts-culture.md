@@ -59,6 +59,14 @@
 ## Model-Making / Folk Art
 - **Oswin Faraday's Mechanical Model of Bobington** — An extraordinarily detailed 14x9 ft mechanical model of the entire city, built over 8 years (2018-2026) by retired tram conductor Oswin Faraday in his Thornhill garage. Features 2,340 buildings, 14 bridges, 6 clockwork tramlines, 48 wired streetlamps, flowing water. Bobington Historical Preservation Society plans to exhibit at spring exhibition (opens 18 Apr, Grayling Street). Extraction plan: divide at the river into northern and southern halves.
 
+## Fowler's Books (new, 26 Mar 2026)
+- Fowler's Books, 12 Threadneedle Street (est. 1954 by Oswald Fowler, d. 1986). ~14,000 volumes, specialising in maps, travel writing, natural history. Owner: Cedric Fowler (67), has run shop 40 years. Closing end of April — lease doubled by Cresswell Properties.
+- **Community response (26 Mar):** 43 volunteers organised by Dorothy Cresswell-Hume (retired librarian) to catalogue the collection before closure. Polytechnic Library (Sylvia Hatch, deputy librarian/special collections) offers to house maps and natural history (~3,000 volumes). Historical Preservation Society interested in architecture/local history. Millicent Graves asked for the fiction. Strand purchased 1808 Cooperage Lane brewery district plan (4 fl).
+
+## Bobington Polytechnic Spring Lectures (new, 26 Mar 2026)
+- Series announced 26 Mar by events coordinator Miriam Aldbury. Founders' Hall, Tue/Thu 7:30 PM, 8-29 April. Free admission. Seats 280.
+- Programme: 8 Apr — Furness on Meredith Letters; 15 Apr — Prof Aldous Nettleford (Caldwell) on Greymoor geothermal systems; 17 Apr — Strand on Lower Conduit survey; 22 Apr — Huxley on Dunvale bones; 29 Apr — closing lecture TBC.
+
 ## Venues
 - **Royal Bobington Gallery** — Major art museum. Director: Simone Aldair. Meridian Hall is the main exhibition space.
 - **Bobington Academy of Fine Arts** — Art school, annual show tradition

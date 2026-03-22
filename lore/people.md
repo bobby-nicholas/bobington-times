@@ -325,3 +325,12 @@
 - **Gerald Northcroft** — Managing director of Northcroft Instruments, Edgeminster. Scientific instruments manufacturer. Awarded the Greymoor monitoring station equipment contract (195,000 florins) on 24 Mar 2026.
 - **Tom Compton** — Apprentice boatwright, age 23. Nephew of Reg Compton. Assisting with beacon installations at Harbourfront boatyard. Three years in the trade.
 - **Raymond Keel** — Fishmonger, Bramblegate Market eastern wing. Twenty-six years trading. Temporarily relocated within wing during roof repair.
+
+## New Characters (26 Mar 2026)
+- **Captain Viggo Hagen** — Delvarian merchant captain, age 52, from Kharstad. Master of the *Kestrel* (1,200-tonne cargo vessel). Twenty-six years on eastern trade routes. First captain to transit the Kaelmar Strait under the Transit Corridor Framework (departure expected Fri 28 Mar). "I have cargo. I have a route. I have insurance. That is enough."
+- **Dr Bernard Coates** — County Roads Surveyor. Proposed 2.3 km graded road from Dunvale road to Greymoor monitoring station site. Estimated cost 45,000 florins.
+- **Isobel Dallow** — Farmer, Ridgetop Farm, Greymoor Highlands, age 61. Farms sheep on the ridge since 1989. Opposed to the proposed Greymoor road, concerned about sightseers and traffic. "A road brings traffic. Once you build a road, you cannot unbuild it."
+- **Professor Aldous Nettleford** — Geologist, Caldwell University. Leading authority on continental geothermal systems. Author of *The Thermal Earth* (1998). Visiting Bobington to lecture at Polytechnic spring series (15 April) and visit Greymoor ridge with Collis and Ilkley.
+- **Miriam Aldbury** — Events coordinator, Bobington Polytechnic. Organised the spring public lecture series.
+- **Dorothy Cresswell-Hume** — Retired librarian. Organising volunteers to catalogue Fowler's Books collection before closure. "No relation to the landlord, I assure you."
+- **Sylvia Hatch** — Deputy Librarian, Bobington Polytechnic Library. Head of special collections. Offered to house Fowler's maps and natural history section (~3,000 volumes).
