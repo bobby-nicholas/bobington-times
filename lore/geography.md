@@ -64,6 +64,7 @@ A large, cosmopolitan city. Districts and landmarks:
 - **Cooperage Lane** — Street in the former brewery district, between Bramblegate Market and the Docklands. Three breweries operated here from the 1770s to the 1890s. The Old Cooperage pub is located here (building dates to 1830s, originally part of the Ashwater Brewery complex). The western branch of the Lower Conduit runs beneath this area.
 - **The Old Cooperage** — Pub on Cooperage Lane, in the former brewery district. Building dates to the 1830s. Publican: Arthur Penrose (57, family owned since 1922). Cellar flooded with clear cold water from the Lower Conduit western branch (discovered 15 Mar 2026).
 - **Cooperage Lane Lending Library** — Free lending library operated from a converted greengrocer's handcart by Millicent Graves (retired teacher, 64). Parked between The Old Cooperage and the former Chandler's Brewery loading dock. ~400 books. Open Wed/Fri/Sat 9 AM-1 PM. No fines. Opened 18 Mar 2026.
+- **The Greystone Arms** — Pub on corner of Harbourfront Parade and Chandler's Row, est. 1881. Brown brick, etched-glass windows. Publican: Walter Trent (62, since 1998, purchased freehold for 38,000 fl). Announced retirement 30 Apr 2026, building for sale. Gerald Moss (Moss & Hartley Property) has expressed interest. Three former Docklands pubs in Moss's portfolio all converted to commercial premises. Community concern about gentrification.
 
 ## Broader World
 - **Greymoor Highlands** — Rural/highland region, source of granite and landscape painting inspiration

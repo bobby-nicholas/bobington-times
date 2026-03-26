@@ -133,6 +133,12 @@
 - **Coastguard** — Operates cutter *Resolute* (Captain Anne Dalrymple) and harbour patrol launch *Ashwater Guardian*.
 - **Greystone Development Ltd** — Property developer that acquired the former Meredith & Blackwell warehouse on Harker Street. Scheduled for demolition; delayed by discovery of 1860s letters.
 
+## Pubs & Social Institutions
+- **The Greystone Arms** — Public house, Harbourfront Parade, Docklands. Publican: Walter Trent (62, 28 years). Freehold owned by Trent (purchased 1998 for 38,000 fl). Assessed at ~92,000 fl. Bar jar collected 340 fl for Bellvue Theatre fund. DWA informal Friday meetings in back room. Dartboard league Oct-Mar. Trent announced retirement 30 Apr 2026. Two expressions of interest: one unnamed party ("wants to keep it a pub"), one Gerald Moss (Moss & Hartley Property, developer). Decision expected mid-April.
+
+## Property Development
+- **Moss & Hartley Property** — Property developer, Midtown offices (Caldecott Square). Gerald Moss (45), principal. Portfolio includes three former pubs on south side of river, all converted to commercial premises. Expressed interest in Greystone Arms.
+
 ## Sporting Clubs (new)
 - **Ashwater Sculling Club** — Boathouse on the Lower Ashwater (corrugated-iron shed between footbridge and Bramblegate Steps). Est. 1923. 38 members. Annual subscription: 15 florins. Commodore: Gareth Toll. Notable member: Edie Wren (National Veterans' Championship qualifier).
 

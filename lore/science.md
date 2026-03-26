@@ -24,6 +24,7 @@ This file tracks scientific institutions, discoveries, natural phenomena, and te
 - Possible factors: improved water quality over past two decades; Lower Conduit outfall below Bramblegate Steps wharf creating cooler, fresher micro-habitat on the mudflats.
 - Fenn-Coulthard has requested Harbour Authority designate mudflat as temporary wildlife protection zone and that ferry reduce speed past Bramblegate Steps at low tide. Ashby: "under consideration."
 - **26 Mar update:** Colony now 10 (7 adults, 3 juveniles). Third juvenile noticeably smaller (~60cm vs 80-90cm), first observed Tue 25 Mar. Possibly born on the mudflats — would be first seal birth in Bobington waters since 1891. Fenn-Coulthard: cautious, wants confirmation before formal claim. Survey entering week 2. 5 female, 2 male adults identified by markings. Harbour Authority still deliberating on protection zone — two weeks and counting.
+- **28 Mar update:** **Pup birth confirmed.** Fenn-Coulthard confirmed Thu 27 Mar: smallest juvenile born on the mudflats. First seal birth in Bobington waters since 1891 (135 years). ~12 kg, ~60 cm. Observed nursing from adult female. Colony remains 10 (7 adults, 3 juveniles incl. pup). Survey entering week 3. Harbour Authority protection zone decision expected within the week. Dawn swimmers (Alf Burnett, 66, + 5 others, 22-year tradition) asked to swim elsewhere during survey; Burnett declined.
 
 ## Technology
 

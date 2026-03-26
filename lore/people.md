@@ -334,3 +334,10 @@
 - **Miriam Aldbury** — Events coordinator, Bobington Polytechnic. Organised the spring public lecture series.
 - **Dorothy Cresswell-Hume** — Retired librarian. Organising volunteers to catalogue Fowler's Books collection before closure. "No relation to the landlord, I assure you."
 - **Sylvia Hatch** — Deputy Librarian, Bobington Polytechnic Library. Head of special collections. Offered to house Fowler's maps and natural history section (~3,000 volumes).
+
+## New Characters (28 Mar 2026)
+- **Alf Burnett** — Retired dock crane operator, age 66. Has swum in the Lower Ashwater at dawn, six mornings a week, for twenty-two years since retiring from the harbour crane gantry in August 2004. Swims from old pilings beneath the Lower Ashwater footbridge to mudflats below Bramblegate Steps and back (12 minutes). Uses chamois leather square instead of a towel. Declined Dr Fenn-Coulthard's request to swim elsewhere during seal survey. "I was in that water before the seals were."
+- **Margaret Frost** — Retired district nurse, age 71. Oldest of the dawn swimmers. Has swum with Burnett since 2009.
+- **Walter Trent** — Publican, Greystone Arms, Harbourfront Parade, age 62. Owned and operated the pub for 28 years (purchased freehold in 1998 for 38,000 florins). Announced retirement on 30 April 2026. Building for sale. Two expressions of interest received.
+- **Gerald Moss** — Property developer, age 45. Moss & Hartley Property, Midtown offices overlooking Caldecott Square. Portfolio includes three former pubs on south side of river, all converted to commercial premises. Expressed interest in purchasing Greystone Arms.
+- **Ruth Kirby** — Stage manager, Bellvue Theatre, age 52. Fifteen years at the Bellvue. Manages the temperamental fly tower (line seven unreliable since 2019).
