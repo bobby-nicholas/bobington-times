@@ -136,8 +136,11 @@ One round remaining. Round 26 (final, 22 Mar): Caravel Harriers host Fernwich Fa
 ## Key Results (continued, 2 Apr)
 - **Premier Division, 2 Apr (Wed)** — Bobington Rovers 1 (Osei 38'), Thornbury Academicals 1 (Cole 14'). Bridgewater Stadium, att: 45,800. Return fixture. Cole (on loan from Ironhall) headed opener from a cross behind Cahill. Osei equalised from 6 yards (Harte cross). Marsh tipped Aldric free kick onto crossbar (73'). Dunmore hit post (25 yards, 81'). Alston introduced at 60' for Cole. Blackshaw dominant in air. Rovers to 43 pts from 32 matches (14th, 9 clear of relegation). Unbeaten in 6.
 
+## Key Results (continued, 5 Apr)
+- **Premier Division, 5 Apr (Sat)** — Bobington Rovers 3 (Osei 14', Dunmore 52', Osei 67'), Millhaven 1 (Rees 78'). Bridgewater Stadium, att: 46,100. Dunmore's goal a 30-yard curling left-foot strike into top corner. Osei clinical finishing — 14 league goals (4th in division behind Kessler 19, Innes 17, Cole 14 level). Blackshaw dominant in air. Harwick solid. Rovers to **46 pts** from 33 matches, 14th, **12 clear of relegation**. **Unbeaten in 8.** Effectively safe. Won 5 of last 6, drawn 2. Corbett contract still unresolved — board meeting expected this week. 5 matches remaining.
+
 ## Upcoming
-- **Next football:** Sat 5 Apr — Rovers vs Millhaven (home). Three points would take Rovers to 46, effectively safe.
+- **Next football:** 5 matches remaining in the season. Corbett contract decision imminent.
 
 ## Sculling / Rowing
 

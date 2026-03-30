@@ -360,3 +360,10 @@
 - **Captain Walter Inch** — Fishing vessel *Harbour Bell* (named after grandmother who rang the harbour bell for 41 years). Beacon #26.
 - **Captain Anders Grip** — Fishing vessel *Resolute*. First captain in the fleet who refuses tea (coffee only). Beacon #30.
 - **Keir Alston** — Young Bobington Rovers player. Introduced as substitute vs Thornbury Academicals (2 Apr).
+
+## New Characters (7 Apr 2026)
+- **Neville Barker** — Site engineer, Hallam & Stroud. Twenty years' experience in cable-stayed structures. Named as site engineer for the firm's Fernwick Bridge repair bid (54.2M florins, 10 months).
+- **Felix Wainwright** — Lighting technician, Bellvue Theatre, age 34. Eleven years at the Bellvue, trained during the Glass era. Rewired the entire lighting rig for *The Lamplighter's Oath* — replaced 14 of 28 stage lanterns, reconfigured colour filters. "A play about light deserves to be lit properly."
+- **Alderman George Firth** — Chair of the Works Committee. Presiding over the Greymoor access road vote (9 Apr). Position undeclared.
+- **Alderman Miriam Sefton** — Chair of the Labour and Skills Committee. Tom Compton's marine trades apprenticeship petition referred to her committee.
+- **Maeve Callister** — Schoolteacher, age 42, Thornhill. Takes the 6:30 AM ferry every morning since the Fernwick Bridge closure. "The ferry is a kindness. The bridge was a certainty."
