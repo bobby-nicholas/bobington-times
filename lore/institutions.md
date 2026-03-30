@@ -18,6 +18,7 @@
 - **Bobington Merchants' Guild** — Business organisation. Guildmaster: Hadrian Voss (6 years). Reporting doubled shipping insurance premiums due to Kaelmar crisis.
 - **Miners' Cooperative of Greymoor** — Small-scale copper mining operations in Greymoor Highlands. Chairman: Nils Haversten. ~2,000 tonnes annual output.
 - **Bramblegate Exchange** — Commodities exchange
+- **Greaves & Holt Financial Advisory** — Financial advisory firm. Partner: Prudence Holt (58). Engaged by Municipal Treasury (Apr 2026) as external consultant on copper hedging strategy for tramway bond.
 - **Ashcroft Property Group** — Property company. Harker Street, Midtown. Managing director: Gerald Ashcroft. Under suspicion re: Greystone fire. Offices searched by Constabulary 17 Feb.
 - **Crayle, Whitford & Associates** — Prominent Bobington legal firm. Solicitor Edmond Crayle retained by Ashcroft.
 - **Bobington Institute for Foreign Affairs** — Academic institution. Professor Elias Thornbury, diplomatic historian.

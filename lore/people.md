@@ -341,3 +341,22 @@
 - **Walter Trent** — Publican, Greystone Arms, Harbourfront Parade, age 62. Owned and operated the pub for 28 years (purchased freehold in 1998 for 38,000 florins). Announced retirement on 30 April 2026. Building for sale. Two expressions of interest received.
 - **Gerald Moss** — Property developer, age 45. Moss & Hartley Property, Midtown offices overlooking Caldecott Square. Portfolio includes three former pubs on south side of river, all converted to commercial premises. Expressed interest in purchasing Greystone Arms.
 - **Ruth Kirby** — Stage manager, Bellvue Theatre, age 52. Fifteen years at the Bellvue. Manages the temperamental fly tower (line seven unreliable since 2019).
+
+## New Characters (1 Apr 2026)
+- **Hendricks** — Site foreman, Hallam & Stroud, 18 years. Overseeing Bramblegate Market roof repair.
+- **Arthur Bayliss** — Furniture restorer, age 55, Thornhill. Planning the cut to divide Faraday's model at the river.
+- **James Bayliss** — Arthur's son, age 28. Assistant for model extraction.
+- **Captain Eleanor Vane** — Former tug pilot, age 39. Takes evening ferry duties on *Bramblegate Belle*.
+- **Captain Moira Hennessy** — Fishing vessel *Sea Thistle*. Beacon #22.
+- **Captain Edgar Vickers** — Fishing vessel *Temperance* (named by late wife as condition of purchase).
+- **Captain S. Alderman** — Fishing vessel *Bright Hope* (named after 4-year-old daughter).
+
+## New Characters (3 Apr 2026)
+- **Prudence Holt** — Partner at Greaves & Holt Financial Advisory, age 58. Engaged by Municipal Treasury as external consultant on copper hedging strategy. Has advised three municipal authorities and two national infrastructure projects on commodity procurement.
+- **Captain Nils Eriksen** — Thessarine merchant captain, age 48. Master of the *Nørdvik*. Second vessel to transit the Kaelmar Strait under the framework (departed Tue 31 Mar, carrying copper and sugar westbound for Edgeminster).
+- **Captain Gerda Voss** — Ashford Republic merchant captain. Master of the *Adelheid*. Filed transit manifest for eastbound passage (manufactured goods and textiles).
+- **Herbert Finch** — Retired carpenter, age 72, lives near Cooperage Lane. Built the second shelf for Mrs Graves's lending library handcart.
+- **Captain Phyllis Ormond** — Fishing vessel *Ashwater Dawn*. Beacon #23.
+- **Captain Walter Inch** — Fishing vessel *Harbour Bell* (named after grandmother who rang the harbour bell for 41 years). Beacon #26.
+- **Captain Anders Grip** — Fishing vessel *Resolute*. First captain in the fleet who refuses tea (coffee only). Beacon #30.
+- **Keir Alston** — Young Bobington Rovers player. Introduced as substitute vs Thornbury Academicals (2 Apr).

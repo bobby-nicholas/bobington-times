@@ -133,9 +133,11 @@ One round remaining. Round 26 (final, 22 Mar): Caravel Harriers host Fernwich Fa
 ## Key Results (continued, 28 Mar)
 - **Premier Division, 28 Mar (Sat)** — Ironhall United 1 (Cole 17'), Bobington Rovers 2 (Blackshaw 52', Osei 71'). The Foundry, att: 26,400. Cup final rematch. Cole headed opener from set piece (13th league goal). Blackshaw headed Dunmore corner for equaliser — same method as cup final goal at same ground. Osei clinical counter-attack finish. Harwick solid. Stahl beaten twice. Rovers to 42 pts from 31 matches (14th). Four wins in last five league matches. Corbett: "pleased."
 
+## Key Results (continued, 2 Apr)
+- **Premier Division, 2 Apr (Wed)** — Bobington Rovers 1 (Osei 38'), Thornbury Academicals 1 (Cole 14'). Bridgewater Stadium, att: 45,800. Return fixture. Cole (on loan from Ironhall) headed opener from a cross behind Cahill. Osei equalised from 6 yards (Harte cross). Marsh tipped Aldric free kick onto crossbar (73'). Dunmore hit post (25 yards, 81'). Alston introduced at 60' for Cole. Blackshaw dominant in air. Rovers to 43 pts from 32 matches (14th, 9 clear of relegation). Unbeaten in 6.
+
 ## Upcoming
-- **Ringball Round 25 (Sat 15 Mar):** Ashwick Stoneflies vs Caravel Harriers (Ashwick Oval, 14,000 sellout). Title decider. Lancers host Coldharbour. Ashwick Oval sold out in 40 minutes. ~800 Caravel fans expected. Temporary barrier installed at southern end.
-- **Next football:** 15 Mar (Sat) Rovers vs Ashwick Borough (home).
+- **Next football:** Sat 5 Apr — Rovers vs Millhaven (home). Three points would take Rovers to 46, effectively safe.
 
 ## Sculling / Rowing
 
