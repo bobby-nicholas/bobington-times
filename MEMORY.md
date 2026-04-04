@@ -25,29 +25,30 @@ See `lore/_index.md` for the full table of contents. Key files:
 ## Editorial Directive (next edition)
 
 **Next edition notes:**
-- **Furness lecture** — Tue 8 Apr. Founders' Hall. Meredith Letters. Overflow crowd expected. REPORT RESULT.
-- **Works Committee vote** — Wed 9 Apr. Greymoor road. Dallow vs Penn vs Firth (undeclared). CRITICAL — equipment waiting at junction. REPORT RESULT.
-- **BELLVUE OPENING NIGHT** — Thu 10 Apr! **Major arts story.** 352 of 380 tickets sold. Ashworth as Vale, Holloway as Clara. Wainwright's lighting rig. Kirby on line seven. Glass's seat reserved. **MUST COVER.**
-- **Nettleford visits Greymoor** — This week. With Collis and Ilkley. His impressions before 15 Apr lecture.
-- **Crayle appeal** — 14 Apr. Municipal Tribunal.
-- **Nettleford lecture** — 15 Apr. Greymoor geothermal. Polytechnic.
+- **Corbett response** — Expected within 48 hours of 10 Apr. Two-year deal offered. REPORT RESULT.
+- **Crayle appeal** — 14 Apr. Municipal Tribunal. REPORT RESULT.
+- **Nettleford lecture** — 15 Apr. Greymoor geothermal. Polytechnic. Nettleford will present "shallow magma intrusion" findings publicly. MUST COVER.
 - **Strand lecture** — 17 Apr. Lower Conduit. Polytechnic.
-- **Edie Wren** — Veterans' Championship 18 Apr, Caldwell. 11 days away.
-- **Faraday exhibition** — Opens 18 Apr at Historical Preservation Society, Grayling Street. Model reassembly this week.
+- **Edie Wren** — Veterans' Championship 18 Apr, Caldwell. 8 days away.
+- **Faraday exhibition** — Opens 18 Apr at Historical Preservation Society, Grayling Street. Reassembly in progress (8/12 connectors, 16/48 lamps). MUST COVER opening.
 - **Bramblegate roof completion** — 18 Apr target. Phase 3 (new iron) underway.
 - **Greystone Arms** — Decision expected mid-April. Moss or unnamed local.
 - **Fowler's Books** — Closing end of April. Birch annotated volume under assessment.
-- **Hedging strategy** — Holt recommendations due mid-April.
+- **Hedging strategy** — Holt preliminary recommendation imminent (~this week). Forward contracts for ~60% of Phase 1 copper at current prices.
 - **Huxley lecture** — 22 Apr. Dunvale bones. Polytechnic.
-- **Bond formal offering** — Expected May. 3 of 6 expressions of interest.
-- **Ashwater Paper Works** — Machinery inquiries from Ashford Republic and Verlaine. 8 of 43 workers applied to DWA fund. Closure end of Dec 2026.
-- **Fernwick Bridge contract decision** — Kinnear assessment by end of April. Three bids: H&S 54.2M, Brannock 62.8M, Vandersteel 71.4M.
-- **Apprentice petition** — Tom Compton's marine trades petition referred to Labour and Skills Committee (Alderman Sefton).
-- **Kaelmar corridor** — Approaching archive status. 3 transits, no incident. Copper at 691 (28th decline). ESI 234. Insurance premiums falling (Tremayne cuts to 125%).
+- **Bond formal offering** — Expected May. 4 of 6 expressions of interest.
+- **Ashwater Paper Works** — Machinery inquiries from Ashford Republic and Verlaine. 8 of 43 workers applied to DWA fund.
+- **Fernwick Bridge contract decision** — Kinnear assessment by end of April. Three bids.
+- **Apprentice petition** — Tom Compton's petition referred to Labour and Skills Committee (Sefton).
+- **Kaelmar corridor** — 4 transits, no incident. Copper at 680 (30th decline). ESI 228. Tremayne at 115%. Harbourside Mutual resuming Mon. Only Blackwell & Pierce holdout. Two more vessels filed manifests. **Archive after 6+ transits.**
+- **Bellvue** — Opened to sellout and 4-min ovation. First week sold out. 21 performances before Thurston Brothers arrive 2 May.
+- **Greymoor road** — Approved 3-2, equipment convoy can proceed. Nettleford assessed: "shallow magma intrusion."
+- **Midnight Gardener** — NEW thread. Three plantings in Caldecott Square. Whimsical civic mystery. Next planting expected ~mid-April.
+- **Meredith fever** — Furness lecture delivered. Second 1860 outbreak confirmed. Hewitt's 30-year research connects. Heritage listing case strengthened.
 
-**Threads approaching resolution:** Tramway bond (hedging in progress, formal offering May), Bramblegate roof (18 Apr completion), Beacon fittings (34/90, ~late April), Lower Conduit (heritage listing pending), Kaelmar corridor (3 transits, routine — archive after 5+), Rovers safety (46 pts, effectively safe — may wind down as storyline).
+**Threads approaching resolution:** Tramway bond (hedging rec imminent, formal offering May), Bramblegate roof (18 Apr completion), Beacon fittings (34/90, ~late April), Lower Conduit (heritage listing pending, Furness evidence strengthens case), Kaelmar corridor (4 transits — archive after 6+), Bellvue play (opened successfully — Thurston Brothers 2 May), Faraday exhibition (opens 18 Apr).
 
-**New threads from this edition:** Marine trades apprenticeship petition (Compton, 12 signatories, to Labour and Skills Committee). Ashwater Paper Works machinery inquiries. Fernwick Bridge three bids received.
+**New threads from this edition:** Midnight Gardener of Caldecott Square. Corbett contract decision. Nettleford's "shallow magma intrusion" assessment (raises stakes for Greymoor survey). Hewitt's 30-year parish data offered to Furness.
 
 ---
 
@@ -58,11 +59,11 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 1. **Phased Tramway — Hedging Strategy Underway** — Rating "Satisfactory, Conditional" delivered 1 Apr. Treasury convened copper hedging working group. Prudence Holt (Greaves & Holt) engaged as external consultant. Copper at **703** (26th decline). ESI at **241**. 3 of 6 institutions have submitted expressions of interest. Holt recommendations expected mid-April. Formal bond offering expected May. **Approaching resolution.** → `lore/politics.md`, `lore/economy.md`
 2. **RESOLVED: Kaelmar Strait — Framework Signed** — Transit Corridor Framework signed Tue 24 Mar at Foreign Office, Chancery Row. Hale and Soren signed at 11:14 AM. Marchetti presided. Dahl signed observer's protocol. Joint statement at 12:15 PM. Copper at 741 (19th decline). ESI at 268. 12/14 insurance firms resume underwriting. Harbourside Mutual and Blackwell & Pierce withholding. First commercial transit expected mid-April. Kharstad Gazette ran it on front page (first time). Moved to `lore/archive.md`. → `lore/archive.md`
 3. **Greystone Wharf — Shoring Complete** — 72/72 assessed. 18 irregularities. 47-page report presented to council 19 Mar. **Shoring of Harbourfront Parade warehouse completed Sat 21 Mar** (14 steel props, 3 days, Draper/Hallam & Stroud). Building stabilised. Pryce introducing inspection motion at next full council. Voss cost analysis expected end of next week. **Crayle appeal hearing 14 April.** → `lore/people.md`, `lore/institutions.md`, `lore/politics.md`
-4. **Rovers — Effectively Safe** — Beat Millhaven 3-1 at Bridgewater (Sat 5 Apr). Osei 14' & 67', Dunmore 52' (30-yard curler). Rees 78' (Millhaven). Att: 46,100. Rovers to **46 pts** from 33 matches, 14th, 12 clear. **Unbeaten in 8.** Osei on 14 league goals (4th in division). Corbett contract still unresolved — board meeting this week. 5 matches remaining. **Approaching resolution — safety secured.** → `lore/sports.md`
+4. **Rovers — Corbett Contract Offered** — 46 pts from 33 matches, 14th, 12 clear. Unbeaten in 8. Safety secured. **Board (chairman Conrad Vickers) offered Corbett 2-year extension on 9 Apr.** She asked for 48 hours. "I'll think about it." Includes provisions for squad development. 5 matches remaining. **Pivoting from safety storyline to contract drama.** → `lore/sports.md`
 5. **ARCHIVED: Spice Trade Crisis** — Moved to `lore/archive.md` on 16 Mar. Crisis resolved. ESI at 296 (Mon 16 Mar). Reserves >1,400 lbs. → `lore/archive.md`
 6. **Fernwick Bridge — Three Bids Received** — Formal bids received 6 Apr. Hallam & Stroud: 54.2M fl, 10 months (Neville Barker, site engineer). Brannock Cable Works: 62.8M fl, 12 months (includes re-decking and drainage, 40-year cable warranty). Vandersteel Ironworks: 71.4M fl, 9 months (Ashford steel, seismic reinforcement, 90 labourers). Kinnear assessment by end of April. Ferry averaging 8,100/day, 1,620 monthly passes. Night service added 7 Apr. Wharf foundation assessment pending. → `lore/geography.md`
 7. **RESOLVED: Ringball Championship** — Stoneflies champions. **Marsden (36) announced retirement** at Sunday parade (23 Mar). ~6,000 in Ashwick town square. Barlow (22) carried on shoulders. Moved to `lore/archive.md`. → `lore/archive.md`
-8. **Greymoor Glow — Sixty-Four Nights** — 64th consecutive night (5 Apr). ~33% brighter than first observation. Spectral signature unchanged. **Equipment convoy en route from Edgeminster** — 3 wagons (seismometers, gas sampling, met mast, photometric array, battery banks, shelter). Arrival Dunvale junction Tue 8 Apr. **But access road not approved — Works Committee vote Wed 9 Apr.** Alderman George Firth (chair) undeclared. Equipment will wait at junction. **Nettleford arrived in Bobington 6 Apr** — visiting ridge with Collis and Ilkley this week. Lectures 15 Apr. Collis on 47th notebook. → `lore/science.md`
+8. **Greymoor Glow — Shallow Magma Intrusion** — 68th consecutive night (10 Apr). ~35% brighter. **Works Committee approved access road 3-2** (Firth deciding vote, conditions: scientific/agricultural only, no public access, seasonal weight limit, 5,000 fl restoration bond). **Nettleford assessed: "consistent with shallow magma intrusion"** — body of molten rock in upper crust, possibly centuries old. Not volcanic. Recommends expanded survey scope. Equipment convoy proceeding from Dunvale junction. Nettleford lecture 15 Apr at Polytechnic. → `lore/science.md`
 9. **RESOLVED: Bellvue Theatre Fundraising** — Target reached 19 Mar at 3:17 PM: 180,200 florins from 171 individual donations. Quirke donated 500 fl ("For old things that work"). DWA 1,000 fl. Thurston Brothers confirmed for 2 May. Play opens 10 Apr. Moved to `lore/archive.md` on 19 Mar. → `lore/archive.md`
 10. **Bramblegate Market Roof — Phase 2** — Phase 1 (stripping) complete. Phase 2 (timber) reveals 3 rotten joists under tarred felt (+1,800 fl, +3 days). Hendricks (site foreman). Revised completion: **18 April.** Phase 3 (new iron) early next week. **Approaching resolution.** → `lore/geography.md`
 11. **Calloway Comet** — Fenmouth designation expected 4-6 weeks. Background thread. → `lore/science.md`
@@ -101,11 +102,15 @@ These are the threads currently in play. Pick 2-3 to advance each edition, and i
 
 36. **Spring Lectures at Polytechnic** — NEW (26 Mar). Public lecture series announced by Miriam Aldbury. Founders' Hall, Tue/Thu 7:30 PM, 8-29 Apr. Free. Programme: Furness (Meredith Letters, 8 Apr), Prof Aldous Nettleford of Caldwell (Greymoor geothermal, 15 Apr), Strand (Lower Conduit, 17 Apr), Huxley (Dunvale bones, 22 Apr), closing TBC (29 Apr). Nettleford visiting Greymoor ridge with Collis and Ilkley. Background thread — seeds future stories. → `lore/arts-culture.md`, `lore/science.md`
 
-37. **Kaelmar — Corridor Routine** — 3 transits completed without incident. *Kestrel* docked Thessara 2 Apr. *Nørdvik* docked Edgeminster Sat 5 Apr (1,100 tonnes copper/sugar). *Adelheid* cleared eastern approach Fri 4 Apr. Insurance: Tremayne (Fairweather & Chalk) cut surcharge to 125% (from 140% cap). 12/14 Exchange firms writing corridor policies. Harbourside Mutual reviewing internally. Copper **691** (28th decline). ESI **234**. Dahl filed preliminary report: "orderly and unremarkable." Two more vessels filed manifests for coming week. **Approaching archive — move after 5+ transits.** → `lore/international.md`
+37. **Kaelmar — Corridor Routine** — **4 transits** completed without incident. *Brightwater* (Falk, Delvarian, eastbound) cleared 10 Apr. Tremayne cut surcharge to **115%**. Harbourside Mutual resumes Mon — leaves only Blackwell & Pierce. Copper **680** (30th decline). ESI **228**. Two more manifests filed. **Approaching archive — move after 6+ transits.** → `lore/international.md`
 
 38. **Greystone Arms — For Sale** — NEW (28 Mar). Walter Trent (62, publican since 1998) retiring 30 Apr. Building for sale. Gerald Moss (45, Moss & Hartley Property) interested — portfolio includes 3 former pubs all converted to commercial. Unnamed local buyer also interested. Seldon/DWA concerned. Garside's bench. Background thread — Docklands gentrification. → `lore/geography.md`, `lore/people.md`
 
 39. **Dawn Swimmers vs Seals** — Burnett excluded by 90-day protection zone (1 Apr). Frost stopped swimming. Burnett furious. Background thread — civic friction. → `lore/science.md`, `lore/people.md`
+
+41. **The Midnight Gardener of Caldecott Square** — NEW (10 Apr). Unknown person planting native wildflowers in municipal cast-iron planters overnight. Three plantings: cornflowers (24 Mar), wild violets (1 Apr), primroses and foxgloves (7 Apr). Parks superintendent Nora Quinlan: "unauthorised horticultural activity." Night watchman saw figure with wheelbarrow at 2:15 AM. Note pinned to fountain: "More foxgloves please." Whimsical civic mystery. → `lore/geography.md`
+
+42. **Bellvue Opening — Play Running** — *The Lamplighter's Oath* opened 10 Apr to sold-out house (380/380). First sellout since 2019. 4-min standing ovation. Ashworth extraordinary, Holloway revelatory. Glass attended, left without speaking to press. First week sold out. 21 performances before Thurston Brothers arrive 2 May. → `lore/arts-culture.md`
 
 40. **Marine Trades Apprenticeship Petition** — NEW (7 Apr). Tom Compton (23) + 11 young tradespeople petition Council for formal marine trades apprenticeship programme. Average fishing captain age 57. Half fleet retires within 10 years. No structured training. Poole and Seldon endorse. Referred to Labour and Skills Committee (Alderman Miriam Sefton, chair). → `lore/institutions.md`, `lore/people.md`
 

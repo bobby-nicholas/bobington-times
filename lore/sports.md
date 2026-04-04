@@ -139,8 +139,11 @@ One round remaining. Round 26 (final, 22 Mar): Caravel Harriers host Fernwich Fa
 ## Key Results (continued, 5 Apr)
 - **Premier Division, 5 Apr (Sat)** — Bobington Rovers 3 (Osei 14', Dunmore 52', Osei 67'), Millhaven 1 (Rees 78'). Bridgewater Stadium, att: 46,100. Dunmore's goal a 30-yard curling left-foot strike into top corner. Osei clinical finishing — 14 league goals (4th in division behind Kessler 19, Innes 17, Cole 14 level). Blackshaw dominant in air. Harwick solid. Rovers to **46 pts** from 33 matches, 14th, **12 clear of relegation**. **Unbeaten in 8.** Effectively safe. Won 5 of last 6, drawn 2. Corbett contract still unresolved — board meeting expected this week. 5 matches remaining.
 
+## Key Results (continued, 10 Apr)
+- **Corbett contract (9 Apr, Wed):** Rovers board (chairman Conrad Vickers) voted unanimously to offer Phillipa Corbett a two-year contract extension through end of 2027-28 season on improved terms, including provisions for squad development (modest transfer budget). Corbett asked for 48 hours to consider. "I'll think about it. I've been thinking about it for five months." Vickers: "We believe in what she's building."
+
 ## Upcoming
-- **Next football:** 5 matches remaining in the season. Corbett contract decision imminent.
+- **Next football:** 5 matches remaining in the season, starting at Haverford Town on Saturday. Corbett contract response expected within 48 hours.
 
 ## Sculling / Rowing
 

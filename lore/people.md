@@ -367,3 +367,12 @@
 - **Alderman George Firth** — Chair of the Works Committee. Presiding over the Greymoor access road vote (9 Apr). Position undeclared.
 - **Alderman Miriam Sefton** — Chair of the Labour and Skills Committee. Tom Compton's marine trades apprenticeship petition referred to her committee.
 - **Maeve Callister** — Schoolteacher, age 42, Thornhill. Takes the 6:30 AM ferry every morning since the Fernwick Bridge closure. "The ferry is a kindness. The bridge was a certainty."
+
+## New Characters (10 Apr 2026)
+- **Edgar Tilney** — Retired schoolteacher, age 81. Attended Bellvue opening night in upper gallery. Hadn't been to the theatre since 1987. "I came because the city came."
+- **Leonard Hewitt** — Retired mathematics teacher, age 74. Has researched the 1859 Bobington fever independently for 30 years using parish burial records from St Cuthbert's and St Anne's. Attended Furness lecture at Founders' Hall. Offered Furness three folders of transcribed parish data. "I always suspected there was a second wave."
+- **Conrad Vickers** — Rovers board chairman, age 63. Retired shipping executive, five years as chairman. Offered Corbett a two-year contract extension. "We believe in what she's building."
+- **Captain Elias Falk** — Delvarian merchant captain, age 45. Master of the *Brightwater* (900-tonne cargo vessel). Fourth captain to transit the Kaelmar corridor (9-10 Apr, eastbound, manufactured goods and timber).
+- **Nora Quinlan** — Superintendent of the Bobington Parks Department, age 52. Twenty-three years in municipal service. Discovered three instances of overnight wildflower planting in Caldecott Square municipal planters (Mar-Apr 2026). Baffled but not displeased. "Whoever is doing this has better equipment than we do."
+- **Alderman Jessop** — Works Committee member. Voted against Greymoor access road (insufficient consultation).
+- **Alderman Greening** — Works Committee member. Voted against Greymoor access road. "Two farmers is not the Greymoor uplands."
