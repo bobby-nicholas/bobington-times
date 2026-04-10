@@ -46,3 +46,45 @@ Key lore files: lore/people.md, lore/institutions.md
 - **Dov Marsden (36) announced retirement** from ringball at the parade. 14 seasons with Stoneflies.
 - Fen Barlow (22) — breakout season, carried on shoulders.
 - Maren Thatch watched from bench with daughters.
+
+## Kaelmar Corridor — Normalised (ARCHIVED 18 Apr 2026)
+- Transit Corridor Framework signed 24 Mar. Eight commercial transits completed without incident by mid-April.
+- All 14 Insurance Exchange member firms underwriting corridor cargo. Tremayne reduced surcharge to 110% of pre-crisis rates.
+- Copper fell from 891 (24 Feb peak) to 652 (18 Apr, 34th consecutive decline). ESI at 215.
+- Dahl filed third quarterly observation: "proceeding in accordance with the framework in all material respects."
+- Joint Maritime Inspection Commission met twice, found nothing to discuss.
+- Wynn: "The corridor is not a crisis. It is infrastructure."
+- Key characters: Hale, Soren, Marchetti, Dahl, Tremayne, Thornbury, Hagen, Eriksen, Falk.
+- Key lore files: lore/international.md, lore/economy.md
+
+## Bramblegate Market Roof — Completed (ARCHIVED 18 Apr 2026)
+- Storm damage to eastern wing March gales. 14,200-florin repair approved by Markets Board.
+- Three phases: stripping (Phase 1), timber replacement including 3 rotten joists (Phase 2, +1,800 fl), new galvanised iron + gutter system (Phase 3).
+- Completed Thursday 17 Apr, one day ahead of revised schedule. First rain test passed.
+- Key characters: Hendricks (foreman), Phillip Catton (market warden), Raymond Keel (fishmonger).
+- Key lore files: lore/geography.md
+
+## Greystone Arms — Sold to Dorothy Hesketh (ARCHIVED 18 Apr 2026)
+- Walter Trent (62, publican since 1998) retiring 30 April.
+- Two offers: Gerald Moss (Moss & Hartley Property, higher offer, intended commercial conversion) and Dorothy Hesketh (49, former barmaid, lower offer, intends to keep as pub).
+- Trent chose Hesketh. Possession 1 May. Etched-glass windows (1881), snug, and Garside's bench all staying.
+- Garside, informed of the sale: "Good."
+- Key characters: Trent, Hesketh, Moss, Garside, Seldon.
+- Key lore files: lore/geography.md, lore/people.md
+
+## Edie Wren — Veterans' Championship (ARCHIVED 18 Apr 2026)
+- Edith Wren (58, retired postal worker, Thornhill) competed in National Veterans' Sculling Championship at Caldwell Rowing Basin, 18 Apr 2026.
+- Finished fourth in over-55 class, 1.3 seconds off podium. Personal best: 8:12 over 2,000m.
+- Rowed *Early Post*, wooden scull she built in 1999. Self-taught stroke.
+- Winner: Anneke Lindström of Caldwell (7:51, course record).
+- Wren: "Fourth is fourth. I'll be back."
+- Key characters: Edie Wren, Anneke Lindström, Glyn Ashmore, Vera Duncombe.
+- Key lore files: lore/sports.md
+
+## Faraday's Mechanical Bobington — Exhibition Opened (ARCHIVED 18 Apr 2026)
+- Model built over 38 years by Oswin Faraday (62, retired tram driver). 2,340 buildings, 14 bridges, 6 clockwork tramlines, 48 working streetlamps.
+- Successfully cut at the river by Arthur and James Bayliss (6 Apr). Both halves transported to Historical Preservation Society, Grayling Street.
+- Reassembly: 12/12 connectors restored, 48/48 lamps lit.
+- Exhibition opened 18 Apr. Mayor Blackthorne cut ribbon. Faraday said very little.
+- Key characters: Oswin Faraday, Constance Faraday, Arthur Bayliss, James Bayliss, Louisa Marchbank.
+- Key lore files: lore/arts-culture.md

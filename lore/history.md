@@ -77,14 +77,15 @@
 
 - **19 Mar** — **Kaelmar fifth session completes all four technical annexes.** Signing ceremony set for Tue 24 Mar at Foreign Office, Chancery Row. Copper falls to 778 (17th consecutive decline). ESI at 287. Council Maritime Affairs Committee votes 5-2 to fund position-reporting beacons from maritime safety reserve (19,800 fl; Ashwater Signal Works; Compton coordinating fittings). Docklands audit preliminary report (47 pages) presented to council: 18 irregularities in 72 properties; mandatory annual inspection recommended; Crayle appeal hearing set 14 Apr. Rating Agency assessors Day 4. **Bellvue Theatre reaches 180,200 florins** — target met at 3:17 PM (Quirke 500 fl, DWA 1,000 fl, Polytechnic 1,200 fl, ferry crew 800 fl, 37 individual donations); Thurston Brothers confirmed for 2 May; play opens 10 Apr. Human skeletal remains (pre-19th century) discovered at Dunvale memorial construction site; Dr Maren Huxley (Polytechnic archaeology) assessing. Greymoor glow now 20% brighter than first observation (38th consecutive night).
 
+- **18 Apr** — Faraday's Mechanical Bobington exhibition opens at Historical Preservation Society, Grayling Street. Mayor Blackthorne cuts ribbon. All 48 lamps and 6 tramlines working. National Veterans' Sculling Championship at Caldwell Rowing Basin: Anneke Lindström wins over-55 (7:51, course record); Edie Wren finishes 4th (8:12, personal best). Bramblegate Market roof completed (one day early). Nettleford lectures at Polytechnic on shallow magma intrusion (capacity audience, 70-min Q&A). Strand lectures on the Lower Conduit to standing ovation. Greystone Arms sold to Dorothy Hesketh (former barmaid, intends to keep as pub). Kaelmar corridor: 8 transits, all 14 firms underwriting, Tremayne at 110%, effectively normalised. Copper at 652 (34th decline). ESI at 215. Holt's hedging recommendation under Treasury review. Railway Board approves overnight Bobington–Caldwell service (first since 2006), first departure 1 June.
+
 ## Upcoming
-- **21 Mar (Sat)** — Greymoor station equipment tenders close. Rovers vs Port Caravel Wanderers (home, Blackshaw in squad).
-- **22 Mar (Sat)** — Ringball Round 26 (final): Caravel host Fernwich Falcons, Lancers at Dunmore Eagles, Stoneflies host Millhaven.
-- **24 Mar (Tue)** — Kaelmar Transit Corridor Framework signing ceremony at Foreign Office, Chancery Row.
-- **10 Apr** — *The Lamplighter's Oath* opens at the Bellvue Theatre.
-- **14 Apr** — Crayle/Ashcroft Municipal Tribunal appeal hearing.
-- **18 Apr** — National Veterans' Sculling Championship, Caldwell Rowing Basin; Faraday model exhibition opens.
+- **29 Apr** — Closing Polytechnic spring lecture (speaker TBC, Nettleford invited to return).
+- **30 Apr** — Trent's last day at Greystone Arms. Fowler's Books closes.
+- **1 May** — Hesketh takes possession of Greystone Arms. Night train bookings open.
 - **2 May** — Bellvue Theatre fly tower repair work begins (Thurston Brothers).
-- **May** — Telford Granary artists' workshops opening. National Regatta (BLSC).
+- **May** — Telford Granary artists' workshops opening. National Regatta (BLSC). Formal tramway bond offering expected.
+- **1 Jun** — First overnight Bobington–Caldwell train service.
 - **Late 2026/Early 2027** — Tramway Phase 1 groundbreaking (pending geological survey).
+- **Dec 2026** — Ashwater Paper Works closure.
 - **Through 30 June** — Hargrove retrospective on view.

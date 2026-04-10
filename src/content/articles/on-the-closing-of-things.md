@@ -1,0 +1,36 @@
+---
+title: "On the Closing of Things"
+subtitle: "In which the columnist considers bookshops, paper mills, football seasons, and the small courtesies of ending well"
+section: opinion
+date: 2026-04-26
+author: Aldous Pemberton
+authorTitle: Opinion
+summary: "A bookshop closes at its usual time. A paper mill finds a buyer who will run the machines instead of display them. A football season drains its urgency like bathwater and leaves something gentler. A magistrate's judgment is not appealed, and a council votes fourteen to three. The columnist considers the city's unexpected talent for finishing things gracefully, and the rare and underrated virtue of knowing when to stop."
+edition: "2026-04-26"
+---
+
+I have been thinking this week about the closing of things, which is a subject I have generally avoided on the grounds that it is depressing and that there is quite enough of it in the world without a newspaper columnist adding to the supply. But I have been persuaded — by events, and by a cup of tea taken at half past four on Friday afternoon in a bookshop that was about to close forever — that the closing of things is not, in fact, the depressing business I had taken it for. It is, when done well, among the most civilised things a city is capable of.
+
+Consider what has ended this week, or is about to end.
+
+Cedric Fowler has closed his bookshop, at the usual time, having first allowed his cataloguing committee a sponge cake and a cup of tea. He declined a speech. He declined a photographer. He locked the door with the ordinary key he has used for forty years, and walked to the Cooperage Lane lending library to return a book he had borrowed three weeks earlier, because he did not wish to carry a library fine into retirement. I do not believe there is a more graceful closing of a shop to be found anywhere on the continent, and I include in that judgment the continental shops I have not visited, of which there are many.
+
+Agnes Hartwell, of the Ashwater Paper Works, has sold her two Fourdrinier machines to a Verlaine baroness who writes in violet ink and who proposes to run the machines rather than admire them. The Ashford Republic, which made an earlier and more modest offer, withdrew its bid with a letter expressing the hope — the accurate hope — that the 1937 machine would continue to make paper. Mrs Hartwell could have taken the higher bid without remark. Instead she wrote back to the baroness at some length, and also wrote to the Ashford Republic's senior preservationist, thanking him for his understanding. The Paper Works will close in December. The machines will not. This is, I submit, an excellent trade.
+
+Phillipa Corbett, who eleven days ago signed a two-year contract extension at the Bridgewater training ground, has named her team for this afternoon's fixture at the Foundry. Orin Blackshaw starts for the first time since November. The Rovers, fourteenth in the table and twelve points clear of any meaningful anxiety, travel to first-placed Caravel City with nothing to play for and everything to enjoy. There is a particular quality to a football match played by a side that has finished well without yet finishing. It is not reckless. It is not complacent. It is a little like the last hour of a long dinner at which everyone is still enjoying themselves but no one is still hungry.
+
+Magistrate Constance Hathaway wrote twenty-six pages on the subject of whether an empty building is the same thing as a vacant one. Edmond Crayle read them carefully, consulted his solicitors, and wrote a one-paragraph letter to the Municipal Tribunal confirming that Ashcroft Property Group would not pursue the matter further. One paragraph. I have been a columnist for thirty-one years. I have watched grudges outlast governments. I do not know whether Mr Crayle is possessed of some unexpected reserve of grace or whether he has simply concluded that the case is unwinnable, and I confess I do not care. The letter is one paragraph. That is the whole of the story.
+
+And on Thursday evening the full council voted fourteen to three to adopt a mandatory annual inspection regime for all commercial properties in the Docklands ward. The vote followed a ninety-two-minute debate. Seven amendments were considered. Three were accepted. The regime comes into force on the first of June. Councilwoman Pryce, who drafted the motion, did not make a second speech. She had made her speech eleven days earlier, and she felt no need to repeat it. The vote was taken. It is settled.
+
+What do these endings have in common? They are not triumphant. None of them involves a trumpet, a speech, or a parade. They all involve people who knew what they were doing and did it in the ordinary way, on a weekday, at the usual time, and then went home.
+
+I think this is the rarest and most underrated of civic virtues: the ability to stop. The ability to say, at the end of a forty-year shop, that there will not be an event. The ability to write back to the losing bidder with courtesy, because the losing bidder is also a person who loves the thing that was bid for. The ability to lose an appeal and not file another one. The ability to vote on a reform and let the vote be the end of the matter. The ability to walk back to the training ground on a Thursday morning and post a team sheet that says, this afternoon, we will play football, because we are a football team, and there are three matches left.
+
+The city is not always good at this. The city is capable of dragging an argument on for years after the argument has ceased to be about anything. The city is capable of announcing endings that are really beginnings of other endings. The city is capable, as all cities are, of substituting noise for completion. But this week, a bookshop closed at half past five, a paper mill found a buyer who will use the machines, a tribunal judgment was not appealed, a council voted and meant it, and a football manager signed a contract and then posted a team sheet. The city has, in the last seven days, finished a great many things.
+
+I went to the bookshop on Friday because I wanted to buy a specific volume of harbour verse, and because I wanted to watch Cedric Fowler turn his OPEN sign to CLOSED, which I was reliably informed was the only ceremony he proposed to hold. I bought the book. (It is very good. Cressida Loane's 1937 edition, with her own line corrections in the preface.) I watched the sign turn. I walked back down Threadneedle Street in the last of the afternoon light, past the grocers and the tailor, and I thought about how rarely I have seen a shop close without bitterness, without recrimination, without a final sale advertised with exclamation marks.
+
+There is a particular kind of happiness in watching a person finish something well. It is not a loud happiness. It does not lend itself to celebration. It is something closer to the feeling one has at the end of a good book — the slight reluctance to turn the last page, and the recognition that the book has given you everything it intended to give, and that to ask for more would be a failure of understanding.
+
+The city is in a finishing mood this month. Editions of newspapers have endings, too. I shall stop here.

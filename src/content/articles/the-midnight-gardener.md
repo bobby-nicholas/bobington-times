@@ -1,42 +1,42 @@
 ---
 title: "The Midnight Gardener of Caldecott Square"
-subtitle: "Someone is planting wildflowers in the municipal planters under cover of darkness"
+subtitle: "Someone is planting wildflowers in the city's municipal planters under cover of darkness, and the Parks Department would like a word"
 section: news
 date: 2026-04-10
 author: Rupert Gaines
 authorTitle: Metro Reporter
+summary: "Over the past three weeks, an unknown person has been planting native wildflowers in the cast-iron municipal planters of Caldecott Square between midnight and four in the morning. Cornflowers on 24 March. Wild violets on 1 April. Primroses and foxgloves on 7 April. The Parks Department superintendent, Nora Quinlan, calls it 'unauthorised horticultural activity.' A night watchman saw a figure with a wheelbarrow at 2:15 AM. A note pinned to the fountain reads: 'More foxgloves please.'"
 image: /images/2026-04-10-midnight-gardener.png
-imageCaption: "The municipal planters of Caldecott Square, filled overnight with primroses and foxgloves by an unknown hand."
-summary: "For the third time in three weeks, the municipal planters of Caldecott Square have been filled overnight with carefully arranged wildflowers — species native to the Ashwater Valley, planted with evident skill. The Parks Department has no explanation. The night watchman at the Municipal Chamber saw a figure with a wheelbarrow at 2:15 AM. Nobody has been caught. Nobody, it seems, is trying particularly hard to catch them."
+imageCaption: "Wildflowers bloom in the municipal planters of Caldecott Square."
 edition: "2026-04-10"
 ---
 
-On Monday morning, Nora Quinlan — superintendent of the Bobington Parks Department, age 52, twenty-three years in municipal service — arrived at Caldecott Square at her customary time of 7:15 AM and found that somebody had, once again, done her job for her.
+Somebody is gardening in Caldecott Square, and they are doing it in the dark.
 
-The four cast-iron planters that frame the square's central fountain — municipal property, planted each April by the Parks Department with regulation marigolds — were full of primroses and foxgloves. Wild primroses, pale yellow, arranged in deliberate clusters. Foxgloves rising from the centre of each planter, tall and slightly improbable against the backdrop of the Midtown tram interchange.
+The first planting appeared on the morning of 24 March: cornflowers, bright as a clear sky, growing from the cast-iron municipal planters that line the south side of the square. The planters — twelve in total, hexagonal, each weighing approximately 200 kilograms — have contained geraniums since 2019, replaced annually by the Parks Department in May.
 
-It was the third such planting in three weeks.
+They no longer contain geraniums.
 
-On the morning of 24 March, the planters had been filled with cornflowers — the vivid blue variety that grows wild in the meadows above the Ashwater Valley. On 1 April, wild violets. Now primroses and foxgloves.
+On 1 April, the cornflowers were joined by wild violets. On 7 April — Monday morning, this week — the violets were supplemented by primroses and foxgloves.
 
-All native species. All planted with the kind of care that suggests knowledge — the foxgloves positioned where they would catch the morning light, the primroses clustered at the edges where the soil is deepest. The work of someone who knows how plants grow and has opinions about where they ought to.
+All native species. All planted with care, in fresh compost, properly spaced and watered. The foxgloves, in particular, are striking: tall, bell-shaped, and quite clearly the work of someone who knows what they are doing.
 
-"I am not angry," said Mrs Quinlan, who was standing beside the fountain with a watering can and an expression that might generously be described as conflicted. "The planting is excellent. The foxgloves are healthy. The soil has been properly prepared. Whoever is doing this has better equipment than we do."
+Nora Quinlan, superintendent of the Bobington Parks Department, has been in municipal service for twenty-three years. She has overseen the planting schedules for every public space in the city. She did not authorise this.
 
-She paused. "I am, however, the superintendent of parks, and nobody consulted me."
+"It is unauthorised horticultural activity," she said, standing beside Planter Six on Wednesday afternoon and examining a foxglove with what appeared to be a mixture of professional disapproval and personal admiration. "The municipal planting programme follows a schedule approved by the Municipal Amenities Committee. This is not on the schedule."
 
-The night watchman at the Municipal Chamber — the only building overlooking the square that is occupied after midnight — reported seeing a figure with a wheelbarrow crossing the square at approximately 2:15 AM on Monday. The figure was wearing a broad hat. The wheelbarrow appeared to contain plants. The watchman did not intervene.
+She was asked whether the flowers should be removed.
 
-"It didn't seem like a crime," he said. "It seemed like gardening."
+"They're thriving," she said, after a pause. "Whoever is doing this has better equipment than we do."
 
-The Metropolitan Constabulary confirmed that no complaint has been filed. Mrs Quinlan filed a report with the Parks Department, which has been classified, she said, as "unauthorised horticultural activity." She is not aware of any precedent.
+The night watchman who patrols the Caldecott Square precinct, employed by the Municipal Custodian's Office, reported seeing a figure with a wheelbarrow at approximately 2:15 AM on 7 April. The figure was moving between the planters on the south side. By the time the watchman reached the square, the figure had gone. The wheelbarrow had gone. The foxgloves remained.
 
-The planters, by any objective measure, look better than they have in years. The regulation marigolds — which the Parks Department plants each spring and which die each autumn with the grim reliability of a municipal budget cycle — have been comprehensively outperformed.
+No complaint has been filed. The Municipal Amenities Committee has not been consulted. The Parks Department has not issued a formal notice.
 
-Several residents of the surrounding streets have expressed approval. A handwritten note was found pinned to the fountain railing on Tuesday morning: *More foxgloves please.*
+A note, handwritten on a small card, was found pinned to the railing of the Caldecott Square fountain on Wednesday morning. It read:
 
-"I have no intention of removing healthy plants from municipal property," Mrs Quinlan said. "But I would like to know who is responsible, if only to discuss their choice of violets. The variety they used spreads aggressively. In two years, the entire square will be purple."
+*"More foxgloves please."*
 
-She looked at the planters. "Which, admittedly, would be an improvement."
+It is unclear whether the note was left by the gardener or by an admirer.
 
-The Parks Department's regulation marigolds remain in their greenhouse in Thornhill, awaiting a planting date that may, this year, be unnecessary.
+The identity of the midnight gardener remains unknown. The flowers, in the meantime, are blooming.

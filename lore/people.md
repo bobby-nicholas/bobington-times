@@ -376,3 +376,16 @@
 - **Nora Quinlan** — Superintendent of the Bobington Parks Department, age 52. Twenty-three years in municipal service. Discovered three instances of overnight wildflower planting in Caldecott Square municipal planters (Mar-Apr 2026). Baffled but not displeased. "Whoever is doing this has better equipment than we do."
 - **Alderman Jessop** — Works Committee member. Voted against Greymoor access road (insufficient consultation).
 - **Alderman Greening** — Works Committee member. Voted against Greymoor access road. "Two farmers is not the Greymoor uplands."
+
+## New Characters (14 Apr 2026)
+- **Magistrate Constance Hathaway** — Municipal Tribunal, age 64. Nineteen years on the bench. Presided over the Crayle appeal hearing (14 Apr).
+- **Tobias Wainscott** — Junior solicitor at Crayle, Whitford & Associates. Assisted Edmond Crayle at the appeal hearing.
+
+## New Characters (18 Apr 2026)
+- **Dorothy Hesketh** — New owner of the Greystone Arms, age 49. Pulled pints at the Greystone for six years before leaving for Edgeminster in 2011. Managed two pubs in Edgeminster over fifteen years. Returned to buy the pub from Walter Trent. Takes possession 1 May 2026. Plans: repaint sign, fix cellar steps, introduce pie menu. "I grew up behind that bar."
+- **Anneke Lindström** — Sculler, Caldwell. Won National Veterans' Sculling Championship (over-55) on 18 Apr 2026 in 7 minutes 51 seconds — a course record at the Caldwell Rowing Basin.
+- **Captain Glyn Ashmore** — Race convener, National Veterans' Sculling Championship, age 72. Former national-level competitor. Eleven years organising the Veterans' Championship at the Caldwell Rowing Basin.
+- **Martha Grieve** — Schoolteacher, Dunvale, age 55. Drove to Nettleford's Polytechnic lecture (15 Apr). Asked about effects on the water table.
+- **Felix Ashton-Cross** — Railway superintendent, Ashwick-to-Caldwell corridor, age 52. Began career as signal operator at Fernwich Junction in 1992. Proposed and secured Railway Board approval for overnight Bobington–Caldwell service, first since 2006. "Give them a bed on a train and they will come."
+- **Winifred Hale** — Physician, Caldwell, age 44. Commutes to Bobington General Hospital twice monthly for consulting work. Supported overnight rail service. "A sleeper berth for seven florins is cheaper than a hotel room and better for my patients."
+- **Cornelius Pratt** — Railway Board member, age 71. Sole dissenting vote on overnight Bobington–Caldwell service. Concerned about refurbishment costs and low ridership history.
